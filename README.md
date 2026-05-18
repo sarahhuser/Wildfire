@@ -38,4 +38,9 @@ jupyter lab
 ```
 
 ## Execution Order:
-First run the data_cleaning.ipynb notebook. Secondly run the classes_histogram.ipynb notebook. Then run the interactive_map.ipynb notebook. Afterwards run the area.ipynb notebook. Lastely run the choropleth_map.ipynb notebook.
+The notebooks have to be run in the following order:
+1. `data_cleaning.ipynb`
+2. `classes_histogram.ipynb`
+3. `interactive_map.ipynb`
+4. `area.ipynb`
+5. `choropleth_map.ipynb`
