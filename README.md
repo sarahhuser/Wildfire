@@ -3,7 +3,7 @@ SDS210 course project
 
 ## Project Overview
 This project analyzes wildfire activity in Canada for the time period 2014 - 2023.
-Wildfire frequency and percentage of burnt area for each province and territory will be analyzed.
+The analysis focuses on wildfire frequency and percentage of burnt area for each province and territory.
 
 ### Research Question
 How have the number of wildfires in Canada changed between the period 2014 – 2018 and 2019 – 2023, and how have burnt areas across provinces and territories of Canada changed between 2014 and 2023?
