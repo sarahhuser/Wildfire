@@ -18,10 +18,23 @@ The raw open data used in this project:
 ### Requirements
 - Anaconda
 - Python 3.13.11
+
 ### Required libraries
 ```bash
-conda env create -f environment.yml
-conda activate wildfire-analyis
+conda install pandas
+conda install geopandas
+conda install folium
+conda install mathplotlib
+```
+### Running the Project
+1. Open Anaconda Promt
+2. Navigate to the project folder
+```bash
+cd path/to/project/Wildfire
+```
+3. Start JupyterLab
+```bash
+jupyter lab
 ```
 
 ## Execution Order:
