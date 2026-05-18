@@ -8,19 +8,29 @@ Wildfire frequency and percentage of burnt area for each province and territory 
 ### Research Question
 How have the number of wildfires in Canada changed between the period 2014 – 2018 and 2019 – 2023, and how have burnt areas across provinces and territories of Canada changed between 2014 and 2023?
 
-### Main Outputs
-This project will generate:
-- Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
-- Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
-- Choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
-
-## Data Sources
+## Data
+### Sources
 The raw open data used in this project:
 
 |Description|Source|URL|Information|
 |---|---|---|---|
 |Wildfire data of Canada|Government of Canada|[Link Wildfire data](https://cwfis.cfs.nrcan.gc.ca/en/catalogue/results/7355c08f-1590-41cc-a751-8856afaa5959)| Used file: National Fire Database - All Years - CSV|
 |Provinces and Territories of Canada|Government of Canada|[Link Province & Territories data](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?Year=21)|Boundary file options: Language - English, Type - Cartographic Boundary Files (CBF), Administrative boundaries - Provinces/territories, Format - Shapefile (.shp)|
+
+### Storage
+- `data/raw/` contains the original downloaded datasets
+- `data/processed/` contains the processed data
+- `data/processed/wildfire_map/` contains the data needed for the ineractive point map
+- `data/processed/choropleth_map/` contains the data needed for the interactive choropleth map
+
+## Outputs
+This project will generate:
+- Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
+- Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
+- Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
+
+### Storage
+Exported maps and figures are stored in `outputs/`
 
 ## Setup Instructions
 ### Requirements
@@ -51,3 +61,5 @@ The notebooks have to be run in the following order:
 3. `interactive_map.ipynb`
 4. `area.ipynb`
 5. `choropleth_map.ipynb`
+
+
