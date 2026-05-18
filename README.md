@@ -15,5 +15,14 @@ The raw open data used in this project:
 
 ## Setup Instructions:
 
+### Requirements
+- Anaconda
+- Python 3.13.11
+### Required libraries
+```bash
+conda env create -f environment.yml
+conda activate wildfire-analyis
+```
+
 ## Execution Order:
 First run the data_cleaning.ipynb notebook. Secondly run the classes_histogram.ipynb notebook. Then run the interactive_map.ipynb notebook. Afterwards run the area.ipynb notebook. Lastely run the choropleth_map.ipynb notebook.
