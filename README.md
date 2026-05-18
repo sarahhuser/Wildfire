@@ -42,6 +42,7 @@ Exported maps and figures are stored in `outputs/`
 ```bash
 conda install pandas
 conda install geopandas
+conda install shapely
 conda install folium
 conda install matplotlib
 ```
