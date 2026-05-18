@@ -13,7 +13,7 @@ The raw open data used in this project:
 |Wildfire data of Canada|Government of Canada|[Link Wildfire data](https://cwfis.cfs.nrcan.gc.ca/en/catalogue/results/7355c08f-1590-41cc-a751-8856afaa5959)| Used file: National Fire Database - All Years - CSV|
 |Provinces and Territories of Canada|Government of Canada|[Link Province & Territories data](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?Year=21)|Boundary file options: Language - English, Type - Cartographic Boundary Files (CBF), Administrative boundaries - Provinces/territories, Format - Shapefile (.shp)| so this should be enough?
 
-## Setup Instructions:
+## Setup Instructions
 
 ### Requirements
 - Anaconda
@@ -24,10 +24,10 @@ The raw open data used in this project:
 conda install pandas
 conda install geopandas
 conda install folium
-conda install mathplotlib
+conda install matplotlib
 ```
 ### Running the Project
-1. Open Anaconda Promt
+1. Open Anaconda Prompt
 2. Navigate to the project folder
 ```bash
 cd path/to/project/Wildfire
