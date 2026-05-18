@@ -37,10 +37,10 @@ cd path/to/project/Wildfire
 jupyter lab
 ```
 
-## Execution Order:
+## Execution Order
 The notebooks have to be run in the following order:
 1. `data_cleaning.ipynb`
-2. `classes_histogram.ipynb`
+2. `classes_histograms.ipynb`
 3. `interactive_map.ipynb`
 4. `area.ipynb`
 5. `choropleth_map.ipynb`
