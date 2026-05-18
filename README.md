@@ -1,5 +1,5 @@
 # Wildfires in Canada
-sds210 project
+SDS210 course project
 
 ## Project Overview
 This project analyzes wildfire activity in Canada for the time period 2014 - 2023.
