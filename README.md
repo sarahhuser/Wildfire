@@ -1,11 +1,19 @@
 # Wildfires in Canada
 sds210 project
 
+## Project Overview
+This project analyzes wildfire activity in Canada for the time period 2014 - 2023.
+Wildfire frequency 
 ## Research Question
 How have the number of wildfires in Canada changed between the periods 2014 – 2018 and 2019 – 2023, and how have burnt areas across provinces and territories of Canada changed between 2014 and 2023?
 
-## Data Sources
+## Main Outputs
+This project will generate:
+- Wildfire frequency histograms for the time periods 2014 - 2018 and 2019 - 2023
+- Ineractive wildfire maps showing where the fires are located
+- Choropleth map showing 
 
+## Data Sources
 The raw open data used in this project:
 
 |Description|Source|URL|Information|
