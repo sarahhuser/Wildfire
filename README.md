@@ -26,6 +26,7 @@ The raw open data used in this project:
 ## Outputs
 This project will generate:
 - Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
+- Static Wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
 - Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
 - Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
 
@@ -61,5 +62,3 @@ The notebooks have to be run in the following order:
 3. `interactive_map.ipynb`
 4. `area.ipynb`
 5. `choropleth_map.ipynb`
-
-
