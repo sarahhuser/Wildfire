@@ -51,8 +51,8 @@ Exported maps and figures are stored in `outputs/`
 |fire_14_23.csv|Cleaned wildfire data for the years 2014 - 2023|`data/processed/`|
 |canada_4326.gpkg|Provinces and Territories of Canada data with crs EPSG:4326|`data/processed/`|
 |fire_tot.scv|Cleaned wildfire data for 2014 - 2023 including a column with size|`data/processed/`|
-|wildfire_14_18.csv|Wildfire data for the year 2014 - 2018|`data/processed/wildfire_map/`|
-|wildfire_19_23.csv|Wildfire data for the year 2019 - 2023|`data/processed/wildfire_map/`|
+|wildfire_14_18.csv|Wildfire data for the year 2014 - 2018 including a column with size|`data/processed/wildfire_map/`|
+|wildfire_19_23.csv|Wildfire data for the year 2019 - 2023 including a column with size|`data/processed/wildfire_map/`|
 |canada_provinces.gpkg|Provinces and Territories of Canada data with crs EPSG:3347, but column "PRENAME" now as "province"|`data/processed/choropleth_map/`|
 |burn_area.csv|Wildfire data including for each year and each province the area of the province (in hectare), the area burnt down by wildfire (in hectare) and the percentage of the area burnt down by wildfires|`data/processed/wildfire_map/`| 
 
