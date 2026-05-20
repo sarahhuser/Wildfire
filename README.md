@@ -32,16 +32,29 @@ To ensure spatial compatibility between datasets
 and enable interactive web mapping with Folium, the Provinces and Territories of Canada data was
 reprojected to EPSG:4326.
 
-
 ## Outputs
+
+### Visible outputs
 This project will generate:
 - Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
-- Static wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
-- Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
+- Static wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
+- Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
 - Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
 
-### Storage
 Exported maps and figures are stored in `outputs/`
+
+### Data outputs
+
+|name of file|Inforamtion|Place of storage|
+|---|---|---|---|
+|fire_clean.csv|Cleaned wildfire data|`data/processed/`|
+|fire_14_23.csv|Cleaned wildfire data for the years 2014 - 2023|`data/processed/`|
+|canada_4326.gpkg|Provinces and Territories of Canada data with crs EPSG:4326|`data/processed/`|
+|fire_tot.scv|Cleaned wildfire data for 2014 - 2023 including a column with size|`data/processed/`|
+|wildfire_14_18.csv|Wildfire data for the year 2014 - 2018|`data/processed/wildfire_map/`|
+|wildfire_19_23.csv|Wildfire data for the year 2019 - 2023|`data/processed/wildfire_map/`|
+|canada_provinces.gpkg|Provinces and Territories of Canada data with crs EPSG:3347, but column "PRENAME" now as "province"|`data/processed/choropleth_map/`|
+|burn_area.csv|Wildfire data including for each year and each province the area of the province (in hectare), the area burnt down by wildfire (in hectare) and the percentage of the area burnt down by wildfires|`data/processed/wildfire_map/`| 
 
 ## Setup Instructions
 ### Requirements
