@@ -23,10 +23,20 @@ The raw open data used in this project:
 - `data/processed/wildfire_map/` contains the data needed for the ineractive point map
 - `data/processed/choropleth_map/` contains the data needed for the interactive choropleth map
 
+### Coordinate Reference System (CRS)
+The original Provinces and Territories of Canada data is provided in EPSG:3347.
+
+The Wildfire data of Canada uses geographic coordinates (latitude and longitude) in EPSG:4326.
+
+To ensure spatial compatibility between datasets
+and enable interactive web mapping with Folium, the Provinces and Territories of Canada data was
+reprojected to EPSG:4326.
+
+
 ## Outputs
 This project will generate:
 - Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
-- Static Wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
+- Static wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
 - Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located
 - Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
 
