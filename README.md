@@ -29,7 +29,7 @@ The original Provinces and Territories of Canada data is provided in EPSG:3347.
 The Wildfire data of Canada uses geographic coordinates (latitude and longitude) in EPSG:4326.
 
 To ensure spatial compatibility between datasets
-and enable interactive web mapping with Folium, the Provinces and Territories of Canada data was
+and enable interactive web mapping with Folium, the Provinces and Territories of Canada data has to be
 reprojected to EPSG:4326.
 
 ## Outputs
