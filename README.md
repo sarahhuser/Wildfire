@@ -45,7 +45,7 @@ Exported maps and figures are stored in `outputs/`
 
 ### Data outputs
 
-|name of file|Inforamtion|Place of storage|
+|Name of file|Information|Place of storage|
 |---|---|---|
 |fire_clean.csv|Cleaned wildfire data|`data/processed/`|
 |fire_14_23.csv|Cleaned wildfire data for the years 2014 - 2023|`data/processed/`|
