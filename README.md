@@ -100,7 +100,7 @@ cd Wildfire
 ### Step 2: Create and activate the environment
 ```bash
 conda env create -f environment.yml
-conda activate sds210-project-wildfire
+conda activate sds210-wildfire
 ```
 In the environment.yml the all required packages for this project are installed:
 - jupyter lab
@@ -111,9 +111,14 @@ In the environment.yml the all required packages for this project are installed:
 - folium
 - jenkspy 
 
-### Step 3: Raw data storage
-After downloading the raw data, as described in the table of the section data > soures make sure to store the files in the `data/raw` folder. It is important that for the Provinces and Territories of Canada data the whole zip has to be stored in the raw folder!
-Furthermore, make sure that your repository looks the same as in the section project structur!
+### Step: Open jupyter lab
+```bash
+jupyter lab
+```
+
+### Step 4: Raw data storage
+After downloading the raw data, as described in the table of the section data > soures, make sure to store the files in the `data/raw` folder. It is important that for the Provinces and Territories of Canada data the whole zip is stored in the raw folder!
+Furthermore, make sure that your repository looks the same as in the section Project Structure!
 
 ### Running the Project
 1. Open Anaconda Prompt
