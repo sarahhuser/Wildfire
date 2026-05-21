@@ -1,0 +1,11 @@
+name: sds210-wildfire
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - geopandas
+  - matplotlib
+  - jenkspy
+prefix: C:\Users\huser\miniconda3\envs\sds210-wildfire
