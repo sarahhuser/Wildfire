@@ -24,11 +24,11 @@ The raw open data used in this project:
 - `data/processed/choropleth_map/` contains the data needed for the interactive choropleth map
 
 ## Project Structure
-
+```bash
 Wildfire/
 |-- README.md
 |--  data/
-|   |-- raw/                         # Original, unmodified source files
+|   |-- raw/                         # Original, unmodified data
 |   |   |--  NFDB_point.csv
 |   |   |__ lpr_000b21a_e.zip
 |   |__ processed/                   # Processed data
@@ -55,6 +55,7 @@ Wildfire/
     |--  static_map_2019_2023
     |-- interactive_map.html
     |__ choropleth_map.html
+```
 
 ### Coordinate Reference System (CRS)
 The original Provinces and Territories of Canada data is provided in EPSG:3347.
