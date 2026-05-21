@@ -111,7 +111,7 @@ In the environment.yml the all required packages for this project are installed:
 - folium
 - jenkspy 
 
-### Step: Open jupyter lab
+### Step 3: Open jupyter lab
 ```bash
 jupyter lab
 ```
@@ -120,16 +120,6 @@ jupyter lab
 After downloading the raw data, as described in the table of the section data > soures, make sure to store the files in the `data/raw` folder. It is important that for the Provinces and Territories of Canada data the whole zip is stored in the raw folder!
 Furthermore, make sure that your repository looks the same as in the section Project Structure!
 
-### Running the Project
-1. Open Anaconda Prompt
-2. Navigate to the project folder
-```bash
-cd path/to/project/Wildfire
-```
-3. Start JupyterLab
-```bash
-jupyter lab
-```
 ## Execution Order
 The notebooks have to be run in the following order:
 1. `data_cleaning.ipynb`
