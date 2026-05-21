@@ -23,6 +23,39 @@ The raw open data used in this project:
 - `data/processed/wildfire_map/` contains the data needed for the ineractive point map
 - `data/processed/choropleth_map/` contains the data needed for the interactive choropleth map
 
+## Project Structure
+
+Wildfire/
+|-- README.md
+|--  data/
+|   |-- raw/                         # Original, unmodified source files
+|   |   |--  NFDB_point.csv
+|   |   |__ lpr_000b21a_e.zip
+|   |__ processed/                   # Processed data
+|       |--  choropleth_map/
+|       |     |-- burnt_area-csv
+|       |     |__ canada_provinces.gpkg
+|       |--  wildfire_map/
+|       |     |--  wildfire_14_18.csv
+|       |     |__ wildfire_19_23.csv
+|       |--  canada_4326.gpkg
+|       |--  fire_12_23.csv
+|       |--  fire_clean.csv
+|       |__  fire_tot.csv
+|-- notebook/
+|   |--  data_cleaning.ipynb
+|   |--  classes_histograms.ipynb
+|   |--  interactive_map.ipynb
+|   |--  area.ipynb
+|   |__  choropleth_map.ipynb
+|__ outputs/
+    |--  histogram_2014_2018.png
+    |--  histogram_2019_2023.png
+    |--  static_map_2014_2018
+    |--  static_map_2019_2023
+    |-- interactive_map.html
+    |__ choropleth_map.html
+
 ### Coordinate Reference System (CRS)
 The original Provinces and Territories of Canada data is provided in EPSG:3347.
 
