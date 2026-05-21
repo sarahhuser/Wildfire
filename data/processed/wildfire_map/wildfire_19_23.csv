@@ -1,0 +1,2249 @@
+province,fire_id,latitude,longitude,year,size_ha,cause,size
+Alberta,HWF175,57.552983,-115.553983,2023,251.8,Unknown,Very small
+Saskatchewan,23SR-LLHIR03,58.182064,-103.05088,2023,214.7,Natural,Very small
+Quebec,20231080689,50.5713,-79.3046,2023,19248.49051,Natural,Very small
+Saskatchewan,23LA-HARDY,55.622898,-106.39554,2023,314.0,Natural,Very small
+Saskatchewan,23BN-LINVALL,56.361978,-109.013426,2023,660.0,Natural,Very small
+Saskatchewan,23BN-GARSON,56.170922,-109.592501,2023,689.0,Natural,Very small
+Northwest Territories,SS080-23,60.0,-115.9914,2023,2000.0,Natural,Very small
+Saskatchewan,23LA-MCTAVISH,55.845,-105.360333,2023,7102.0,Natural,Very small
+Saskatchewan,23BN-HILLS,55.982667,-109.2232,2023,1500.0,Natural,Very small
+Alberta,HWF159,59.684617,-119.684367,2023,12059.99,Natural,Very small
+Alberta,HWF161,59.731,-119.751217,2023,200.0,Natural,Very small
+British Columbia,2023-K53294,49.771,-119.9618,2023,1116.2,Human,Very small
+Ontario,COC55,50.6355,-80.3291,2023,3835.9,Natural,Very small
+British Columbia,2023-G73406,55.6319,-121.4276,2023,1246.0,Natural,Very small
+Saskatchewan,23DB-DEER,55.841219,-103.025465,2023,656.0,Natural,Very small
+Northwest Territories,SS074-23,60.984167,-102.544333,2023,350.0,Natural,Very small
+Northwest Territories,ZF101-23,64.279433,-115.197217,2023,2382.33,Natural,Very small
+Northwest Territories,ZF100-23,63.915,-114.671383,2023,4305.0,Natural,Very small
+Northwest Territories,SS073-23,60.52395,-113.7263,2023,882.0,Natural,Very small
+Ontario,COC52,51.4104,-82.1242,2023,408.6,Natural,Very small
+British Columbia,2023-G83130,58.2204,-121.7444,2023,673.0,Natural,Very small
+British Columbia,2023-V83128,49.5076,-125.5733,2023,1217.1,Natural,Very small
+Alberta,2023WB31,59.6844,-115.2978,2023,7822.0,Natural,Very small
+Northwest Territories,2023WB30,60.455,-115.5999,2023,5088.0,Natural,Very small
+British Columbia,2023-G93120,58.7596,-127.7105,2023,700.0,Natural,Very small
+Ontario,COC53,51.5625,-84.8141,2023,1383.0,Natural,Very small
+Saskatchewan,23LA-ERROL,55.9852,-103.254533,2023,374.5,Human,Very small
+British Columbia,2023-V53075,50.5322,-124.3396,2023,262.0,Natural,Very small
+British Columbia,2023-V33029,50.3991,-122.6656,2023,410.0,Natural,Very small
+British Columbia,2023-V53027,49.7123,-123.5527,2023,415.5,Natural,Very small
+Yukon,2023OT004,59.934129,-127.74958,2023,475.74,Natural,Very small
+British Columbia,2023-C53189,51.6808,-124.994,2023,200.0,Natural,Very small
+British Columbia,2023-R13068,53.4286,-126.9397,2023,419.0,Natural,Very small
+British Columbia,2023-R13093,53.3021,-126.7535,2023,913.0,Natural,Very small
+British Columbia,2023-C53002,52.0622,-123.5597,2023,1235.3,Human,Very small
+Yukon,2023WL008,61.579784,-129.990649,2023,250.0,Natural,Very small
+British Columbia,2023-C52978,51.5811,-125.0824,2023,16842.0,Natural,Very small
+British Columbia,2023-V33258,50.5959,-122.7344,2023,300.0,Natural,Very small
+British Columbia,2023-G52955,55.0552,-125.641,2023,1590.6,Natural,Very small
+British Columbia,2023-G62952,55.5756,-123.5436,2023,205.06,Natural,Very small
+British Columbia,2023-G92947,59.2269,-128.0591,2023,7301.75,Natural,Very small
+British Columbia,2023-G92940,59.2838,-121.8901,2023,71002.7,Natural,Small
+British Columbia,2023-K73066,50.3079,-122.044,2023,480.37,Natural,Very small
+Quebec,20231080663,51.0539,-79.1325,2023,300.0,Natural,Very small
+Northwest Territories,ZF098-23,64.36555,-119.0525,2023,274.0,Natural,Very small
+Northwest Territories,ZF099-23,63.31555,-116.6845,2023,572.0,Natural,Very small
+Manitoba,NO129,57.3806,-101.626,2023,350.0,Natural,Very small
+British Columbia,2023-V93289,51.7347,-125.8142,2023,433.0,Natural,Very small
+Saskatchewan,23SR-EISEN2,59.110383,-104.8664,2023,1445.0,Natural,Very small
+Alberta,2023WB29,58.0812,-113.2374,2023,5900.0,Natural,Very small
+British Columbia,2023-VA2884,52.2916,-126.0645,2023,900.0,Natural,Very small
+Saskatchewan,23LA-KINO,57.081448,-102.112563,2023,2238.0,Natural,Very small
+Saskatchewan,23SR-DEBUS2,59.012867,-109.621583,2023,4816.0,Natural,Very small
+British Columbia,2023-K52813,49.3014,-119.7091,2023,2043.8,Human,Very small
+British Columbia,2023-K42815,50.0275,-119.4413,2023,372.6,Natural,Very small
+British Columbia,2023-V82787,49.5919,-126.2774,2023,425.0,Unknown,Very small
+British Columbia,2023-K52808,49.9343,-119.4611,2023,733.0,Unknown,Very small
+British Columbia,2023-V52804,50.6693,-123.9888,2023,302.0,Natural,Very small
+British Columbia,2023-K52767,49.9081,-119.6328,2023,13970.4,Unknown,Very small
+British Columbia,2023-VA2752,52.8213,-126.1975,2023,330.0,Natural,Very small
+Yukon,2023OC031,67.015282,-136.476263,2023,8833.09,Unknown,Very small
+Yukon,2023OC029,67.335411,-139.888516,2023,3618.86,Natural,Very small
+Yukon,2023OC030,67.463174,-136.682325,2023,475.0,Unknown,Very small
+British Columbia,2023-V12722,49.1089,-121.2662,2023,1517.7,Natural,Very small
+Northwest Territories,FS028-23,61.434667,-120.5569,2023,328.0,Human,Very small
+Manitoba,NO123,58.575,-101.253,2023,230.0,Natural,Very small
+Manitoba,NO121,57.2531,-93.4672,2023,333.0,Natural,Very small
+Northwest Territories,ZF097-23,62.767217,-103.574433,2023,517.2,Natural,Very small
+Northwest Territories,2023TH5,62.4854,-110.4762,2023,314.0,Unknown,Very small
+British Columbia,2023-K72705,50.3647,-122.0244,2023,1015.5,Natural,Very small
+Manitoba,NO117,56.8086,-100.829,2023,853.0,Natural,Very small
+Northwest Territories,SS069-23,60.019783,-112.673983,2023,43000.0,Natural,Small
+Yukon,2023MA049,63.911283,-132.949933,2023,990.27,Unknown,Very small
+Yukon,2023DA057,63.376267,-139.616783,2023,1790.01,Natural,Very small
+Yukon,2023MA048,64.271108,-134.2267,2023,557.89,Unknown,Very small
+Yukon,2023MA050,65.422167,-135.799633,2023,7117.23,Unknown,Very small
+Yukon,2023DA058,64.552581,-140.343781,2023,421.54,Unknown,Very small
+Northwest Territories,FS027-23,63.091667,-124.0185,2023,760.0,Natural,Very small
+British Columbia,2023-G92594,59.9374,-127.762,2023,316.5,Natural,Very small
+Yukon,2023MA047,63.1636,-135.178983,2023,479.0,Unknown,Very small
+Northwest Territories,VQ046-23,64.390683,-120.814217,2023,6290.0,Natural,Very small
+Northwest Territories,VQ044-23,65.73945,-117.95255,2023,1089.0,Natural,Very small
+Northwest Territories,ZF093-23,62.673333,-113.3007,2023,513.0,Natural,Very small
+British Columbia,2023-N12546,50.1617,-114.995,2023,2512.0,Natural,Very small
+British Columbia,2023-N72730,50.0903,-116.757,2023,463.0,Natural,Very small
+British Columbia,2023-N12589,49.2067,-115.0082,2023,1909.0,Natural,Very small
+British Columbia,2023-N72601,50.2953,-117.1051,2023,228.0,Natural,Very small
+British Columbia,2023-N72824,50.123,-116.6149,2023,383.0,Natural,Very small
+British Columbia,2023-N72833,50.1619,-117.139,2023,366.0,Natural,Very small
+Yukon,2023XY024,61.6115,-134.6355,2023,221.1,Unknown,Very small
+Yukon,2023RR013,62.450667,-131.000833,2023,382.75,Unknown,Very small
+Yukon,2023TE001,60.7585,-133.753167,2023,636.06,Unknown,Very small
+British Columbia,2023-R92525,59.4578,-132.8638,2023,1171.95,Natural,Very small
+Saskatchewan,23LA-FORD,57.437417,-102.725867,2023,250.0,Natural,Very small
+Saskatchewan,23LA-CAIRNS,57.6443,-103.340667,2023,564.9,Natural,Very small
+Manitoba,NO115,52.9847,-95.1306,2023,239.2,Natural,Very small
+Yukon,2023MA040,65.388967,-135.532033,2023,2162.31,Unknown,Very small
+Yukon,2023MA039,65.554983,-135.424267,2023,5410.66,Unknown,Very small
+Yukon,2023MA044,65.023871,-134.817319,2023,557.3,Unknown,Very small
+Yukon,2023MA043,65.410933,-133.381767,2023,1999.97,Unknown,Very small
+Yukon,2023MA042,65.676892,-135.907609,2023,3831.65,Unknown,Very small
+Yukon,2023MA038,65.685483,-135.040167,2023,11651.05,Unknown,Very small
+Yukon,2023MA045,64.181663,-134.920768,2023,6021.66,Unknown,Very small
+Yukon,2023MA041,65.677865,-135.754957,2023,1399.02,Unknown,Very small
+Northwest Territories,FS025-23,63.500833,-121.386333,2023,12000.0,Natural,Very small
+British Columbia,2023-N22508,50.4956,-115.3742,2023,711.0,Natural,Very small
+Ontario,RED70,52.3064,-94.8182,2023,1178.8,Natural,Very small
+Yukon,2023OC027,68.397133,-138.79745,2023,549.79,Natural,Very small
+Yukon,2023DA055,63.692483,-140.369462,2023,375.84,Natural,Very small
+Northwest Territories,SS067-23,60.018817,-118.325867,2023,430000.0,Natural,Large
+British Columbia,2023-V82558,49.7641,-125.7,2023,2320.0,Natural,Very small
+Ontario,HEA18,50.1384,-82.3944,2023,1607.5,Natural,Very small
+Yukon,2023DA052,64.135967,-137.834833,2023,926.62,Natural,Very small
+Yukon,2023MA036,63.7793,-136.635117,2023,2794.87,Unknown,Very small
+Yukon,2023DA054,65.439383,-136.036617,2023,1557.09,Unknown,Very small
+Yukon,2023DA053,65.807476,-136.065396,2023,520.51,Unknown,Very small
+Yukon,2023MA034,63.60305,-136.166683,2023,912.03,Natural,Very small
+Manitoba,2023WP1,57.2509,-93.4627,2023,450.0,Natural,Very small
+Yukon,2023CA009,61.766872,-135.106274,2023,3939.56,Unknown,Very small
+Yukon,2023DA050,63.938183,-140.282867,2023,582.59,Unknown,Very small
+Yukon,2023DA051,64.03465,-137.95465,2023,3020.49,Unknown,Very small
+Yukon,2023CA010,62.655817,-135.959617,2023,823.06,Unknown,Very small
+Northwest Territories,ZF088-23,64.783333,-115.193,2023,3000.0,Natural,Very small
+Northwest Territories,SS063-23,61.094067,-105.40955,2023,300.0,Natural,Very small
+Northwest Territories,SS052-23,60.766667,-116.8,2023,252253.0,Natural,Large
+Northwest Territories,VQ029-23,64.622967,-124.87775,2023,266.0,Natural,Very small
+Northwest Territories,ZF090-23,65.057667,-115.4325,2023,7000.0,Natural,Very small
+Northwest Territories,SS062-23,61.194083,-106.173133,2023,2000.0,Natural,Very small
+Northwest Territories,VQ047-23,63.623683,-125.2411,2023,5865.0,Natural,Very small
+Northwest Territories,ZF091-23,65.120833,-116.10085,2023,2600.0,Natural,Very small
+Northwest Territories,SS066-23,61.530817,-105.94815,2023,2000.0,Natural,Very small
+Northwest Territories,SS064-23,61.296917,-104.109533,2023,7500.0,Natural,Very small
+Northwest Territories,ZF089-23,64.872333,-115.4225,2023,4100.0,Natural,Very small
+Northwest Territories,SS065-23,61.401967,-104.759667,2023,2000.0,Natural,Very small
+Northwest Territories,ZF094-23,64.738883,-118.813333,2023,3800.0,Natural,Very small
+Northwest Territories,ZF085-23,62.18555,-113.386667,2023,73109.17,Natural,Small
+Northwest Territories,ZF081-23,65.520333,-114.308333,2023,3000.0,Natural,Very small
+British Columbia,2023-N42390,51.5235,-117.5588,2023,644.0,Natural,Very small
+Saskatchewan,23DB-LAIRD,56.232583,-102.134717,2023,506.0,Natural,Very small
+Quebec,20231080643,56.7081,-66.9035,2023,1265.03059,Natural,Very small
+Yukon,2023MA033,63.506,-135.822633,2023,5036.66,Natural,Very small
+Northwest Territories,VQ036-23,66.017033,-125.542133,2023,4000.0,Natural,Very small
+Northwest Territories,ZF083-23,64.416667,-118.90555,2023,11412.24,Natural,Very small
+Northwest Territories,ZF086-23,63.491333,-113.5075,2023,15346.54,Natural,Very small
+Northwest Territories,ZF080-23,64.454167,-115.202667,2023,22806.82,Natural,Very small
+Northwest Territories,ZF092-23,63.556667,-111.994433,2023,8796.53,Natural,Very small
+Northwest Territories,VQ039-23,65.369917,-125.279483,2023,643.0,Natural,Very small
+British Columbia,2023-G92498,58.5786,-120.9371,2023,275054.7,Natural,Large
+British Columbia,2023-N52393,50.3582,-117.6146,2023,868.0,Natural,Very small
+Yukon,2023MA032,63.602133,-135.027967,2023,527.14,Unknown,Very small
+Northwest Territories,VQ037-23,66.6366,-127.456183,2023,1185.09,Natural,Very small
+Northwest Territories,ZF087-23,64.450833,-111.4855,2023,1100.0,Natural,Very small
+British Columbia,2023-N72365,50.1718,-116.7934,2023,479.0,Natural,Very small
+British Columbia,2023-N22370,50.9437,-116.4795,2023,960.0,Natural,Very small
+British Columbia,2023-N72419,50.742,-117.0683,2023,519.0,Natural,Very small
+British Columbia,2023-N72369,50.8046,-117.3171,2023,890.0,Natural,Very small
+British Columbia,2023-N52372,50.4053,-117.7668,2023,200.0,Natural,Very small
+Saskatchewan,23LA-MULLIN,57.5828,-103.348433,2023,716.0,Natural,Very small
+Manitoba,NO106,56.9414,-99.1797,2023,563.1,Natural,Very small
+Yukon,2023OC017,68.080404,-138.434946,2023,68201.82,Unknown,Small
+Yukon,2023DA038,65.917283,-138.076333,2023,3570.42,Unknown,Very small
+Yukon,2023OC026,67.775724,-139.06673,2023,26367.0,Unknown,Small
+Yukon,2023OC010,67.313087,-139.732345,2023,509.22,Unknown,Very small
+Yukon,2023OC024,66.253136,-139.038494,2023,17574.17,Unknown,Very small
+Yukon,2023DA042,65.450033,-136.650333,2023,289.8,Unknown,Very small
+Yukon,2023DA045,65.398123,-136.819642,2023,2937.22,Unknown,Very small
+Yukon,2023OC018,66.027432,-135.596068,2023,17001.36,Unknown,Very small
+Yukon,2023OC009,67.532533,-139.676667,2023,416.31,Natural,Very small
+Yukon,2023DA043,65.383333,-136.594515,2023,590.37,Unknown,Very small
+Yukon,2023DA041,65.567633,-136.681,2023,442.6,Unknown,Very small
+Yukon,2023OC020,66.817032,-136.83334,2023,8700.0,Unknown,Very small
+Yukon,2023OC011,67.785928,-140.392042,2023,6359.14,Unknown,Very small
+Yukon,2023OC012,67.708262,-139.89993,2023,824.0,Unknown,Very small
+Yukon,2023OC015,67.272133,-137.73987,2023,1105.24,Unknown,Very small
+Yukon,2023OC019,66.838545,-137.398577,2023,9675.89,Unknown,Very small
+Yukon,2023OC014,67.528806,-138.278775,2023,4661.76,Unknown,Very small
+Yukon,2023DA044,65.263311,-136.47372,2023,973.75,Unknown,Very small
+Yukon,2023OC021,66.760242,-136.729634,2023,13668.91,Unknown,Very small
+Yukon,2023OC016,67.959885,-138.61084,2023,16116.0,Unknown,Very small
+Northwest Territories,ZF078-23,63.13387443,-107.6224221,2023,1000.0,Natural,Very small
+Northwest Territories,ZF067-23,64.4625,-113.122167,2023,342.0,Natural,Very small
+Northwest Territories,ZF076-23,62.272217,-104.927767,2023,250.0,Natural,Very small
+Northwest Territories,ZF062-23,65.158333,-109.822167,2023,2700.0,Natural,Very small
+Northwest Territories,ZF072-23,63.625167,-115.998333,2023,22285.96,Natural,Very small
+Northwest Territories,ZF071-23,64.470833,-114.679167,2023,800.0,Natural,Very small
+Northwest Territories,ZF059-23,64.451667,-107.385,2023,300.0,Natural,Very small
+Northwest Territories,ZF061-23,65.158333,-109.934167,2023,1300.0,Natural,Very small
+Northwest Territories,ZF070-23,64.425,-114.475,2023,2179.0,Natural,Very small
+Northwest Territories,EV019-23,67.592,-130.609333,2023,9000.0,Natural,Very small
+Northwest Territories,ZF064-23,64.854,-114.641667,2023,2100.0,Natural,Very small
+Northwest Territories,VQ028-23,64.54985,-125.545583,2023,5000.0,Natural,Very small
+Northwest Territories,ZF073-23,63.793333,-115.979167,2023,12338.95,Natural,Very small
+Northwest Territories,ZF066-23,64.7325,-115.986667,2023,25063.37,Natural,Small
+Northwest Territories,ZF069-23,64.361,-114.729167,2023,7132.0,Natural,Very small
+Yukon,2023VU1,68.4036,-138.8071,2023,600.0,Unknown,Very small
+British Columbia,2023-K52318,49.0011,-119.5057,2023,7060.6,Unknown,Very small
+Saskatchewan,23BN-BROAD,56.629214,-108.359585,2023,1645.0,Natural,Very small
+Saskatchewan,23BN-BENT,56.71475,-108.353717,2023,1371.0,Natural,Very small
+Yukon,2023DA024,64.610467,-139.81565,2023,1028.67,Unknown,Very small
+Yukon,2023DA027,65.577067,-138.015667,2023,800.0,Unknown,Very small
+Yukon,2023DA029,63.8365,-137.810667,2023,11683.83,Unknown,Very small
+Yukon,2023MA029,64.155833,-135.8625,2023,351.0,Unknown,Very small
+Yukon,2023MA030,63.769983,-135.9885,2023,399.0,Unknown,Very small
+Yukon,2023DA028,65.861501,-137.15107,2023,626.78,Unknown,Very small
+Northwest Territories,ZF063-23,64.941667,-114.258333,2023,3300.0,Natural,Very small
+Saskatchewan,23SR-PREMIER,59.833133,-106.16583,2023,493.0,Natural,Very small
+Yukon,2023MA027,64.03545,-136.59915,2023,297.1,Unknown,Very small
+Yukon,2023DA017,63.879796,-139.370332,2023,1105.4,Natural,Very small
+Yukon,2023MA026,63.761733,-133.866833,2023,1624.32,Unknown,Very small
+Northwest Territories,SS058-23,60.197617,-106.355067,2023,8000.0,Natural,Very small
+Northwest Territories,SS059-23,60.2394,-106.809117,2023,500.0,Natural,Very small
+Northwest Territories,SS055-23,60.44355,-108.101417,2023,10000.0,Natural,Very small
+Northwest Territories,VQ027-23,65.678133,-127.605983,2023,11000.0,Natural,Very small
+Northwest Territories,VQ030-23,67.779583,-129.701883,2023,25000.0,Natural,Small
+Northwest Territories,SS056-23,60.244567,-108.11215,2023,21000.0,Natural,Very small
+Northwest Territories,VQ034-23,65.934783,-129.8975,2023,12000.0,Natural,Very small
+Northwest Territories,SS057-23,60.026683,-106.992,2023,3700.0,Natural,Very small
+Northwest Territories,ZF056-23,65.430833,-115.251667,2023,600.0,Natural,Very small
+Northwest Territories,SS053-23,60.179,-107.661583,2023,325.0,Natural,Very small
+Northwest Territories,VQ038-23,64.71735,-121.2397,2023,9000.0,Natural,Very small
+Northwest Territories,ZF052-23,65.919167,-116.941667,2023,20279.58,Natural,Very small
+Northwest Territories,VQ033-23,66.0378,-130.074,2023,11000.0,Natural,Very small
+Northwest Territories,SS054-23,60.0747,-106.24215,2023,5500.0,Natural,Very small
+Northwest Territories,ZF054-23,65.55,-115.804167,2023,5400.0,Natural,Very small
+Manitoba,NO104,58.8442,-101.107,2023,450.0,Natural,Very small
+Ontario,COC49,50.5531,-80.7494,2023,10194.7,Natural,Very small
+Yukon,2023DA014,65.948833,-137.311167,2023,21418.49,Natural,Very small
+Yukon,2023OC007,66.379333,-136.647333,2023,5673.67,Natural,Very small
+Yukon,2023DA015,65.914,-137.3595,2023,12500.0,Natural,Very small
+Northwest Territories,ZF049-23,63.5625,-112.2884,2023,1591.69,Natural,Very small
+Northwest Territories,EV020-23,68.3375,-130.368,2023,3000.0,Natural,Very small
+Northwest Territories,VQ025-23,66.992717,-128.746967,2023,1900.0,Natural,Very small
+Northwest Territories,EV021-23,68.3255,-130.671667,2023,3000.0,Natural,Very small
+Northwest Territories,EV018-23,67.842167,-131.1755,2023,224.0,Natural,Very small
+Northwest Territories,EV026-23,67.973167,-131.019833,2023,300.0,Natural,Very small
+Northwest Territories,VQ032-23,66.173783,-130.413433,2023,11000.0,Natural,Very small
+Northwest Territories,EV025-23,67.6925,-130.087333,2023,7000.0,Natural,Very small
+Northwest Territories,EV016-23,68.086333,-132.359333,2023,18000.0,Natural,Very small
+Northwest Territories,VQ042-23,67.900917,-128.011633,2023,200.0,Natural,Very small
+Northwest Territories,VQ035-23,66.979967,-128.999133,2023,2907.0,Natural,Very small
+Northwest Territories,VQ026-23,66.929567,-128.535917,2023,10400.0,Natural,Very small
+Northwest Territories,VQ031-23,67.986783,-127.434333,2023,307.0,Natural,Very small
+Northwest Territories,2023TH4,62.3408,-109.1399,2023,1507.0,Unknown,Very small
+Saskatchewan,23SR-MANSON,58.615433,-103.240033,2023,500.1,Natural,Very small
+Saskatchewan,23SR-HAMIL,58.283733,-104.214783,2023,11740.7,Natural,Very small
+Saskatchewan,23SR-HELMER,59.007364,-107.430436,2023,4381.2,Natural,Very small
+Northwest Territories,SS050-23,60.841067,-110.3106,2023,1396.0,Natural,Very small
+British Columbia,2023-G32441,52.277,-119.374,2023,231.0,Natural,Very small
+Saskatchewan,23LA-NICOLE,55.904871,-105.559947,2023,1056.0,Natural,Very small
+Saskatchewan,23SR-EISEN,59.090283,-104.97345,2023,3106.5,Natural,Very small
+Manitoba,NO097,54.5494,-96.5622,2023,430.0,Natural,Very small
+Yukon,2023MA022,63.496861,-132.841242,2023,555.66,Unknown,Very small
+Northwest Territories,EV014-23,68.5205,-133.1005,2023,35583.0,Natural,Small
+Alberta,MWF055,59.287383,-110.89775,2023,1653.9,Natural,Very small
+Ontario,COC46,50.9907,-85.0603,2023,1473.9,Natural,Very small
+Yukon,2023CA005,62.9816,-134.404333,2023,830.72,Natural,Very small
+Yukon,2023MA020,63.752601,-132.29139,2023,621.04,Natural,Very small
+Yukon,2023MA016,64.08295,-132.398183,2023,432.0,Natural,Very small
+Yukon,2023MA015,64.174842,-132.671654,2023,10108.17,Natural,Very small
+Yukon,2023MA018,63.132165,-132.844643,2023,1788.19,Natural,Very small
+Yukon,2023DA010,63.445925,-140.420342,2023,621.08,Natural,Very small
+Yukon,2023MA017,63.563083,-133.95665,2023,963.93,Natural,Very small
+Yukon,2023MA019,63.11085,-134.796333,2023,843.61,Natural,Very small
+Yukon,2023OC006,66.772196,-137.309415,2023,2352.0,Unknown,Very small
+Yukon,2023MA014,64.100413,-133.526893,2023,454.49,Unknown,Very small
+Yukon,2023DA009,64.009233,-140.6619,2023,398.92,Natural,Very small
+Yukon,2023MA021,65.354233,-134.7034,2023,7868.24,Natural,Very small
+Northwest Territories,ZF048-23,62.4296,-105.9499,2023,678.0,Natural,Very small
+British Columbia,2023-N22243,50.5343,-116.2428,2023,3918.5,Natural,Very small
+British Columbia,2023-N22240,50.2737,-115.6343,2023,5419.6,Natural,Very small
+British Columbia,2023-N52251,50.6177,-117.2668,2023,1038.0,Natural,Very small
+Saskatchewan,23LA-BRAD,55.6305,-104.277167,2023,4191.0,Natural,Very small
+Saskatchewan,23SR-DEBUS,59.034617,-109.756617,2023,3781.9,Natural,Very small
+Saskatchewan,23LA-BAY,55.954367,-103.659283,2023,8414.1,Natural,Very small
+Saskatchewan,23DB-TRAILL,55.424983,-103.838133,2023,1645.8,Natural,Very small
+Saskatchewan,23SR-ZANGE,58.005983,-102.046133,2023,200.0,Natural,Very small
+Manitoba,EA076,53.1089,-96.5064,2023,1000.0,Natural,Very small
+Manitoba,NO095,54.0097,-96.8203,2023,800.2,Natural,Very small
+Yukon,2023RR010,62.816333,-133.814333,2023,255.51,Unknown,Very small
+Yukon,2023RR011,62.907333,-133.912667,2023,1466.25,Unknown,Very small
+Yukon,2023MA013,63.4061,-135.313567,2023,956.07,Unknown,Very small
+Northwest Territories,VQ021-23,65.660067,-126.841267,2023,1542.0,Natural,Very small
+Northwest Territories,ZF041-23,64.7693,-119.5291,2023,36070.35,Natural,Small
+Northwest Territories,ZF046-23,63.9224,-113.8541,2023,11210.49,Natural,Very small
+Northwest Territories,EV023-23,68.02685,-129.993017,2023,920.0,Natural,Very small
+Northwest Territories,EV013-23,68.617733,-129.82375,2023,350.0,Natural,Very small
+Alberta,PWF120,57.23575,-116.358767,2023,200.0,Natural,Very small
+Alberta,PWF125,56.859183,-119.659367,2023,17714.2,Natural,Very small
+British Columbia,2023-N72170,50.6931,-117.1213,2023,1337.0,Natural,Very small
+British Columbia,2023-K52125,49.1726,-120.0607,2023,46504.2,Natural,Small
+British Columbia,2023-G62150,55.8255,-123.1873,2023,375.53,Natural,Very small
+Saskatchewan,23LA-PELT,55.5534,-105.0417,2023,9601.0,Natural,Very small
+Saskatchewan,23SR-SEGUIN,59.729731,-105.237048,2023,16367.9,Natural,Very small
+Saskatchewan,23SR-CHAMB,59.652583,-105.28545,2023,16566.4,Natural,Very small
+Saskatchewan,23LA-POOLE,55.913083,-104.54705,2023,9584.0,Natural,Very small
+Saskatchewan,23SR-TODOS,59.336523,-106.725416,2023,5538.1,Natural,Very small
+Saskatchewan,23SR-MESSUM,58.948517,-103.29765,2023,6436.4,Natural,Very small
+Saskatchewan,23SR-BENTLEY,58.930803,-103.060627,2023,1076.8,Natural,Very small
+Quebec,20231080628,53.541,-78.1303,2023,1103.056343,Natural,Very small
+Northwest Territories,ZF037-23,62.7542,-112.2085,2023,1678.0,Natural,Very small
+Northwest Territories,ZF036-23,62.6353,-112.4867,2023,386.0,Natural,Very small
+Northwest Territories,SS049-23,61.294567,-109.8511,2023,5500.0,Natural,Very small
+Northwest Territories,ZF039-23,65.4942,-114.7059,2023,2200.0,Natural,Very small
+Northwest Territories,ZF040-23,65.669,-115.6223,2023,22000.0,Natural,Very small
+Northwest Territories,ZF035-23,62.5917,-112.7354,2023,1227.0,Natural,Very small
+Northwest Territories,ZF038-23,64.5512,-119.9343,2023,21572.73,Natural,Very small
+Northwest Territories,ZF075-23,62.1374,-105.6324,2023,279.0,Natural,Very small
+Northwest Territories,ZF045-23,62.7653,-102.0207,2023,416.0,Natural,Very small
+Northwest Territories,2023TH2,63.1422,-107.6286,2023,1426.0,Natural,Very small
+Northwest Territories,2023TH1,63.0052,-108.509,2023,1716.0,Natural,Very small
+Northwest Territories,2023TH3,62.8605,-107.3331,2023,2465.0,Natural,Very small
+British Columbia,2023-N12046,49.7128,-114.9208,2023,1295.0,Natural,Very small
+British Columbia,2023-C12135,52.6094,-122.2498,2023,270.0,Natural,Very small
+British Columbia,2023-N42102,51.0106,-116.3746,2023,449.0,Natural,Very small
+British Columbia,2023-N42228,51.2003,-116.7542,2023,284.0,Natural,Very small
+British Columbia,2023-N52138,50.6323,-117.2956,2023,372.0,Natural,Very small
+British Columbia,2023-N52156,50.462,-117.5974,2023,876.0,Natural,Very small
+British Columbia,2023-R23091,53.4993,-127.0712,2023,1255.0,Natural,Very small
+Saskatchewan,23BN-PARKER,56.807933,-108.705267,2023,345.0,Natural,Very small
+Manitoba,NO089,57.475,-95.5261,2023,1150.0,Natural,Very small
+Ontario,SLK47,53.1217,-90.366,2023,17104.0,Natural,Very small
+Northwest Territories,SS061-23,60.529767,-103.398867,2023,450.0,Natural,Very small
+British Columbia,2023-C51974,52.0612,-123.4915,2023,1306.0,Natural,Very small
+British Columbia,2023-K22024,50.4484,-120.4009,2023,11382.0,Natural,Very small
+British Columbia,2023-G12002,54.609,-121.7952,2023,351.7,Natural,Very small
+British Columbia,2023-N52009,50.7671,-117.475,2023,413.0,Natural,Very small
+British Columbia,2023-G91933,59.463,-120.0004,2023,2272.0,Unknown,Very small
+British Columbia,2023-C51981,52.2005,-123.4805,2023,1400.0,Natural,Very small
+Saskatchewan,23SR-PHELPS,59.130258,-103.283011,2023,3729.5,Natural,Very small
+Manitoba,NO085,57.8178,-96.9844,2023,1100.0,Natural,Very small
+Manitoba,NO086,55.8011,-100.99,2023,534.8,Natural,Very small
+Manitoba,NO090,57.7817,-97.7894,2023,500.0,Natural,Very small
+Yukon,2023MA010,64.084317,-136.7934,2023,1249.97,Unknown,Very small
+Yukon,2023MA011,64.029453,-135.850085,2023,13853.11,Natural,Very small
+Northwest Territories,FS022-23,61.029833,-121.346167,2023,14000.0,Natural,Very small
+Saskatchewan,23LA-GERMAN,56.45435,-103.394333,2023,6470.0,Natural,Very small
+Yukon,2023MA008,64.923917,-135.811483,2023,4873.21,Unknown,Very small
+Northwest Territories,FS021-23,60.7423,-120.5908,2023,1320.0,Natural,Very small
+British Columbia,2023-K22757,51.4623,-119.7008,2023,1771.9,Natural,Very small
+British Columbia,2023-C11892,52.9119,-125.4362,2023,341.9,Natural,Very small
+British Columbia,2023-N42074,51.0961,-118.4314,2023,1265.3,Natural,Very small
+British Columbia,2023-N72169,50.7441,-117.13,2023,287.0,Natural,Very small
+British Columbia,2023-N12352,49.6784,-115.4511,2023,2952.0,Natural,Very small
+British Columbia,2023-N71918,49.3602,-116.2142,2023,1457.0,Natural,Very small
+British Columbia,2023-N11805,49.6108,-115.7134,2023,4640.0,Human,Very small
+British Columbia,2023-N72350,50.4515,-117.0131,2023,590.0,Natural,Very small
+Saskatchewan,23SR-SOMER,59.561133,-105.078283,2023,9675.6,Natural,Very small
+Yukon,2023MA007,63.030367,-133.854317,2023,17157.57,Unknown,Very small
+Northwest Territories,FS018-23,60.7384,-120.9336,2023,250.0,Natural,Very small
+Northwest Territories,FS019-23,60.7707,-121.0307,2023,1400.0,Natural,Very small
+Northwest Territories,VQ020-23,67.32465,-130.092883,2023,35000.0,Natural,Small
+Alberta,2023WB25,59.5079,-114.2576,2023,77293.0,Natural,Small
+Quebec,20231080633,57.9732,-68.5217,2023,695.4928029,Natural,Very small
+Alberta,HWF135,57.644173,-114.131117,2023,476.9,Natural,Very small
+British Columbia,2023-G91739,59.4203,-123.6556,2023,33425.6,Natural,Small
+British Columbia,2023-VA1735,52.5121,-125.9057,2023,3360.0,Natural,Very small
+British Columbia,2023-K71778,50.7831,-121.8895,2023,589.0,Natural,Very small
+British Columbia,2023-V31726,50.7078,-123.3159,2023,399.0,Natural,Very small
+Yukon,2023OT003,59.635385,-129.415924,2023,60871.77,Unknown,Small
+Northwest Territories,VQ018-23,66.91965,-129.47335,2023,38550.0,Natural,Small
+Northwest Territories,2023WAFU1,66.0041,-121.7226,2023,8126.0,Natural,Very small
+British Columbia,2023-V51696,51.1679,-125.017,2023,238.0,Natural,Very small
+British Columbia,2023-K51680,49.1341,-119.9525,2023,480.0,Natural,Very small
+Saskatchewan,23SR-DORRELL,59.983783,-106.8046,2023,11456.0,Natural,Very small
+Quebec,20231080626,51.5402,-76.892,2023,1311.924101,Natural,Very small
+Yukon,2023RR004,62.816667,-132.566667,2023,1675.63,Unknown,Very small
+Yukon,2023RR005,62.620417,-132.4474,2023,9941.06,Unknown,Very small
+Yukon,2023RR003,61.683967,-130.757733,2023,463.69,Natural,Very small
+Northwest Territories,VQ017-23,66.371567,-119.391067,2023,6376.0,Natural,Very small
+Alberta,HWF130,59.466167,-119.9507,2023,5555.0,Natural,Very small
+British Columbia,2023-R41659,55.7303,-127.2702,2023,278.1,Unknown,Very small
+British Columbia,2023-K21620,51.0114,-119.6968,2023,10004.9,Natural,Very small
+British Columbia,2023-K21633,51.0035,-119.8255,2023,45613.0,Natural,Small
+British Columbia,2023-VA1638,52.7022,-126.4986,2023,3555.0,Natural,Very small
+British Columbia,2023-K71658,50.802,-122.5285,2023,241.0,Natural,Very small
+British Columbia,2023-K71705,50.3047,-121.8258,2023,5021.6,Natural,Very small
+British Columbia,2023-K71649,50.8561,-122.9739,2023,9565.0,Natural,Very small
+British Columbia,2023-K71634,50.3474,-121.7151,2023,4734.3,Natural,Very small
+British Columbia,2023-K71707,50.1667,-122.0922,2023,651.0,Natural,Very small
+British Columbia,2023-N71690,50.6605,-116.9419,2023,241.0,Natural,Very small
+British Columbia,2023-G41560,53.4541,-124.2051,2023,1144.3,Natural,Very small
+British Columbia,2023-C51571,52.7728,-125.5802,2023,3350.0,Natural,Very small
+British Columbia,2023-G41569,53.675,-124.3337,2023,801.1,Natural,Very small
+Quebec,20231080621,52.6198,-77.0026,2023,1408.869109,Natural,Very small
+Quebec,20231080629,58.1374,-67.4721,2023,650.2204949,Natural,Very small
+Yukon,2023OC004,67.505067,-138.3513,2023,229.29,Natural,Very small
+Northwest Territories,SS023-23,61.208333,-113.203883,2023,641.0,Natural,Very small
+Northwest Territories,VQ016-23,65.170883,-120.116317,2023,767.0,Natural,Very small
+Alberta,2023WB24,59.5512,-115.5107,2023,13736.0,Natural,Very small
+British Columbia,2023-G91494,59.8051,-121.7854,2023,6996.4,Natural,Very small
+British Columbia,2023-R31512,55.0104,-127.4476,2023,556.13,Natural,Very small
+British Columbia,2023-G41502,53.5682,-125.2453,2023,34853.6,Natural,Small
+British Columbia,2023-G41493,53.2252,-124.9064,2023,4878.8,Natural,Very small
+British Columbia,2023-G91534,59.4272,-121.0306,2023,32257.2,Natural,Small
+British Columbia,2023-G41511,53.7755,-124.4256,2023,4767.8,Natural,Very small
+British Columbia,2023-N42216,51.7139,-118.1829,2023,303.0,Natural,Very small
+British Columbia,2023-N71835,50.2359,-116.8421,2023,709.0,Natural,Very small
+British Columbia,2023-G11532,54.9614,-122.6221,2023,1100.0,Natural,Very small
+British Columbia,2023-K71535,50.6806,-122.3862,2023,11284.0,Natural,Very small
+British Columbia,2023-G51564,54.5447,-125.033,2023,6143.2,Natural,Very small
+British Columbia,2023-R31581,55.5963,-126.784,2023,239.0,Natural,Very small
+British Columbia,2023-G81530,57.429,-120.2001,2023,6108.9,Natural,Very small
+Quebec,20231080619,54.2242,-77.3654,2023,1231.77114,Natural,Very small
+Quebec,20231080624,52.9583,-76.729,2023,16385.71501,Natural,Very small
+Quebec,20231080622,53.1408,-76.8378,2023,448.5,Natural,Very small
+Yukon,2023OC003,66.780617,-137.255617,2023,450.0,Natural,Very small
+Northwest Territories,SS029-23,60.803883,-112.726667,2023,2986.0,Natural,Very small
+Northwest Territories,FS023-23,64.008,-121.356,2023,26000.0,Natural,Small
+British Columbia,2023GL1,51.2619,-117.3568,2023,1956.0,Natural,Very small
+British Columbia,2023-G91467,59.2839,-122.1495,2023,888.01,Natural,Very small
+British Columbia,2023-C11499,53.1661,-123.7126,2023,7864.0,Natural,Very small
+British Columbia,2023-C11437,53.296,-123.6686,2023,4422.1,Natural,Very small
+British Columbia,2023-G41466,53.659,-123.7843,2023,262.0,Natural,Very small
+British Columbia,2023-C11405,52.74,-125.0359,2023,1282.0,Natural,Very small
+British Columbia,2023-R31465,55.3867,-126.7215,2023,639.0,Natural,Very small
+British Columbia,2023-G41422,53.9829,-124.8257,2023,736.6,Natural,Very small
+British Columbia,2023-G51411,55.3288,-125.3514,2023,451.6,Natural,Very small
+British Columbia,2023-R31585,55.0761,-126.7662,2023,520.0,Natural,Very small
+British Columbia,2023-VA1462,52.0616,-125.7398,2023,1708.0,Natural,Very small
+British Columbia,2023-R13124,54.4756,-125.1785,2023,280.0,Natural,Very small
+British Columbia,2023-R21673,53.8076,-126.6908,2023,4360.0,Natural,Very small
+Quebec,20231080618,56.9721,-67.36,2023,8809.438368,Natural,Very small
+Yukon,2023XY019,60.826467,-135.7492,2023,1264.98,Unknown,Very small
+Northwest Territories,VQ012-23,65.675617,-129.443283,2023,12000.0,Natural,Very small
+Alberta,HWF124,59.046633,-117.080833,2023,346.2,Natural,Very small
+British Columbia,2023-G51474,54.7353,-125.1753,2023,1503.4,Natural,Very small
+British Columbia,2023-VA1335,52.8191,-126.6494,2023,2337.6,Natural,Very small
+British Columbia,2023-G51279,54.4219,-123.6492,2023,48396.3,Natural,Small
+British Columbia,2023-R31391,55.6386,-126.734,2023,3030.0,Unknown,Very small
+British Columbia,2023-G51344,54.7485,-123.8708,2023,5219.6,Natural,Very small
+British Columbia,2023-K21382,52.1472,-120.0256,2023,350.0,Natural,Very small
+British Columbia,2023-G41307,53.591,-124.1523,2023,44641.7,Natural,Small
+British Columbia,2023-VA1456,52.2844,-125.7294,2023,4616.4,Natural,Very small
+British Columbia,2023-C31349,52.4453,-120.754,2023,240.15,Natural,Very small
+British Columbia,2023-R11725,53.5365,-126.6308,2023,330.0,Natural,Very small
+British Columbia,2023-C11319,52.971,-124.6291,2023,376.0,Natural,Very small
+British Columbia,2023-G11293,53.4815,-123.8472,2023,2420.0,Natural,Very small
+British Columbia,2023-R11387,53.7504,-126.1737,2023,12142.0,Natural,Very small
+British Columbia,2023-R21377,54.0454,-126.5994,2023,4762.24,Natural,Very small
+British Columbia,2023-N21453,50.6298,-115.7368,2023,2946.6,Natural,Very small
+British Columbia,2023-R11592,53.4714,-125.2031,2023,203.8,Natural,Very small
+British Columbia,2023-R21630,54.116,-126.9227,2023,220.0,Natural,Very small
+British Columbia,2023-V11337,49.9815,-121.64,2023,17405.9,Natural,Very small
+Quebec,20231080613,53.684,-73.786,2023,2195.324878,Natural,Very small
+Yukon,2023OT002,59.70392,-134.252167,2023,2246.18,Unknown,Very small
+Northwest Territories,EV012-23,67.179,-135.669883,2023,3000.0,Natural,Very small
+Northwest Territories,VQ015-23,64.16715,-124.067567,2023,4024.0,Natural,Very small
+Alberta,PWF093,57.981817,-119.972633,2023,27174.4,Natural,Small
+British Columbia,2023-C11290,52.8138,-122.9345,2023,2784.7,Natural,Very small
+British Columbia,2023-C11243,53.0419,-123.4067,2023,1297.6,Natural,Very small
+British Columbia,2023-V11256,49.2088,-121.383,2023,805.0,Natural,Very small
+British Columbia,2023-R51245,53.8538,-128.5935,2023,200.0,Natural,Very small
+British Columbia,2023-K21379,52.106,-120.0346,2023,2407.14,Natural,Very small
+British Columbia,2023-K21384,52.1458,-119.9619,2023,20745.0,Natural,Very small
+British Columbia,2023-C51562,52.5471,-124.7398,2023,6651.9,Natural,Very small
+British Columbia,2023-R51555,54.9494,-128.8513,2023,230.0,Natural,Very small
+British Columbia,2023-VA1381,53.0425,-126.3309,2023,40580.0,Natural,Small
+British Columbia,2023-R11238,54.0775,-126.1776,2023,359.0,Natural,Very small
+British Columbia,2023-R11277,54.4004,-125.4675,2023,6890.0,Natural,Very small
+British Columbia,2023-R11282,53.5192,-125.8533,2023,24810.8,Natural,Small
+British Columbia,2023-R21234,54.0151,-126.384,2023,6758.0,Natural,Very small
+British Columbia,2023-R21250,54.4102,-126.4153,2023,2061.0,Natural,Very small
+British Columbia,2023-R51710,53.125,-127.651,2023,230.0,Unknown,Very small
+British Columbia,2023-R11378,54.3421,-125.293,2023,1400.0,Natural,Very small
+British Columbia,2023-R51336,55.1462,-128.7224,2023,200.0,Natural,Very small
+British Columbia,2023-R51711,53.114,-127.599,2023,512.0,Unknown,Very small
+British Columbia,2023-R11244,54.2352,-125.6435,2023,8044.0,Natural,Very small
+British Columbia,2023-R11274,54.4547,-125.2762,2023,428.0,Natural,Very small
+British Columbia,2023-R21217,54.8934,-125.8987,2023,7984.0,Natural,Very small
+British Columbia,2023-V31300,50.6978,-123.4493,2023,1915.0,Natural,Very small
+British Columbia,2023-R51712,53.0898,-127.5075,2023,770.0,Unknown,Very small
+British Columbia,2023-R11388,53.4616,-126.101,2023,2779.0,Natural,Very small
+Quebec,20231080595,51.7062,-77.4492,2023,2931.694756,Natural,Very small
+Quebec,20231080597,51.7425,-78.4303,2023,10041.71378,Natural,Very small
+Quebec,20231080601,53.0429,-77.1398,2023,130555.9184,Natural,Medium
+Quebec,20231080602,52.7774,-78.3195,2023,174991.9983,Natural,Medium
+Quebec,20231080603,51.9618,-76.8492,2023,9812.817651,Natural,Very small
+Quebec,20231080604,51.7179,-77.0625,2023,1757.868154,Natural,Very small
+Quebec,20231080605,52.7548,-76.9695,2023,1202.044934,Natural,Very small
+Quebec,20231080607,51.8933,-76.8685,2023,2371.839281,Natural,Very small
+Quebec,20231080608,50.838,-78.4067,2023,193555.6816,Natural,Medium
+Quebec,20231080606,51.232,-78.1722,2023,58400.0,Natural,Small
+Yukon,2023MA005,63.52175,-136.6647,2023,5297.09,Natural,Very small
+Yukon,2023XY018,61.860833,-134.511667,2023,28374.65,Unknown,Small
+Yukon,2023OC002,67.185917,-138.333033,2023,200.0,Natural,Very small
+Alberta,SWF116,57.1762,-113.801217,2023,10670.0,Natural,Very small
+British Columbia,2023-G41158,52.9571,-125.672,2023,21926.5,Natural,Very small
+British Columbia,2023-R91162,59.6421,-129.5938,2023,60064.12,Natural,Small
+British Columbia,2023-G11240,53.3965,-123.332,2023,224.0,Natural,Very small
+British Columbia,2023-R21178,54.3053,-126.7612,2023,1444.72,Natural,Very small
+British Columbia,2023-R91184,59.7041,-134.2523,2023,2253.27,Human,Very small
+Quebec,20231080590,51.9708,-77.9334,2023,48033.04385,Natural,Small
+Quebec,20231080593,51.472,-77.3682,2023,10560.61351,Natural,Very small
+Quebec,20231080598,52.4825,-78.2353,2023,580.9171164,Natural,Very small
+Quebec,20231080588,53.3481,-76.9054,2023,32074.1,Natural,Small
+Quebec,20231080589,53.2592,-76.9775,2023,1143.3,Natural,Very small
+Newfoundland and Labrador,2023-616,53.8739,-66.42141,2023,500.0,Natural,Very small
+Yukon,2023DA004,65.734017,-140.689767,2023,350.0,Unknown,Very small
+Northwest Territories,SS025-23,60.511633,-109.888967,2023,5857.0,Natural,Very small
+Alberta,HWF121,59.054108,-114.359425,2023,3173.2,Natural,Very small
+British Columbia,2023-C31143,52.6903,-121.3638,2023,308.0,Natural,Very small
+Manitoba,EA073,52.7689,-96.4156,2023,13359.0,Natural,Very small
+Quebec,20231080574,54.6667,-77.4605,2023,5805.794554,Natural,Very small
+Quebec,20231080575,51.3065,-77.3302,2023,39888.0108,Natural,Small
+Quebec,20231080579,52.6016,-76.1739,2023,5014.020579,Natural,Very small
+Quebec,20231080583,52.4255,-78.4068,2023,4916.821479,Natural,Very small
+Quebec,20231080611,55.6812,-74.9027,2023,533.4576584,Natural,Very small
+Quebec,20231080577,51.2201,-77.1335,2023,6964.4,Natural,Very small
+Quebec,20231080578,51.1292,-77.0174,2023,4132.8,Natural,Very small
+Quebec,20231080581,52.762,-78.443,2023,232.1,Natural,Very small
+Quebec,20231080584,52.1065,-78.0565,2023,6437.7,Natural,Very small
+Quebec,20231080586,51.923,-77.7809,2023,4720.7,Natural,Very small
+Quebec,20231080587,53.0594,-77.9686,2023,113712.7,Natural,Medium
+Newfoundland and Labrador,2023-614,56.99908,-62.04144,2023,4852.0,Natural,Very small
+Northwest Territories,SS027-23,61.281233,-111.385017,2023,176000.0,Natural,Medium
+Northwest Territories,VQ010-23,64.380883,-125.962067,2023,18000.0,Natural,Very small
+Northwest Territories,SS022-23,60.290967,-111.85055,2023,641421.0,Natural,Extremely large
+Northwest Territories,EV010-23,67.116667,-134.5,2023,311.0,Natural,Very small
+British Columbia,2023-V11152,49.3115,-122.2438,2023,215.0,Human,Very small
+Saskatchewan,23SR-MCCRADY,58.7195,-108.639017,2023,536.0,Natural,Very small
+Ontario,SLK70,54.4874,-91.6793,2023,237.0,Natural,Very small
+Quebec,20231080569,56.8518,-66.2846,2023,690.4908214,Natural,Very small
+Northwest Territories,SS024-23,60.07345,-108.410717,2023,4911.0,Natural,Very small
+Northwest Territories,EV008-23,65.931283,-131.415,2023,2024.0,Natural,Very small
+Northwest Territories,2023WB23,60.457,-113.851,2023,13934.0,Natural,Very small
+Alberta,HWF109,59.453166,-114.158713,2023,45061.0,Natural,Small
+Alberta,HWF112,59.225,-114.4041,2023,57412.0,Natural,Small
+Manitoba,NO078,56.6175,-93.3706,2023,260.0,Natural,Very small
+Ontario,NIP43,53.4902,-87.8313,2023,257.6,Natural,Very small
+Ontario,COC32,54.6032,-85.1801,2023,653.2,Natural,Very small
+Ontario,NIP37,52.3818,-87.494,2023,306.7,Natural,Very small
+Quebec,20231080540,53.4431,-72.7168,2023,1434.433794,Natural,Very small
+Quebec,20231080541,56.9319,-67.5871,2023,357.2212301,Natural,Very small
+Quebec,20231080543,54.8165,-72.3633,2023,990.6326078,Natural,Very small
+Quebec,20231080546,55.3215,-68.7827,2023,2074.456063,Natural,Very small
+Quebec,20231080547,55.9933,-68.9819,2023,79956.13998,Natural,Small
+Quebec,20231080548,56.8663,-66.1602,2023,882.3882588,Natural,Very small
+Quebec,20231080550,56.9001,-67.0405,2023,19763.69398,Natural,Very small
+Quebec,20231080552,54.1526,-70.1657,2023,805.8621038,Natural,Very small
+Quebec,20231080554,56.9231,-66.0654,2023,482.2078775,Natural,Very small
+Quebec,20231080555,54.8559,-71.6385,2023,4060.003829,Natural,Very small
+Quebec,20231080556,54.8704,-70.3383,2023,4844.571482,Natural,Very small
+Quebec,20231080557,53.8925,-74.0035,2023,369.1775868,Natural,Very small
+Quebec,20231080558,55.0558,-69.4483,2023,19005.75844,Natural,Very small
+Quebec,20231080559,54.6678,-73.1356,2023,8040.77828,Natural,Very small
+Quebec,20231080560,54.8276,-70.5066,2023,248.6849283,Natural,Very small
+Quebec,20231080562,56.4464,-68.3353,2023,990.843079,Natural,Very small
+Quebec,20231080563,54.7291,-70.491,2023,5039.235893,Natural,Very small
+Quebec,20231080564,54.3862,-70.4393,2023,466.2990544,Natural,Very small
+Quebec,20231080566,53.1793,-68.8026,2023,2533.902174,Natural,Very small
+Northwest Territories,FS011-23,61.02575,-122.985367,2023,320.0,Natural,Very small
+Northwest Territories,ZF025-23,63.320833,-113.591667,2023,18529.16,Natural,Very small
+Northwest Territories,VQ009-23,64.815,-125.137417,2023,55173.0,Natural,Small
+Alberta,2023WB21,58.2461,-113.7738,2023,1525.0,Natural,Very small
+Alberta,2023WB19,58.1625,-113.4416,2023,18781.0,Natural,Very small
+Alberta,HWF102,58.7211,-115.859167,2023,1166.5,Natural,Very small
+Alberta,HWF104,59.955033,-116.247333,2023,14250.0,Natural,Very small
+Manitoba,NO072,54.555,-96.5514,2023,663.3,Natural,Very small
+Manitoba,NO074,54.5114,-96.9144,2023,543.0,Natural,Very small
+Alberta,2023WB18,59.762,-113.908,2023,109244.0,Natural,Medium
+British Columbia,2023-G41149,54.212,-124.2843,2023,501.06,Natural,Very small
+Saskatchewan,23LA-CHURCH,55.752129,-106.22122,2023,698.0,Natural,Very small
+Saskatchewan,23LA-HEPBURN,55.946867,-104.900417,2023,2958.3,Natural,Very small
+Saskatchewan,23SR-KINGSTON,58.9695,-102.534767,2023,985.0,Natural,Very small
+Manitoba,NO066,56.2333,-101.628,2023,11017.0,Natural,Very small
+Manitoba,NO061,53.7319,-97.0003,2023,309.7,Natural,Very small
+Ontario,COC30,54.3855,-89.6942,2023,2244.6,Natural,Very small
+Quebec,20231080533,50.3594,-78.1033,2023,1769.711908,Natural,Very small
+Quebec,20231080536,49.6589,-69.9224,2023,209.0367673,Natural,Very small
+Northwest Territories,ZF018-23,63.066667,-112.033333,2023,62082.85,Natural,Small
+Northwest Territories,EV004-23,67.116667,-132.31445,2023,100000.0,Natural,Medium
+Northwest Territories,ZF012-23,63.01205,-114.424317,2023,31138.66,Natural,Small
+Northwest Territories,EV007-23,65.97915,-131.60745,2023,745.56,Natural,Very small
+Northwest Territories,ZF013-23,64.24,-113.591667,2023,132001.0,Natural,Medium
+British Columbia,2023-K71032,50.6616,-123.0929,2023,220.57,Natural,Very small
+Saskatchewan,23SR-KILLOCK,58.614383,-103.211483,2023,980.2,Natural,Very small
+Saskatchewan,23LX-TIMSON,57.8539,-106.348133,2023,3759.0,Natural,Very small
+Saskatchewan,23SR-ANDERSON,59.041333,-102.53515,2023,1536.5,Natural,Very small
+Manitoba,NO057,55.8553,-95.645,2023,200.0,Natural,Very small
+Ontario,COC38,50.7194,-79.8475,2023,21879.7,Natural,Very small
+Ontario,COC39,50.4308,-81.2076,2023,542.7,Natural,Very small
+Northwest Territories,VQ006-23,64.9089,-125.218717,2023,32101.0,Natural,Small
+Northwest Territories,ZF033-23,65.316667,-116.25,2023,99628.3,Natural,Medium
+Northwest Territories,ZF051-23,65.779167,-116.750167,2023,4000.0,Natural,Very small
+Northwest Territories,ZF019-23,63.2,-114.533333,2023,82000.0,Natural,Small
+Northwest Territories,SS028-23,61.291383,-103.7911,2023,1093.0,Natural,Very small
+Northwest Territories,ZF020-23,63.816667,-115.683333,2023,19736.16,Natural,Very small
+Alberta,HWF087,58.158117,-114.182933,2023,12508.0,Natural,Very small
+Alberta,HWF083,57.79945,-114.7748,2023,13700.0,Natural,Very small
+Alberta,PWF082,56.950667,-119.776167,2023,8550.0,Natural,Very small
+Alberta,MWF048,57.8415,-113.262833,2023,3369.0,Natural,Very small
+Alberta,MWF043,59.7624,-111.149033,2023,130805.0,Natural,Medium
+Saskatchewan,23LA-ISLAND,55.645833,-105.610167,2023,590.0,Natural,Very small
+Manitoba,NO055,54.3497,-98.4075,2023,554.0,Natural,Very small
+Manitoba,WE027,53.4722,-99.5917,2023,22055.0,Natural,Very small
+Yukon,2023WL007,60.753214,-130.738591,2023,4510.03,Unknown,Very small
+Yukon,2023RR002,62.5005,-133.387,2023,239.93,Unknown,Very small
+Northwest Territories,ZF011-23,62.864967,-113.718333,2023,57413.62,Natural,Small
+Northwest Territories,VQ007-23,64.157583,-125.645783,2023,18000.0,Natural,Very small
+Northwest Territories,SS016-23,61.41925,-110.399733,2023,75643.0,Natural,Small
+Northwest Territories,ZF014-23,63.2415,-114.374,2023,200.0,Natural,Very small
+Northwest Territories,2023NA2,60.9682,-126.6807,2023,1400.0,Natural,Very small
+Alberta,MWF038,57.460167,-113.390167,2023,569.0,Natural,Very small
+Alberta,MWF039,57.421667,-113.400667,2023,15191.0,Natural,Very small
+Alberta,MWF040,57.408,-113.496,2023,1200.0,Natural,Very small
+British Columbia,2023-G91355,59.669,-122.625,2023,350.0,Natural,Very small
+British Columbia,2023-G91313,58.672,-121.6427,2023,74685.7,Natural,Small
+British Columbia,2023-G91013,59.6431,-123.2241,2023,3764.8,Natural,Very small
+Ontario,COC24,54.2308,-85.6068,2023,4688.0,Natural,Very small
+Yukon,2023RR001,62.193817,-130.88595,2023,829.12,Unknown,Very small
+Northwest Territories,ZF015-23,62.938333,-115.105,2023,215280.41,Natural,Medium
+Newfoundland and Labrador,2023-612,52.09927,-58.91296,2023,1200.0,Natural,Very small
+British Columbia,2023-G50912,55.7693,-126.3755,2023,816.9,Natural,Very small
+Saskatchewan,23LA-SHADD,55.664783,-105.394767,2023,4849.0,Natural,Very small
+Quebec,20231080526,54.4134,-72.6183,2023,12863.87219,Natural,Very small
+Newfoundland and Labrador,2023-610,52.39203,-65.107481,2023,2100.0,Natural,Very small
+Alberta,HWF079,59.860083,-115.8038,2023,42579.0,Natural,Small
+British Columbia,2023-G50872,55.3014,-124.841,2023,17333.8,Natural,Very small
+British Columbia,2023-G90981,59.1395,-127.65,2023,22393.46,Natural,Very small
+British Columbia,2023-G80875,57.2791,-120.9118,2023,19136.5,Natural,Very small
+Saskatchewan,23LA-COWIE,57.188567,-102.703967,2023,9000.0,Natural,Very small
+Ontario,SLK54,53.1768,-91.1363,2023,2493.0,Natural,Very small
+Ontario,SLK53,53.9106,-90.8784,2023,334.0,Human,Very small
+Quebec,20231080519,49.9168,-79.3999,2023,1489.012282,Natural,Very small
+Quebec,20231080520,53.7711,-73.2525,2023,7929.377075,Natural,Very small
+Quebec,20231080521,53.6759,-71.4792,2023,5515.282401,Natural,Very small
+Quebec,20231080516,52.7905,-75.994,2023,217.0,Natural,Very small
+Newfoundland and Labrador,2023-608,52.40322,-65.98835,2023,2300.0,Natural,Very small
+Alberta,PWF067,57.647957,-117.89074,2023,5243.0,Natural,Very small
+British Columbia,2023-G50856,55.8798,-126.4014,2023,5712.7,Natural,Very small
+British Columbia,2023-R90877,57.4801,-127.652,2023,14460.07,Natural,Very small
+British Columbia,2023-G60858,57.6324,-125.9272,2023,4638.0,Natural,Very small
+British Columbia,2023-G90956,59.5248,-126.6508,2023,12107.21,Natural,Very small
+British Columbia,2023-G60861,55.3665,-124.4427,2023,12274.62,Natural,Very small
+British Columbia,2023-G60887,56.7857,-126.6837,2023,297.0,Natural,Very small
+British Columbia,2023-G90949,59.628,-126.9532,2023,5278.13,Natural,Very small
+British Columbia,2023-G60853,55.2402,-123.6703,2023,22372.75,Natural,Very small
+Manitoba,NO047,56.6342,-101.909,2023,451.0,Natural,Very small
+Ontario,COC19,49.6071,-79.7037,2023,570.2,Natural,Very small
+Alberta,HWF072,57.692833,-116.019833,2023,30123.0,Natural,Small
+British Columbia,2023-R90857,57.3586,-129.0278,2023,762.36,Natural,Very small
+Quebec,20231080498,54.5291,-77.7444,2023,23295.33097,Natural,Very small
+Quebec,20231080501,54.4905,-77.3302,2023,15576.96599,Natural,Very small
+Quebec,20231080504,54.4117,-76.0108,2023,74757.28502,Natural,Small
+Quebec,20231080508,54.6822,-74.8565,2023,12120.25432,Natural,Very small
+Quebec,20231080500,54.5531,-77.8639,2023,3167.7,Natural,Very small
+Quebec,20231080502,54.5135,-77.1605,2023,2798.6,Natural,Very small
+Manitoba,WE023,55.1442,-99.3611,2023,1100.0,Natural,Very small
+Ontario,COC20,53.0639,-84.036,2023,3118.1,Natural,Very small
+Quebec,20231080535,50.295,-78.1756,2023,18405.57335,Natural,Very small
+Ontario,SLK48,53.3889,-90.4112,2023,4748.0,Natural,Very small
+Ontario,NIP26,53.8073,-88.7836,2023,8647.8,Natural,Very small
+Manitoba,NO043,55.8589,-94.3678,2023,11391.6,Natural,Very small
+Quebec,20231080488,50.2326,-78.3937,2023,31040.89224,Natural,Small
+Quebec,20231080534,50.8211,-76.1181,2023,40676.44701,Natural,Small
+Manitoba,NO037,57.0006,-100.587,2023,15779.3,Natural,Very small
+Manitoba,NO038,57.0575,-100.511,2023,14019.3,Natural,Very small
+Manitoba,NO041,56.7092,-98.4792,2023,309.5,Natural,Very small
+Manitoba,NO042,56.6606,-98.3983,2023,749.2,Natural,Very small
+Quebec,20231080490,54.8629,-70.9073,2023,2748.185755,Natural,Very small
+Saskatchewan,23LA-BLACK,55.722517,-105.848817,2023,6646.3,Natural,Very small
+Manitoba,WE018,55.4372,-101.673,2023,13381.0,Natural,Very small
+Ontario,COC11,52.1823,-81.8548,2023,805.0,Unknown,Very small
+Quebec,20231080485,53.3839,-76.1125,2023,133572.3,Natural,Medium
+Northwest Territories,VQ004-23,64.9371,-124.199483,2023,400.0,Natural,Very small
+Quebec,20231080483,54.0569,-74.6378,2023,349357.0055,Natural,Large
+Northwest Territories,VQ003-23,65.475367,-126.70775,2023,21099.0,Natural,Very small
+Saskatchewan,23LA-FOSTER,56.437983,-105.718733,2023,971.0,Natural,Very small
+Quebec,20231080481,49.032,-75.3513,2023,623.271077,Natural,Very small
+Saskatchewan,23LA-DALY,56.50095,-105.609367,2023,450.0,Natural,Very small
+Saskatchewan,23LA-SUTTLE,56.52935,-105.531183,2023,1456.2,Natural,Very small
+Ontario,NIP19,51.0052,-87.5622,2023,10182.6,Natural,Very small
+Quebec,20231080474,51.5286,-63.169,2023,262.3053594,Natural,Very small
+Quebec,20231080492,51.1862,-74.0799,2023,26721.37246,Natural,Small
+Quebec,20231080473,50.5738,-75.0117,2023,27602.4,Natural,Small
+Saskatchewan,23SR-JACKFISH,58.964368,-109.956182,2023,7417.9,Natural,Very small
+Manitoba,NO029,56.5225,-99.6622,2023,23014.0,Natural,Very small
+Manitoba,NO032,56.2092,-90.6069,2023,19500.0,Natural,Very small
+Quebec,20231080470,51.1604,-66.1951,2023,25616.05175,Natural,Small
+Quebec,20231080479,52.5229,-70.4005,2023,23928.00437,Natural,Small
+Newfoundland and Labrador,2023-607,53.08564,-64.36238,2023,10560.0,Natural,Very small
+Northwest Territories,FS010-23,61.008167,-119.9915,2023,90508.0,Natural,Small
+Manitoba,EA059,52.6308,-95.7336,2023,1940.0,Natural,Very small
+Manitoba,NO023,56.5839,-91.1519,2023,414.4,Natural,Very small
+Manitoba,NO024,56.1592,-91.5933,2023,2030.0,Natural,Very small
+Manitoba,EA057,53.1078,-96.5069,2023,394.0,Natural,Very small
+Manitoba,NO025,56.4772,-92.2878,2023,20000.0,Natural,Very small
+Quebec,20231080467,50.7285,-76.2619,2023,65433.96916,Natural,Small
+Quebec,20231080469,54.0028,-72.1716,2023,57224.63459,Natural,Small
+Quebec,20231080480,51.68,-73.2598,2023,48336.71038,Natural,Small
+Quebec,20231080468,53.9517,-72.4023,2023,29660.8,Natural,Small
+Quebec,20231080478,50.9453,-73.296,2023,2124.5,Natural,Very small
+Saskatchewan,23LA-WAPA,54.729529,-104.650979,2023,18423.0,Natural,Very small
+Manitoba,EA055,53.2792,-96.9242,2023,2910.0,Natural,Very small
+Manitoba,NO019,56.6264,-91.7167,2023,1500.0,Natural,Very small
+Manitoba,NO021,56.9533,-93.1547,2023,2175.0,Natural,Very small
+Ontario,SLK31,50.9728,-89.1258,2023,38033.2,Natural,Small
+Alberta,HWF065,57.552833,-114.924917,2023,1425.0,Natural,Very small
+British Columbia,2023-G90776,58.2226,-123.8847,2023,804.46,Natural,Very small
+British Columbia,2023-G90810,57.651,-123.6047,2023,500.0,Natural,Very small
+Ontario,RED27,51.2427,-92.707,2023,527.8,Natural,Very small
+Ontario,NIP13,50.8433,-87.3543,2023,40833.6,Natural,Small
+Ontario,RED29,50.6102,-92.5964,2023,5013.0,Natural,Very small
+Ontario,SLK29,52.106,-89.8102,2023,446.6,Natural,Very small
+Ontario,SLK44,51.0888,-90.8216,2023,6208.0,Natural,Very small
+Ontario,NIP24,52.2812,-86.2882,2023,1515.3,Natural,Very small
+Yukon,2023DA002,65.473086,-138.158995,2023,493.47,Natural,Very small
+Alberta,HWF064,59.283833,-119.0668,2023,6175.0,Natural,Very small
+British Columbia,2023-C30675,52.2548,-120.8352,2023,226.0,Human,Very small
+Quebec,20231080462,50.678,-72.8355,2023,12764.95531,Natural,Very small
+British Columbia,2023-G60666,55.9468,-124.5446,2023,166856.9,Natural,Medium
+Saskatchewan,23LA-GOW,56.45795,-104.382583,2023,271.6,Natural,Very small
+Manitoba,EA050,53.0383,-96.8603,2023,554.0,Natural,Very small
+Ontario,SLK23,53.7625,-90.7008,2023,18200.0,Natural,Very small
+Quebec,20231080461,50.9972,-73.2609,2023,3242.8,Natural,Very small
+Alberta,SWF095,54.86785,-116.6625,2023,8500.0,Natural,Very small
+Alberta,LWF148,55.935333,-111.104617,2023,2317.0,Natural,Very small
+British Columbia,2023-G70645,55.1541,-120.6697,2023,25095.0,Natural,Small
+British Columbia,2023-G70644,55.3792,-120.0827,2023,4427.0,Natural,Very small
+British Columbia,2023-G60655,55.9945,-124.0818,2023,3215.3,Natural,Very small
+Saskatchewan,23LA-KENNY,55.036183,-104.086883,2023,55344.8,Natural,Small
+Ontario,KLK5,47.5769,-80.248,2023,2300.0,Natural,Very small
+Quebec,20231080450,50.6516,-73.105,2023,18866.42465,Natural,Very small
+Quebec,20231080451,49.7678,-73.3866,2023,769.4204852,Natural,Very small
+Quebec,20231080453,50.7173,-72.5551,2023,13832.86196,Natural,Very small
+Quebec,20231080454,50.3846,-72.1813,2023,2417.81528,Natural,Very small
+Quebec,20231080457,51.1353,-72.7739,2023,5456.582968,Natural,Very small
+Quebec,20231080458,51.6531,-71.6949,2023,326.6391749,Natural,Very small
+Quebec,20231080459,51.5557,-71.4264,2023,725.7833628,Natural,Very small
+Quebec,20231080460,51.0945,-73.1646,2023,9498.523378,Natural,Very small
+Alberta,GWF038,55.655002,-119.485325,2023,7148.0,Unknown,Very small
+Ontario,SLK33,50.5579,-90.1077,2023,62378.0,Natural,Small
+Ontario,SLK18,52.2693,-90.2512,2023,2457.0,Natural,Very small
+Ontario,SLK19,52.0922,-89.2822,2023,824.8,Natural,Very small
+Quebec,20231080449,49.2594,-74.9865,2023,6356.55223,Natural,Very small
+Quebec,20231080433,49.0639,-75.0464,2023,726.3,Natural,Very small
+Northwest Territories,FS007-23,60.785117,-121.35875,2023,333.0,Natural,Very small
+British Columbia,2023-G90709,59.8265,-123.5519,2023,37793.9,Natural,Small
+British Columbia,2023-G90628,58.5021,-120.4118,2023,173353.1,Natural,Medium
+British Columbia,2023-G60603,55.912,-123.1348,2023,363.88,Natural,Very small
+Manitoba,EA041,52.5019,-95.5689,2023,850.0,Natural,Very small
+Ontario,RED28,50.7161,-92.2131,2023,19177.1,Natural,Very small
+Quebec,20231080422,48.4611,-73.8234,2023,273.3640322,Natural,Very small
+Quebec,20231080439,49.5485,-70.8078,2023,202.3042635,Natural,Very small
+Quebec,20231080402,48.7513,-76.465,2023,8000.0,Natural,Very small
+Quebec,20231080419,48.725,-76.3147,2023,350.0,Natural,Very small
+Quebec,20231080420,48.6904,-76.3569,2023,450.0,Natural,Very small
+Alberta,HWF058,58.16715,-118.41965,2023,234061.0,Natural,Large
+Alberta,GWF035,55.583557,-119.404602,2023,872.0,Unknown,Very small
+British Columbia,2023-V10588,49.4837,-121.9887,2023,767.2,Human,Very small
+British Columbia,2023-V70600,49.2834,-124.6147,2023,229.0,Human,Very small
+Quebec,20231080375,49.5867,-68.4534,2023,1663.465059,Natural,Very small
+Quebec,20231080381,48.4286,-69.8294,2023,827.3486835,Natural,Very small
+Quebec,20231080385,49.714,-69.0925,2023,364.7038489,Natural,Very small
+Quebec,20231080393,48.0518,-74.0329,2023,391.1966731,Natural,Very small
+Quebec,20231080408,49.6003,-71.6019,2023,644.065788,Natural,Very small
+Quebec,20231080411,49.2767,-71.8114,2023,341.9103546,Natural,Very small
+Quebec,20231080412,49.1678,-71.8371,2023,236.8703526,Natural,Very small
+Quebec,20231080410,49.3433,-71.5,2023,1817.6,Natural,Very small
+British Columbia,2023-G90565,57.9132,-123.9312,2023,208.0,Natural,Very small
+Saskatchewan,23BN-VOLD,55.837911,-109.774207,2023,4125.0,Natural,Very small
+Saskatchewan,23LX-CENTIPEDE,56.257973,-107.311968,2023,1148.0,Natural,Very small
+Saskatchewan,23LX-HAULTAIN,56.861153,-106.427403,2023,5664.0,Natural,Very small
+Ontario,SUD10,46.5705,-81.8123,2023,1291.9,Natural,Very small
+Ontario,RED32,52.1375,-94.6138,2023,535.6,Natural,Very small
+Ontario,SUD17,46.6328,-82.2622,2023,5857.0,Natural,Very small
+Ontario,SUD19,46.7506,-81.9973,2023,459.0,Natural,Very small
+Quebec,20231080334,50.4529,-74.1311,2023,124302.3948,Natural,Medium
+Quebec,20231080344,49.1217,-76.7867,2023,143833.0429,Natural,Medium
+Quebec,20231080351,49.1097,-74.6188,2023,5391.37379,Natural,Very small
+Quebec,20231080352,49.1887,-72.0814,2023,205.5210222,Natural,Very small
+Quebec,20231080353,49.8556,-70.0188,2023,13594.05715,Natural,Very small
+Quebec,20231080359,46.9407,-73.3527,2023,337.359204,Natural,Very small
+Quebec,20231080361,47.1305,-73.7272,2023,1092.549941,Natural,Very small
+Quebec,20231080365,48.3983,-74.8239,2023,262.3976388,Natural,Very small
+Quebec,20231080372,48.7818,-75.2432,2023,1972.809739,Natural,Very small
+Quebec,20231080373,48.8432,-75.1021,2023,17532.65499,Natural,Very small
+Quebec,20231080379,50.1667,-73.4733,2023,50013.53349,Natural,Small
+Quebec,20231080382,48.2969,-76.1019,2023,1542.084565,Natural,Very small
+Quebec,20231080367,50.6536,-74.1507,2023,4678.6,Natural,Very small
+Quebec,20231080368,50.4835,-74.2785,2023,24152.0,Natural,Small
+Quebec,20231080369,49.1684,-75.6707,2023,24917.1,Natural,Small
+Quebec,20231080371,49.1511,-75.1669,2023,21467.7,Natural,Very small
+Quebec,20231080376,48.9048,-75.8251,2023,29790.2,Natural,Small
+Quebec,20231080418,48.5694,-76.3225,2023,2105.109197,Natural,Very small
+Yukon,2023WL003,60.459967,-125.971867,2023,1394.16,Natural,Very small
+Northwest Territories,VQ002-23,64.349583,-122.731517,2023,19412.0,Natural,Very small
+Ontario,COC6,48.9088,-80.3046,2023,1239.0,Natural,Very small
+Ontario,CHA6,48.1642,-83.812,2023,1229.0,Natural,Very small
+Ontario,CHA3,47.7236,-82.4194,2023,3916.8,Natural,Very small
+Ontario,COC7,48.9843,-79.6735,2023,37742.0,Natural,Small
+Quebec,20231080225,48.0571,-75.2646,2023,7684.740133,Natural,Very small
+Quebec,20231080226,47.9918,-75.0173,2023,1627.755685,Natural,Very small
+Quebec,20231080229,47.6953,-74.0666,2023,223.437324,Natural,Very small
+Quebec,20231080236,49.3775,-72.0667,2023,5952.474156,Natural,Very small
+Quebec,20231080238,47.5952,-76.5984,2023,279.0025301,Natural,Very small
+Quebec,20231080245,48.4702,-76.8563,2023,6254.358264,Natural,Very small
+Quebec,20231080248,47.9145,-75.7324,2023,6435.395791,Natural,Very small
+Quebec,20231080249,49.3577,-71.0484,2023,5302.21278,Natural,Very small
+Quebec,20231080256,49.3013,-76.9185,2023,4673.568506,Natural,Very small
+Quebec,20231080261,49.5063,-69.657,2023,10668.5075,Natural,Very small
+Quebec,20231080265,49.4392,-71.5614,2023,2235.287854,Natural,Very small
+Quebec,20231080270,49.7389,-68.6353,2023,2185.871868,Natural,Very small
+Quebec,20231080271,50.292,-70.572,2023,5120.535201,Natural,Very small
+Quebec,20231080274,49.5084,-75.2876,2023,34965.46073,Natural,Small
+Quebec,20231080275,48.6549,-72.8672,2023,1135.814196,Natural,Very small
+Quebec,20231080277,49.5192,-72.6159,2023,2616.955201,Natural,Very small
+Quebec,20231080279,50.7482,-70.1974,2023,1551.551681,Natural,Very small
+Quebec,20231080281,49.062,-79.3576,2023,8440.795798,Natural,Very small
+Quebec,20231080283,49.5557,-68.6728,2023,9261.120292,Natural,Very small
+Quebec,20231080287,49.4581,-72.5764,2023,2148.073095,Natural,Very small
+Quebec,20231080295,49.6938,-72.585,2023,934.5741834,Natural,Very small
+Quebec,20231080297,48.1812,-76.909,2023,15186.47763,Natural,Very small
+Quebec,20231080299,49.2891,-72.414,2023,5405.266614,Natural,Very small
+Quebec,20231080302,48.7008,-74.1401,2023,1907.941043,Natural,Very small
+Quebec,20231080222,49.0606,-76.1278,2023,71465.5,Natural,Small
+Quebec,20231080224,47.9748,-75.2777,2023,244.8,Natural,Very small
+Quebec,20231080232,49.3691,-72.0674,2023,1096.8,Natural,Very small
+Quebec,20231080233,49.435,-77.2215,2023,4933.7,Natural,Very small
+Quebec,20231080237,48.6083,-76.6358,2023,27496.6,Natural,Small
+Quebec,20231080250,47.9098,-75.772,2023,400.0,Natural,Very small
+Quebec,20231080252,49.545,-69.7334,2023,944.8,Natural,Very small
+Quebec,20231080262,48.815,-76.0342,2023,2847.0,Natural,Very small
+Quebec,20231080268,48.513,-76.0481,2023,11357.8,Natural,Very small
+Quebec,20231080292,49.2112,-76.3439,2023,23280.4,Natural,Very small
+Quebec,20231080296,49.2278,-76.5567,2023,500.0,Natural,Very small
+Quebec,20231080305,49.7233,-72.6094,2023,1225.30997,Natural,Very small
+Quebec,20231080306,50.7043,-70.731,2023,1858.567332,Natural,Very small
+Quebec,20231080308,47.0041,-73.4124,2023,334.7565238,Natural,Very small
+Quebec,20231080314,49.556,-76.7643,2023,96015.23444,Natural,Medium
+Quebec,20231080319,48.7855,-74.2301,2023,267.1329702,Natural,Very small
+Quebec,20231080326,49.6598,-69.9722,2023,442.2771979,Natural,Very small
+Quebec,20231080337,46.5953,-77.3601,2023,680.8097801,Natural,Very small
+Quebec,20231080339,48.4889,-74.8294,2023,1650.399928,Natural,Very small
+Quebec,20231080350,48.1387,-75.3082,2023,379.8446137,Natural,Very small
+Quebec,20231080357,52.8959,-73.4055,2023,267371.2364,Natural,Large
+Quebec,20231080360,47.4271,-75.9198,2023,224.0519367,Natural,Very small
+Quebec,20231080370,49.2313,-75.3112,2023,1970.015155,Natural,Very small
+Quebec,20231080304,48.6636,-76.2119,2023,5456.3,Natural,Very small
+Quebec,20231080309,48.7808,-76.2869,2023,1136.3,Natural,Very small
+Quebec,20231080312,49.0308,-76.5067,2023,20391.8,Natural,Very small
+Quebec,20231080213,49.7371,-74.9946,2023,874.0967305,Human,Very small
+Quebec,20231080215,50.3743,-66.3849,2023,706.2141913,Human,Very small
+Quebec,20231080218,53.0505,-75.3255,2023,885388.2142,Natural,Extremely large
+Quebec,20231080219,53.1669,-75.2666,2023,1381.5,Natural,Very small
+Alberta,2023WB12,58.1171,-112.6443,2023,20280.0,Natural,Very small
+Alberta,2023WB14,58.96,-113.2899,2023,83116.0,Natural,Small
+Saskatchewan,23LX-ELLERAAS,56.830067,-106.594933,2023,18342.2,Natural,Very small
+Ontario,NIP9,53.0395,-88.3788,2023,48555.0,Natural,Small
+Alberta,2023WB11,59.2167,-113.4225,2023,118948.0,Natural,Medium
+British Columbia,2023-V80527,50.3709,-126.0437,2023,230.0,Human,Very small
+Saskatchewan,23BN-SHAD,56.4411,-107.966317,2023,24854.0,Natural,Small
+Saskatchewan,23BN-AARON,56.565,-109.301833,2023,2240.0,Natural,Very small
+Alberta,2023WB9,58.8869,-113.2325,2023,4218.0,Natural,Very small
+Alberta,2023WB8,58.9604,-112.9904,2023,4937.0,Natural,Very small
+Alberta,2023WB7,59.6748,-112.4246,2023,348511.0,Natural,Large
+Alberta,LWF138,55.628167,-110.361883,2023,4800.0,Natural,Very small
+Quebec,20231080172,50.6166,-66.0077,2023,28749.85206,Human,Small
+New Brunswick,CH-6-8-145,45.18083,-66.97483,2023,504.0,Human,Very small
+Nova Scotia,09-011-2023,44.72330093,-63.87649918,2023,969.5300293,Human,Very small
+Alberta,2023WB2,59.3952,-112.4517,2023,64149.0,Natural,Small
+Alberta,2023WB4,58.3837,-112.2474,2023,339.0,Natural,Very small
+Alberta,2023WB3,58.2736,-112.8389,2023,6477.0,Natural,Very small
+Alberta,MWF025,58.86705,-111.145817,2023,105251.0,Natural,Medium
+Alberta,MWF024,57.712283,-110.6469,2023,28504.0,Natural,Small
+Alberta,MWF023,57.976283,-113.214917,2023,59444.0,Natural,Small
+Alberta,MWF026,57.882533,-111.054033,2023,1703.0,Natural,Very small
+Ontario,WAW3,48.5366,-85.1704,2023,6678.1,Human,Very small
+Nova Scotia,03-010-2023,43.62860107,-65.58329773,2023,23379.19922,Human,Very small
+Alberta,MWF022,57.7063,-113.125317,2023,1552.0,Natural,Very small
+Alberta,MWF021,57.693917,-113.29625,2023,14753.0,Natural,Very small
+Ontario,SLK7,51.7644,-91.8501,2023,20426.5,Natural,Very small
+British Columbia,2023-N40596,52.0451,-118.7021,2023,1160.0,Natural,Very small
+British Columbia,2023-C30446,52.8374,-120.4661,2023,241.7,Natural,Very small
+Saskatchewan,23LX-BOLDING,57.876629,-107.046291,2023,42844.3,Natural,Small
+British Columbia,2023-C30399,52.6166,-121.0711,2023,964.0,Natural,Very small
+Saskatchewan,23LA-SHARP,55.424067,-105.1221,2023,19251.0,Natural,Very small
+Saskatchewan,23HB-CLEM,52.72738,-102.481436,2023,298.0,Human,Very small
+Saskatchewan,23SR-RIACH,59.7405,-109.3085,2023,18906.3,Natural,Very small
+Saskatchewan,23SR-KAY,59.657167,-109.610833,2023,8689.4,Natural,Very small
+Northwest Territories,FS005-23,62.853317,-124.842067,2023,540.0,Natural,Very small
+Northwest Territories,FS002-23,61.86549138,-123.8933996,2023,14550.0,Natural,Very small
+British Columbia,2023-G30612,52.3739,-119.3284,2023,277.0,Natural,Very small
+Saskatchewan,23DB-KPIR02,54.85375,-103.389967,2023,9002.5,Human,Very small
+British Columbia,2023KO1,50.6743,-115.8377,2023,307.0,Natural,Very small
+British Columbia,2023-C40384,51.6366,-121.9257,2023,536.0,Natural,Very small
+British Columbia,2023-K20469,52.1381,-119.5694,2023,1711.61,Natural,Very small
+Northwest Territories,FS003-23,62.55395,-124.6435,2023,12453.0,Natural,Very small
+Northwest Territories,FS004-23,63.258317,-125.120417,2023,10335.0,Natural,Very small
+Saskatchewan,23LX-PAWR03,55.241689,-109.688796,2023,8075.8,Natural,Very small
+Alberta,2023WB1,58.6371,-114.0023,2023,24947.0,Unknown,Small
+Northwest Territories,2023NA1,61.8325,-123.9356,2023,57130.0,Natural,Small
+Alberta,SWF087,55.226583,-114.2757,2023,1036.0,Unknown,Very small
+Alberta,SWF086,55.179817,-114.115967,2023,4742.0,Unknown,Very small
+Manitoba,NO007,54.5228,-97.7611,2023,3436.1,Human,Very small
+Yukon,2023HJ004,61.380776,-139.11336,2023,399.87,Human,Very small
+Saskatchewan,23PA-SLIR03,53.38445,-106.103533,2023,424.7,Human,Very small
+Northwest Territories,SS005-23,60.84939217,-115.7011172,2023,3208.9,Human,Very small
+Alberta,SWF081,56.990917,-113.459433,2023,33138.0,Natural,Small
+British Columbia,2023-G80291,56.5112,-121.2219,2023,29505.9,Human,Small
+Saskatchewan,23LX-LSZ001,55.282914,-110.000705,2023,69995.7,Natural,Small
+Saskatchewan,23LX-PAWR02,55.290761,-109.988132,2023,29790.2,Natural,Small
+Saskatchewan,23BR-AIR04,53.42565,-106.893233,2023,275.0,Human,Very small
+Northwest Territories,FS001-23,60.0514,-120.9759,2023,541766.0,Natural,Extremely large
+Alberta,GWF027,54.520083,-117.356783,2023,54988.4,Unknown,Small
+British Columbia,2023-G80280,57.6187,-122.0123,2023,619072.5,Natural,Extremely large
+Saskatchewan,23LX-PAWR01,55.3215,-109.799333,2023,1756.5,Natural,Very small
+Saskatchewan,23LA-KOLWASKIE,57.2352,-102.716033,2023,4538.9,Natural,Very small
+Saskatchewan,23LA-DECEPTION,56.554133,-104.258291,2023,1143.7,Natural,Very small
+Northwest Territories,SS004-23,60.9536,-119.1875,2023,64000.0,Natural,Small
+British Columbia,2023-G90288,59.9636,-120.9866,2023,290073.32,Natural,Large
+British Columbia,2023-G90273,58.0617,-121.9122,2023,42838.5,Natural,Small
+British Columbia,2023-G90292,58.0517,-123.3252,2023,21056.0,Natural,Very small
+Saskatchewan,23LA-MCCRAE,56.06835,-105.85235,2023,339371.7,Natural,Large
+Saskatchewan,23LA-WISTIGO,55.2572,-106.374667,2023,64309.0,Natural,Small
+Saskatchewan,23LX-VEDETTE,56.3283,-106.763367,2023,85148.1,Natural,Small
+Saskatchewan,23LX-SMITH,55.984833,-106.58665,2023,543976.0,Natural,Extremely large
+Ontario,RED5,53.4689,-93.2176,2023,11748.0,Natural,Very small
+Manitoba,WE005,53.6664,-100.324,2023,266.0,Human,Very small
+Ontario,COC1,51.5566,-85.3216,2023,781.4,Natural,Very small
+British Columbia,2023-G60325,57.3534,-124.8435,2023,24705.0,Natural,Small
+Saskatchewan,23WY-MEYAK,54.82195,-105.7656,2023,1570.0,Human,Very small
+Manitoba,EA008,51.7136,-98.6169,2023,327.5,Human,Very small
+Alberta,EWF040,53.935583,-117.776167,2023,12073.4,Natural,Very small
+Alberta,GWF023,55.157413,-117.330653,2023,3851.0,Unknown,Very small
+British Columbia,2023-G80223,56.4161,-121.2324,2023,2947.0,Human,Very small
+Alberta,PWF038,56.386752,-116.809335,2023,6129.8,Unknown,Very small
+Alberta,PWF034,56.545183,-119.4788,2023,454.4,Human,Very small
+Alberta,EWF035,53.836833,-115.783333,2023,19672.0,Unknown,Very small
+Alberta,EWF037,53.91005,-117.55905,2023,578.0,Natural,Very small
+Alberta,SWF068,55.877833,-116.407667,2023,143039.0,Natural,Medium
+Alberta,GWF017,55.053025,-117.43991,2023,5478.53,Unknown,Very small
+Alberta,GWF018,56.281817,-119.161633,2023,49327.7,Human,Small
+Alberta,WWF023,54.388929,-116.371578,2023,66436.7,Natural,Small
+Alberta,RWF040,52.808677,-116.203747,2023,5089.0,Human,Very small
+Alberta,GWF019,54.735667,-119.032783,2023,18884.0,Natural,Very small
+Alberta,SWF067,55.022167,-115.8975,2023,534.0,Natural,Very small
+British Columbia,2023-G30210,53.2884,-120.0705,2023,1100.0,Human,Very small
+Saskatchewan,23LX-SHAW,55.558417,-108.380233,2023,191000.0,Human,Medium
+Manitoba,EA005,51.955,-99.6419,2023,1269.0,Human,Very small
+Alberta,RWF032,52.905417,-115.695967,2023,15000.0,Natural,Very small
+Alberta,SWF059,56.054333,-115.008333,2023,1036.0,Natural,Very small
+Alberta,EWF031,53.145183,-115.686783,2023,201913.0,Natural,Medium
+Alberta,SWF057,55.034283,-115.14815,2023,16728.0,Natural,Very small
+Alberta,SWF058,54.893733,-115.664967,2023,1500.0,Natural,Very small
+Alberta,SWF060,55.956383,-115.056367,2023,43981.0,Natural,Small
+Alberta,RWF034,52.815117,-115.450383,2023,87492.0,Natural,Small
+Alberta,SWF063,54.95775,-115.681083,2023,123670.0,Natural,Medium
+Alberta,SWF064,54.896,-116.100217,2023,40606.0,Natural,Small
+Alberta,LWF091,54.50045,-113.6563,2023,200.0,Unknown,Very small
+Saskatchewan,23HB-DELTA,53.960517,-102.40425,2023,359.0,Human,Very small
+Saskatchewan,23BR-SAULTEAUX,53.121339,-108.196355,2023,15000.0,Human,Very small
+Alberta,RWF027,52.82095,-115.908167,2023,13100.0,Natural,Very small
+Alberta,HWF036,58.4906,-119.4031,2023,203022.0,Unknown,Medium
+Saskatchewan,23LF-ROCKY,53.701691,-104.596457,2023,794.0,Human,Very small
+Alberta,HWF030,58.468,-114.483875,2023,96582.2,Unknown,Medium
+British Columbia,2023-G80220,56.271,-119.9341,2023,6422.17,Human,Very small
+British Columbia,2023-G80175,56.5319,-121.9246,2023,385.0,Human,Very small
+Saskatchewan,23BN-LOCAL,56.481967,-109.435333,2023,266.0,Human,Very small
+Saskatchewan,23PA-LILLY,53.0138,-106.190767,2023,754.0,Human,Very small
+Saskatchewan,23BN-VERMETTE,55.644317,-109.219233,2023,88446.0,Human,Small
+Alberta,2023WL2,49.0793,-113.8443,2023,240.0,Human,Very small
+British Columbia,2023-C50100,52.0351,-123.177,2023,209.0,Human,Very small
+Alberta,2022BA039,51.922,-116.877,2022,300.0,Unknown,Very small
+British Columbia,2022-G92687,57.6557,-123.4481,2022,900.0,Human,Very small
+Alberta,HWF-107-2022,58.6548,-118.7154,2022,288.0,Human,Very small
+Alberta,CCU-003-2022,50.8258,-111.8942,2022,400.0,Unknown,Very small
+British Columbia,2022-C52648,51.9749,-124.1548,2022,248.0,Human,Very small
+British Columbia,2022-G72672,54.8054,-121.2563,2022,456.0,Natural,Very small
+British Columbia,2022-N62637,49.0106,-118.3054,2022,203.0,Human,Very small
+British Columbia,2022-G92640,57.7296,-123.4991,2022,1000.0,Human,Very small
+British Columbia,2022-G92591,58.3698,-123.91,2022,1500.0,Human,Very small
+British Columbia,2022-V12576,49.6862,-121.842,2022,360.0,Natural,Very small
+Northwest Territories,FS040-22,61.72,-123.3677,2022,2009.0,Natural,Very small
+Alberta,HWF-096-2022,58.8811,-114.9978,2022,2303.9,Natural,Very small
+British Columbia,2022-G82427,57.4593,-123.653,2022,2484.3,Human,Very small
+Northwest Territories,FS039-22,60.9471,-120.3961,2022,747.0,Natural,Very small
+British Columbia,2022-V12335,49.3572,-121.51,2022,845.0,Human,Very small
+British Columbia,2022-K42324,50.641,-118.3261,2022,286.0,Human,Very small
+British Columbia,2022-V82307,49.8665,-125.9849,2022,358.0,Natural,Very small
+Saskatchewan,22LA-GEORGE,56.2728,-106.3616,2022,1555.0,Natural,Very small
+British Columbia,2022-G72252,54.7395,-120.9923,2022,2300.0,Natural,Very small
+British Columbia,2022-V12211,49.1547,-121.0135,2022,282.0,Natural,Very small
+British Columbia,2022-N72255,50.3086,-116.8954,2022,265.5,Natural,Very small
+Alberta,ANP-001-2022,53.0511,-118.147,2022,5500.0,Unknown,Very small
+Alberta,2022JA006,53.0511,-118.147,2022,6457.0,Natural,Very small
+British Columbia,2022-G72178,55.0286,-120.54,2022,6499.0,Natural,Very small
+British Columbia,2022-G72150,56.0043,-122.719,2022,34753.0,Natural,Small
+Northwest Territories,SS080-22,60.4372,-108.078,2022,357.5,Natural,Very small
+Saskatchewan,22LX-FELLOW,55.7884,-106.899,2022,1321.5,Natural,Very small
+Saskatchewan,22BN-CARIBOU,56.7963,-107.6215,2022,399.9,Natural,Very small
+British Columbia,2022-K72076,50.2991,-122.0343,2022,357.0,Natural,Very small
+British Columbia,2022-V12079,48.9923,-121.4383,2022,1200.0,Human,Very small
+Northwest Territories,SS076-22,60.3785,-111.7865,2022,6813.6,Natural,Very small
+British Columbia,2022-K72080,50.1573,-122.2095,2022,787.0,Natural,Very small
+British Columbia,2022-K71995,51.0147,-122.3754,2022,4683.0,Natural,Very small
+British Columbia,2022-V11952,49.0406,-121.1594,2022,1250.0,Natural,Very small
+Northwest Territories,FS037-22,61.3552,-120.2028,2022,661.6,Natural,Very small
+British Columbia,2022-V11912,49.0434,-121.3188,2022,215.0,Natural,Very small
+British Columbia,2022-N71980,50.0457,-116.8587,2022,1106.0,Natural,Very small
+Alberta,MWF-086-2022,59.4787,-111.3228,2022,1264.7,Natural,Very small
+Alberta,MWF-092-2022,59.6749,-111.0799,2022,357.5,Natural,Very small
+Alberta,MWF-087-2022,59.2016,-110.552,2022,400.0,Natural,Very small
+Saskatchewan,22BN-EVER,57.0196,-108.8651,2022,9693.8,Natural,Very small
+Saskatchewan,22SR-TRAIN,59.745,-106.9784,2022,937.6,Natural,Very small
+Saskatchewan,22SR-PAINTON,58.3912,-102.53,2022,1046.6,Natural,Very small
+British Columbia,2022-R21934,53.5521,-127.0484,2022,330.0,Natural,Very small
+British Columbia,2022-G71778,55.6844,-122.4988,2022,1793.0,Natural,Very small
+British Columbia,2022-V11746,49.0115,-120.7316,2022,14970.0,Natural,Very small
+Saskatchewan,22SR-HAWKROCK,58.7222,-104.664,2022,4413.7,Natural,Very small
+Saskatchewan,22SR-MURPHY,58.4777,-104.3263,2022,998.5,Natural,Very small
+British Columbia,2022-K71717,50.5828,-122.1234,2022,1201.0,Natural,Very small
+British Columbia,2022-N51956,49.8559,-117.8081,2022,333.91,Natural,Very small
+British Columbia,2022-N51881,49.3487,-117.1308,2022,796.0,Natural,Very small
+Alberta,MWF-082-2022,59.4281,-111.0923,2022,344.9,Natural,Very small
+Alberta,MWF-080-2022,59.3214,-110.9842,2022,1969.8,Natural,Very small
+Alberta,MWF-077-2022,59.2233,-110.5797,2022,1040.0,Natural,Very small
+Saskatchewan,22SR-SMITH,58.5898,-106.3219,2022,975.6,Natural,Very small
+Saskatchewan,22LA-DOUGALL,55.5418,-105.7414,2022,325.0,Natural,Very small
+Saskatchewan,22SR-DAWSON,58.031,-103.8356,2022,493.0,Natural,Very small
+British Columbia,2022-N41661,50.8311,-117.8456,2022,296.0,Natural,Very small
+British Columbia,2022-V81666,49.7011,-125.698,2022,350.0,Natural,Very small
+British Columbia,2022-N41724,51.2252,-118.095,2022,243.0,Natural,Very small
+Northwest Territories,VQ033-22,66.1357,-128.2802,2022,5673.8,Natural,Very small
+Northwest Territories,FS035-22,61.1246,-120.6338,2022,649.0,Natural,Very small
+Northwest Territories,FS034-22,61.1582,-120.6327,2022,879.0,Natural,Very small
+Northwest Territories,SS073-22,60.3,-118.3667,2022,10041.6,Natural,Very small
+Northwest Territories,ZF071-22,63.0386,-114.7163,2022,516.3,Natural,Very small
+Northwest Territories,ZF072-22,63.4624,-114.0147,2022,703.8,Natural,Very small
+Northwest Territories,SS071-22,61.1833,-111.4333,2022,324.6,Natural,Very small
+Northwest Territories,SS079-22,61.3619,-103.2181,2022,228.1,Natural,Very small
+Alberta,2022WB016,58.1015,-112.512,2022,4400.0,Natural,Very small
+Saskatchewan,22SR-THOMPSON,58.0876,-104.1819,2022,2364.9,Natural,Very small
+Saskatchewan,22LA-MINOR,57.9,-103.8,2022,1600.0,Natural,Very small
+Saskatchewan,22LA-BAILEY,55.7939,-103.6691,2022,1000.0,Natural,Very small
+Alberta,MWF-074-2022,59.8744,-110.2978,2022,4354.4,Natural,Very small
+Northwest Territories,FS030-22,63.069,-123.02,2022,1263.9,Natural,Very small
+Northwest Territories,FS031-22,63.9393,-122.059,2022,6087.6,Natural,Very small
+Northwest Territories,FS029-22,62.0627,-121.1069,2022,3594.2,Natural,Very small
+Northwest Territories,FS032-22,62.8058,-120.1877,2022,1058.8,Natural,Very small
+Northwest Territories,SS074-22,62.1738,-117.7913,2022,343.1,Natural,Very small
+Northwest Territories,SS069-22,60.2444,-111.3497,2022,26762.0,Natural,Small
+British Columbia,2022-V11595,50.071,-122.037,2022,895.0,Natural,Very small
+British Columbia,2022-N72263,49.6497,-117.3124,2022,660.0,Natural,Very small
+Northwest Territories,FS028-22,63.3362,-121.7082,2022,1642.6,Natural,Very small
+Alberta,2022WB015,59.8462,-114.6542,2022,330.0,Natural,Very small
+Northwest Territories,2022NA010,61.2327,-125.937,2022,4000.0,Natural,Very small
+British Columbia,2022-V81461,49.6559,-125.73,2022,248.0,Natural,Very small
+Northwest Territories,SS061-22,60.6262,-109.6252,2022,8726.5,Natural,Very small
+British Columbia,2022-K71440,50.1954,-122.2086,2022,3012.0,Natural,Very small
+Alberta,ABC-003-2022,48.9998,-114.7117,2022,670.0,Unknown,Very small
+Northwest Territories,SS060-22,60.7043,-112.2757,2022,402.2,Natural,Very small
+Saskatchewan,22BN-NEVER,56.8266,-108.5494,2022,5543.5,Natural,Very small
+British Columbia,2022-N41303,50.9282,-117.8662,2022,360.0,Human,Very small
+British Columbia,2022-N71281,49.1917,-117.0842,2022,294.0,Natural,Very small
+Saskatchewan,22SF-HAZLET,50.3379,-108.4819,2022,202.0,Human,Very small
+British Columbia,2022-G71148,55.5312,-122.0367,2022,213.0,Natural,Very small
+British Columbia,2022-N11134,49.5575,-116.3237,2022,422.0,Natural,Very small
+British Columbia,2022-N11064,49.0962,-115.6781,2022,248.0,Natural,Very small
+British Columbia,2022-N11062,49.0017,-114.7119,2022,1245.51,Natural,Very small
+British Columbia,2022-K21279,51.4801,-119.7315,2022,385.8,Natural,Very small
+British Columbia,2022-N41057,51.183,-118.0851,2022,379.0,Natural,Very small
+British Columbia,2022-N10989,49.3086,-115.6165,2022,1719.2,Natural,Very small
+Newfoundland and Labrador,2022-144,49.3408,-55.5691,2022,283.0,Unknown,Very small
+British Columbia,2022-G61701,56.0775,-125.7202,2022,713.0,Natural,Very small
+British Columbia,2022-K40937,50.6997,-118.3108,2022,270.0,Natural,Very small
+Northwest Territories,ZF060-22,63.0,-116.5667,2022,16692.1,Natural,Very small
+British Columbia,2022-K20872,50.8132,-120.5377,2022,268.0,Natural,Very small
+British Columbia,2022-K20943,51.4279,-119.8519,2022,309.0,Natural,Very small
+British Columbia,2022-K50863,49.3697,-119.8173,2022,7042.0,Human,Very small
+British Columbia,2022-N20881,50.7368,-115.7054,2022,1333.0,Natural,Very small
+British Columbia,2022-K70927,50.9198,-121.6894,2022,997.0,Natural,Very small
+Newfoundland and Labrador,2022-139,48.594,-55.514,2022,5614.0,Unknown,Very small
+Newfoundland and Labrador,2022-136,49.3693,-55.495,2022,16750.7,Unknown,Very small
+Northwest Territories,ZF056-22,63.9722,-113.6188,2022,11673.0,Natural,Very small
+Northwest Territories,2022NA008,61.2357,-125.9639,2022,1250.0,Natural,Very small
+Manitoba,WE050,55.1089,-101.8792,2022,7153.9,Natural,Very small
+Alberta,RWF-038-2022,52.4558,-116.2936,2022,480.41,Natural,Very small
+Manitoba,NO050,57.1019,-101.4694,2022,1681.0,Natural,Very small
+Saskatchewan,22DB-PAGATO,56.0797,-102.5499,2022,1469.0,Natural,Very small
+Alberta,LWF-118-2022,56.0411,-110.319,2022,452.0,Natural,Very small
+Manitoba,EA012,52.6697,-96.4333,2022,400.9,Natural,Very small
+Saskatchewan,22BN-CHUNK,56.7196,-108.6419,2022,551.2,Natural,Very small
+Saskatchewan,22LX-FORCIER,56.0776,-107.612,2022,714.3,Natural,Very small
+Alberta,SWF-078-2022,57.1752,-113.1009,2022,1336.9,Natural,Very small
+Manitoba,NO045,55.9517,-100.9692,2022,1038.6,Natural,Very small
+Manitoba,NO044,55.9961,-100.9531,2022,551.3,Natural,Very small
+Manitoba,NO043,56.0394,-100.8894,2022,1229.5,Natural,Very small
+Saskatchewan,22LX-HOLDEN,56.1102,-106.7414,2022,2122.9,Natural,Very small
+Saskatchewan,22DB-RICHARD,55.1044,-102.0827,2022,12727.5,Natural,Very small
+Saskatchewan,22LX-TWIST,56.2068,-106.8695,2022,4997.9,Natural,Very small
+Saskatchewan,22LX-TORN,56.3834,-106.7434,2022,543.9,Natural,Very small
+Manitoba,NO033,56.155,-101.92,2022,22289.0,Natural,Very small
+Manitoba,WE029,54.7378,-100.885,2022,645.2,Natural,Very small
+Manitoba,NO037,56.6503,-98.7706,2022,384.3,Natural,Very small
+Saskatchewan,22BN-GIPSY,56.4741,-109.9955,2022,7976.7,Natural,Very small
+Saskatchewan,22SR-SNARE,58.4454,-107.8726,2022,560.2,Natural,Very small
+Saskatchewan,22SR-DAVY,58.8654,-107.7934,2022,214.1,Natural,Very small
+Saskatchewan,22SR-METOS,59.2799,-107.7316,2022,1063.7,Natural,Very small
+Saskatchewan,22LX-EAGLE,55.9018,-106.9701,2022,659.8,Natural,Very small
+Saskatchewan,22LX-HAWK,56.9705,-106.5565,2022,1216.8,Natural,Very small
+Alberta,MWF-046-2022,57.5632,-111.4393,2022,790.0,Natural,Very small
+Manitoba,NO030,55.8536,-101.1514,2022,2869.8,Natural,Very small
+Manitoba,NO031,56.3669,-100.2911,2022,352.5,Natural,Very small
+Northwest Territories,VQ028-22,66.3775,-117.2001,2022,6270.2,Natural,Very small
+Saskatchewan,22LX-BLACK,55.6395,-107.881,2022,400.7,Natural,Very small
+Saskatchewan,22LX-COOPER,55.6872,-107.1392,2022,2692.0,Natural,Very small
+Saskatchewan,22LX-CUP,56.1848,-106.8064,2022,300.0,Natural,Very small
+Saskatchewan,22LX-VEDETTE,56.5804,-106.6544,2022,9207.8,Natural,Very small
+Saskatchewan,22LX-FOX,57.1195,-106.5464,2022,1192.0,Natural,Very small
+British Columbia,2022-K70580,50.2408,-121.6027,2022,4564.0,Human,Very small
+Manitoba,NO026,56.1419,-101.6492,2022,22289.0,Natural,Very small
+Manitoba,WE026,55.7486,-101.6061,2022,52759.7,Natural,Small
+Manitoba,NO024,56.5719,-101.5894,2022,1791.2,Natural,Very small
+Manitoba,NO027,55.995,-100.6383,2022,1088.9,Natural,Very small
+Manitoba,WE027,54.9761,-99.4022,2022,1448.0,Natural,Very small
+Manitoba,NO022,58.435,-99.0022,2022,469.2,Natural,Very small
+Northwest Territories,ZF052-22,63.5925,-103.3703,2022,582.7,Natural,Very small
+Saskatchewan,22BN-WASK,56.7166,-108.8752,2022,225.8,Natural,Very small
+Saskatchewan,22SR-TODOS,59.3386,-106.72,2022,375.0,Natural,Very small
+Saskatchewan,22DB-LABBEE,55.686,-102.5772,2022,5443.0,Natural,Very small
+Saskatchewan,22LA-KYASKA,56.2171,-102.4527,2022,5000.0,Natural,Very small
+Manitoba,WE019,55.5075,-100.6633,2022,31047.8,Natural,Small
+Manitoba,WE020,55.5133,-100.6406,2022,738.1,Natural,Very small
+Manitoba,WE021,55.5353,-100.5353,2022,32496.9,Natural,Small
+Northwest Territories,VQ029-22,67.5553,-128.9891,2022,2885.2,Natural,Very small
+Northwest Territories,ZF047-22,64.235,-117.5683,2022,944.2,Natural,Very small
+Northwest Territories,ZF049-22,65.9333,-117.1833,2022,573.0,Natural,Very small
+Northwest Territories,ZF050-22,65.9333,-116.555,2022,959.9,Natural,Very small
+Northwest Territories,SS053-22,60.065,-110.5059,2022,6083.2,Natural,Very small
+Northwest Territories,SS056-22,60.156,-105.3048,2022,306.5,Natural,Very small
+Saskatchewan,22LX-WHEELER,57.0488,-106.1797,2022,5873.1,Natural,Very small
+Saskatchewan,22LX-SMOKEY,57.1113,-105.9188,2022,4496.6,Natural,Very small
+Saskatchewan,22LX-RAPID,57.9072,-105.6811,2022,8585.3,Natural,Very small
+Northwest Territories,VQ027-22,66.3807,-127.7324,2022,7265.9,Natural,Very small
+Northwest Territories,FS017-22,60.9862,-120.3518,2022,1430.3,Natural,Very small
+Saskatchewan,22LA-COSTIGAN,56.9604,-105.818,2022,214.0,Natural,Very small
+Saskatchewan,22LA-RUSSEL,57.4491,-105.2609,2022,3382.0,Natural,Very small
+Saskatchewan,22SR-BELL,58.7159,-104.5338,2022,1932.4,Natural,Very small
+Saskatchewan,22SR-HEINZ,58.2326,-102.5477,2022,10373.4,Natural,Very small
+Alberta,HWF-053-2022,59.4006,-115.5616,2022,366.0,Natural,Very small
+Northwest Territories,FS020-22,63.7195,-123.4343,2022,374.1,Natural,Very small
+Northwest Territories,SS052-22,60.8333,-106.8833,2022,1100.0,Natural,Very small
+Northwest Territories,SS050-22,60.5028,-106.5112,2022,613.0,Natural,Very small
+Saskatchewan,22BN-SUNDAY,58.0586,-109.0684,2022,2693.5,Natural,Very small
+Saskatchewan,22LA-GARTH,56.6288,-104.8984,2022,405.0,Natural,Very small
+Northwest Territories,EV011-22,67.8147,-131.8297,2022,358.8,Natural,Very small
+Northwest Territories,VQ023-22,64.9039,-124.6478,2022,16280.8,Natural,Very small
+Northwest Territories,VQ022-22,63.5404,-125.5943,2022,466.2,Natural,Very small
+Northwest Territories,FS019-22,63.0917,-125.0507,2022,655.5,Natural,Very small
+Northwest Territories,FS015-22,62.4333,-122.6,2022,1708.4,Natural,Very small
+Northwest Territories,VQ025-22,64.6641,-120.9103,2022,7981.4,Natural,Very small
+Northwest Territories,VQ026-22,64.6673,-120.1428,2022,759.4,Natural,Very small
+Northwest Territories,ZF034-22,63.825,-120.0917,2022,3177.4,Natural,Very small
+Northwest Territories,ZF035-22,64.7292,-119.4792,2022,223.9,Natural,Very small
+Northwest Territories,ZF037-22,63.925,-119.1917,2022,550.5,Natural,Very small
+Northwest Territories,SS047-22,60.1645,-107.807,2022,435.2,Natural,Very small
+Northwest Territories,ZF033-22,62.5833,-106.0,2022,431.7,Natural,Very small
+Northwest Territories,SS049-22,61.0835,-105.976,2022,496.1,Natural,Very small
+Northwest Territories,ZF038-22,63.5417,-103.9467,2022,730.0,Natural,Very small
+British Columbia,2022-G90789,59.8315,-126.6955,2022,944.8,Natural,Very small
+Northwest Territories,EV007-22,66.9962,-131.5474,2022,4493.7,Natural,Very small
+Northwest Territories,EV008-22,67.073,-131.1924,2022,2679.0,Natural,Very small
+Northwest Territories,EV009-22,67.0503,-131.1002,2022,2005.0,Natural,Very small
+Northwest Territories,VQ018-22,65.4056,-129.2247,2022,646.1,Natural,Very small
+Northwest Territories,VQ015-22,64.2538,-126.604,2022,737.8,Natural,Very small
+Northwest Territories,VQ020-22,63.5922,-125.4358,2022,595.7,Natural,Very small
+Northwest Territories,FS012-22,61.2222,-121.5425,2022,64312.1,Natural,Small
+Northwest Territories,SS038-22,60.6333,-108.1667,2022,3166.3,Natural,Very small
+Northwest Territories,SS046-22,61.2833,-106.95,2022,957.8,Natural,Very small
+Northwest Territories,SS039-22,60.4833,-106.5,2022,823.1,Natural,Very small
+Northwest Territories,SS040-22,60.2667,-106.3,2022,526.8,Natural,Very small
+Northwest Territories,SS042-22,60.3667,-105.4833,2022,227.2,Natural,Very small
+Northwest Territories,SS045-22,61.4167,-105.3833,2022,627.1,Natural,Very small
+Northwest Territories,SS044-22,60.6667,-105.3667,2022,549.7,Natural,Very small
+Northwest Territories,SS043-22,60.2833,-105.2833,2022,739.4,Natural,Very small
+Northwest Territories,2022NA004,61.3221,-126.9162,2022,9200.0,Natural,Very small
+Northwest Territories,2022WB010,60.1411,-114.1775,2022,2225.0,Natural,Very small
+Saskatchewan,22SR-CURRENT,59.0209,-103.7846,2022,962.0,Natural,Very small
+Northwest Territories,SS033-22,61.245,-117.7167,2022,1033.2,Natural,Very small
+Northwest Territories,ZF031-22,62.6242,-105.7742,2022,389.1,Natural,Very small
+Northwest Territories,ZF032-22,62.617,-105.6388,2022,857.2,Natural,Very small
+Northwest Territories,2022TH002,63.033,-108.6091,2022,314.0,Natural,Very small
+Saskatchewan,22BN-BIRCH,56.9854,-107.6241,2022,9897.8,Natural,Very small
+Northwest Territories,EV005-22,67.7915,-135.6185,2022,275.1,Natural,Very small
+Northwest Territories,2022TH001,62.8982,-107.4017,2022,759.0,Natural,Very small
+Northwest Territories,VQ014-22,65.377,-129.8024,2022,287.2,Natural,Very small
+Northwest Territories,2022NA003,61.7986,-126.0213,2022,425.0,Natural,Very small
+Northwest Territories,2022NA002,62.5107,-128.6996,2022,975.0,Natural,Very small
+Northwest Territories,2022NA001,62.3406,-129.1524,2022,560.0,Natural,Very small
+Northwest Territories,VQ010-22,64.965,-126.1419,2022,1564.6,Natural,Very small
+Northwest Territories,SS029-22,60.8908,-112.05,2022,7084.0,Natural,Very small
+British Columbia,2022-R90474,59.3855,-131.2842,2022,1100.0,Natural,Very small
+British Columbia,2022-N70969,49.89,-117.0758,2022,1924.0,Natural,Very small
+Alberta,MWF-033-2022,59.7682,-111.0471,2022,2010.8,Natural,Very small
+Alberta,MWF-034-2022,59.5952,-110.8377,2022,1301.6,Natural,Very small
+Northwest Territories,EV003-22,65.7859,-131.9972,2022,4004.7,Natural,Very small
+British Columbia,2022-R90436,59.7616,-129.4523,2022,12330.0,Natural,Very small
+Northwest Territories,SS027-22,62.1843,-118.3596,2022,270.4,Natural,Very small
+Northwest Territories,ZF024-22,64.42,-117.6723,2022,4596.8,Natural,Very small
+Northwest Territories,ZF025-22,64.76,-117.2283,2022,29246.2,Natural,Small
+Northwest Territories,ZF027-22,63.9673,-114.9938,2022,3973.6,Natural,Very small
+Saskatchewan,22BN-DIGBEE,57.2827,-109.5864,2022,47155.6,Natural,Small
+Manitoba,NO007,57.1058,-100.7919,2022,1183.8,Natural,Very small
+Northwest Territories,VQ008-22,64.4145,-122.7641,2022,15353.3,Natural,Very small
+Saskatchewan,22BN-GOLD,56.2757,-108.1993,2022,2337.4,Natural,Very small
+British Columbia,2022-V50368,50.8752,-124.7301,2022,258.0,Natural,Very small
+Alberta,HWF-043-2022,59.8682,-118.2986,2022,6604.4,Natural,Very small
+Saskatchewan,22LX-BAKER,56.7054,-107.4981,2022,1089.6,Natural,Very small
+Alberta,MWF-031-2022,59.031,-111.1564,2022,40417.71,Natural,Small
+Alberta,MWF-032-2022,56.4519,-110.0784,2022,6585.2,Natural,Very small
+Northwest Territories,FS010-22,60.6188,-124.309,2022,440.5,Natural,Very small
+British Columbia,2022-R90464,57.7019,-127.8192,2022,324.0,Natural,Very small
+British Columbia,2022-G60782,56.1373,-122.9407,2022,1661.7,Natural,Very small
+Northwest Territories,ZF018-22,64.3048,-114.3517,2022,18709.4,Natural,Very small
+Saskatchewan,22BN-BARTLETT,58.617,-109.7866,2022,880.3,Natural,Very small
+Saskatchewan,22SR-MORRISON,58.6998,-108.4098,2022,232.4,Natural,Very small
+Saskatchewan,22LX-MANN,57.5375,-105.1173,2022,463.8,Natural,Very small
+Northwest Territories,VQ006-22,64.3143,-120.98,2022,711.7,Natural,Very small
+Northwest Territories,FS008-22,62.8901,-123.1419,2022,38104.3,Natural,Small
+Northwest Territories,FS009-22,61.9333,-122.4833,2022,9572.7,Natural,Very small
+Northwest Territories,VQ005-22,64.5309,-122.3203,2022,769.4,Natural,Very small
+Northwest Territories,ZF010-22,63.9488,-116.9132,2022,868.3,Natural,Very small
+Northwest Territories,VQ003-22,64.5506,-121.7505,2022,15234.5,Natural,Very small
+Northwest Territories,ZF017-22,65.1555,-118.8825,2022,40234.0,Natural,Small
+Northwest Territories,ZF009-22,61.9497,-115.3353,2022,36706.0,Natural,Small
+Saskatchewan,22SR-BANNOCK,58.89,-102.8815,2022,1194.0,Natural,Very small
+Northwest Territories,FS006-22,60.7223,-123.7153,2022,8660.9,Natural,Very small
+Saskatchewan,22BN-BERRY,58.3268,-109.0462,2022,1786.9,Natural,Very small
+Northwest Territories,ZF008-22,63.7393,-114.7174,2022,27464.6,Natural,Small
+Northwest Territories,SS018-22,60.2543,-110.4927,2022,22811.4,Natural,Very small
+Quebec,20221080269,56.7853,-65.9153,2022,466.7,Natural,Very small
+Saskatchewan,22SR-WATSON,58.7186,-102.8555,2022,1197.6,Natural,Very small
+Saskatchewan,22SR-EVAN,59.4952,-102.3294,2022,20533.3,Natural,Very small
+British Columbia,2022-G90313,58.5758,-127.5882,2022,1608.0,Natural,Very small
+Northwest Territories,SS013-22,60.7788,-113.0658,2022,205.8,Natural,Very small
+Quebec,20221080265,55.1161,-74.4865,2022,1983.4,Natural,Very small
+Quebec,20221080268,52.9563,-74.2485,2022,360.9,Natural,Very small
+Quebec,20221080267,57.8609,-68.1948,2022,200.5,Natural,Very small
+Quebec,20221080266,52.3369,-66.7323,2022,3558.6,Natural,Very small
+Saskatchewan,22SR-BOARDER,59.9876,-108.6862,2022,6691.9,Natural,Very small
+Alberta,MWF-022-2022,59.4184,-110.8127,2022,33207.1,Natural,Small
+Alberta,MWF-025-2022,56.6829,-110.7144,2022,1554.0,Natural,Very small
+Manitoba,NO003,55.855,-100.2961,2022,2684.9,Natural,Very small
+Northwest Territories,SS014-22,60.1663,-109.593,2022,250.2,Natural,Very small
+Northwest Territories,SS015-22,60.0033,-108.657,2022,5543.5,Natural,Very small
+Northwest Territories,SS016-22,61.1188,-104.8418,2022,2738.9,Natural,Very small
+Quebec,20221080264,55.1481,-74.4843,2022,3474.2,Natural,Very small
+Quebec,20221080263,52.259,-72.076,2022,224.6,Natural,Very small
+Saskatchewan,22SR-BYERS,59.7877,-108.3978,2022,1831.1,Natural,Very small
+Alberta,MWF-018-2022,59.641,-111.3252,2022,2942.3,Natural,Very small
+Alberta,LWF-099-2022,56.1632,-110.6552,2022,207.4,Natural,Very small
+Newfoundland and Labrador,2022-602,55.7661,-65.153,2022,424.0,Unknown,Very small
+Northwest Territories,SS012-22,61.6444,-112.0343,2022,461.4,Natural,Very small
+Saskatchewan,22SR-MELEN,59.4494,-106.4954,2022,19123.8,Natural,Very small
+Saskatchewan,22SR-GILES,58.9042,-105.8412,2022,899.5,Natural,Very small
+Saskatchewan,22SR-SHARGORY,59.9028,-104.9408,2022,2910.0,Natural,Very small
+Saskatchewan,22SR-ANDERSON,59.0503,-102.5779,2022,594.8,Natural,Very small
+Alberta,MWF-015-2022,59.8171,-111.1186,2022,4057.9,Natural,Very small
+Manitoba,NO001,56.5836,-99.2147,2022,3713.4,Human,Very small
+Northwest Territories,SS011-22,60.5507,-110.009,2022,3053.0,Natural,Very small
+Northwest Territories,SS006-22,60.9035,-113.2422,2022,830.6,Natural,Very small
+Quebec,20221080261,58.5531,-64.6494,2022,4206.0,Human,Very small
+Quebec,20221080259,56.0537,-71.6195,2022,14768.4,Human,Very small
+Alberta,SWF-035-2022,56.9006,-113.989,2022,262.5,Natural,Very small
+Saskatchewan,22LA-MCCAFE,55.3791,-104.6019,2022,12367.0,Human,Very small
+British Columbia,2022-G80265,57.3972,-122.3773,2022,545.0,Natural,Very small
+Northwest Territories,FS003-22,62.1872,-121.9398,2022,1028.8,Natural,Very small
+Northwest Territories,FS004-22,63.7368,-121.3692,2022,23283.5,Natural,Very small
+Alberta,HWF-014-2022,59.9713,-119.9997,2022,386.0,Natural,Very small
+Alberta,HWF-013-2022,59.71,-119.7668,2022,8300.0,Natural,Very small
+Alberta,HWF-015-2022,59.2928,-118.9971,2022,3000.0,Natural,Very small
+British Columbia,2022-G90274,59.9817,-120.0221,2022,488.11,Natural,Very small
+Saskatchewan,22HB-RICE,53.9125,-102.2217,2022,221.6,Human,Very small
+Ontario,SUD4,46.3085,-80.7542,2022,229.0,Human,Very small
+Ontario,SUD7,46.6348,-80.5547,2022,221.0,Human,Very small
+Nova Scotia,04-004-2022,43.9741,-65.5871,2022,3199.09,Human,Very small
+Ontario,TIM1,47.4608,-81.4159,2022,1445.199951,Human,Very small
+Manitoba,MB2021EA208,51.97833322,-99.48777777,2021,278.5806156,Human,Very small
+Manitoba,MB2021EA209,52.61765893,-95.42719429,2021,2050.472156,Natural,Very small
+Manitoba,MB2021EA211,51.47207755,-95.34671737,2021,216.9509047,Natural,Very small
+Manitoba,MB2021EA210,51.55482444,-95.45543975,2021,307.842548,Natural,Very small
+Manitoba,MB2021EA207,49.76129877,-96.27861495,2021,1117.604503,Human,Very small
+Manitoba,MB2021NO160,55.563271,-96.37465789,2021,1371.601914,Natural,Very small
+Manitoba,MB2021NO161,55.44726019,-96.2522203,2021,2223.170085,Natural,Very small
+Saskatchewan,21HB-SHENIGAN,52.794167,-102.782933,2021,318.7,Human,Very small
+Manitoba,MB2021WE093,55.04109819,-100.5464202,2021,409.2236459,Human,Very small
+Manitoba,MB2021NO154,57.93790898,-100.5727019,2021,338.0505611,Natural,Very small
+Manitoba,MB2021NO162,59.19254166,-98.9157063,2021,2101.57963,Natural,Very small
+Manitoba,MB2021NO177,59.00673827,-99.13373283,2021,201.508695,Natural,Very small
+Manitoba,MB2021NO165,59.0407824,-99.06973828,2021,561.5864878,Natural,Very small
+Manitoba,MB2021NO163,58.94302247,-99.1314895,2021,2851.749181,Natural,Very small
+Manitoba,MB2021NO158,59.25682768,-98.44872609,2021,1960.051579,Natural,Very small
+Manitoba,MB2021NO168,58.88240789,-100.2015231,2021,248.0410343,Natural,Very small
+Manitoba,MB2021NO159,59.25631635,-100.1809097,2021,1775.613545,Natural,Very small
+Manitoba,MB2021NO164,59.1300801,-100.8867673,2021,231.4990364,Natural,Very small
+Manitoba,MB2021NO166,59.77868412,-101.0647973,2021,310.9998719,Natural,Very small
+Manitoba,MB2021NO167,59.73569133,-100.8569185,2021,679.8052994,Natural,Very small
+Saskatchewan,21HB-SMOKE,53.191383,-102.966367,2021,15685.0,Natural,Very small
+Saskatchewan,21HB-PEPAW,52.59735,-102.302267,2021,1491.5,Natural,Very small
+Saskatchewan,21HB-RESERVE,52.4742,-102.599467,2021,357.3,Natural,Very small
+Saskatchewan,21LA-KELLY,55.870233,-103.848883,2021,200.3,Natural,Very small
+Saskatchewan,21LA-BAILEY,57.124117,-104.520683,2021,360.0,Natural,Very small
+Saskatchewan,21LA-WILMA,57.030817,-104.43735,2021,2781.0,Natural,Very small
+Manitoba,MB2021NO152,57.67692142,-100.0463727,2021,1624.006493,Natural,Very small
+Manitoba,MB2021NO174,56.89672806,-97.46689937,2021,504.8100274,Natural,Very small
+Manitoba,MB2021NO171,58.16256811,-97.47439546,2021,3794.191223,Natural,Very small
+Manitoba,MB2021NO173,57.93047852,-97.35501922,2021,1822.176229,Natural,Very small
+Manitoba,MB2021NO172,57.92929976,-96.6224017,2021,7446.112072,Natural,Very small
+Manitoba,MB2021NO169,57.63050919,-98.43948187,2021,9692.9661,Natural,Very small
+British Columbia,2021-K52739,49.4488,-119.6524,2021,227.0,Human,Very small
+Manitoba,MB2021EA204,51.29564183,-95.28416842,2021,227.6076754,Natural,Very small
+Ontario,COC28,49.5202,-79.5424,2021,332.0,Natural,Very small
+Saskatchewan,21BN-DIGBY,55.666067,-109.986717,2021,379.4,Natural,Very small
+Ontario,HEA4,50.1759,-84.1953,2021,1850.0,Natural,Very small
+British Columbia,2021-K52627,49.8144,-119.7134,2021,976.0,Human,Very small
+British Columbia,2021-N12620,49.1867,-115.4508,2021,286.0,Unknown,Very small
+British Columbia,2021-K62615,49.8292,-120.8955,2021,500.0,Human,Very small
+British Columbia,2021-G72591,55.5293,-122.4928,2021,2542.0,Human,Very small
+Alberta,LWF-184-2021,55.678433,-112.2258,2021,499.5,Natural,Very small
+British Columbia,2021-G62563,56.4545,-125.7329,2021,435.0,Human,Very small
+Saskatchewan,21LA-PATTER,57.755283,-104.29515,2021,425.9,Natural,Very small
+British Columbia,2021-G72511,54.5042,-120.5935,2021,6500.0,Natural,Very small
+Manitoba,MB2021NO146,56.21593357,-99.71072922,2021,200.4372172,Natural,Very small
+Saskatchewan,21DB-BIRKETT,55.1435,-103.672667,2021,246.0,Natural,Very small
+Northwest Territories,SS010-21,60.883017,-108.01895,2021,807.7,Natural,Very small
+Northwest Territories,SS011-21,60.254167,-103.632183,2021,676.0,Natural,Very small
+Ontario,FOR120,48.2727,-91.7607,2021,214.199997,Natural,Very small
+Saskatchewan,21SR-TRAIN,59.680817,-107.0122,2021,281.9,Natural,Very small
+Manitoba,MB2021EA196,52.37649398,-96.49387758,2021,690.4016443,Natural,Very small
+Manitoba,MB2021NO141,55.98270532,-98.61398999,2021,986.6462192,Natural,Very small
+British Columbia,2021-G72463,55.0356,-120.5133,2021,2512.0,Natural,Very small
+British Columbia,2021-C32369,52.478,-120.7149,2021,332.0,Natural,Very small
+Saskatchewan,21SR-CAMSELL,59.641073,-109.440186,2021,776.2,Natural,Very small
+Saskatchewan,21LX-ERIR01,57.375714,-107.06622,2021,224.5,Natural,Very small
+Saskatchewan,21SR-FARAUD,59.787283,-105.13365,2021,3852.1,Natural,Very small
+Saskatchewan,21SR-CUNNING,58.421952,-103.619281,2021,629.2,Natural,Very small
+Manitoba,MB2021NO135,56.4138022,-99.65739505,2021,4798.34798,Natural,Very small
+Manitoba,MB2021NO137,56.94714135,-99.73335176,2021,356.668118,Natural,Very small
+Manitoba,MB2021NO132,56.81245912,-101.4238636,2021,1253.893886,Natural,Very small
+Manitoba,MB2021NO134,56.4588892,-100.4542343,2021,923.0391114,Natural,Very small
+Yukon,2021WL010,60.75,-129.8666667,2021,200.0,Natural,Very small
+Northwest Territories,FS028-21,62.291667,-124.012167,2021,2664.3,Natural,Very small
+British Columbia,2021-G92297,59.3923,-120.9856,2021,566.0,Natural,Very small
+Saskatchewan,21LA-GERMAN,56.456,-103.469483,2021,216.8,Natural,Very small
+Saskatchewan,21LA-PEARCE2,57.762183,-102.762583,2021,1245.2,Natural,Very small
+Saskatchewan,21SR-BROWN,58.078,-104.217,2021,572.9,Natural,Very small
+Manitoba,MB2021NO129,56.71347619,-100.3471444,2021,9253.461059,Natural,Very small
+Manitoba,MB2021NO123,55.3748669,-97.10897059,2021,915.4696177,Natural,Very small
+Manitoba,MB2021NO124,56.91816964,-96.29535092,2021,7959.36004,Natural,Very small
+Manitoba,MB2021NO126,57.26281564,-96.8811711,2021,2821.512348,Natural,Very small
+Manitoba,MB2021NO125,57.23511317,-96.38782593,2021,22785.10254,Natural,Very small
+Northwest Territories,VQ018-21,65.3941,-126.3654,2021,408.3,Natural,Very small
+Northwest Territories,VQ019-21,65.216667,-126.066933,2021,2602.1,Natural,Very small
+British Columbia,2021-V12269,49.9067,-121.5862,2021,405.0,Natural,Very small
+British Columbia,2021-V12270,49.6827,-121.7927,2021,465.0,Natural,Very small
+British Columbia,2021-V12262,49.5155,-121.8413,2021,256.0,Natural,Very small
+Saskatchewan,21LA-WATHA,57.017571,-103.704019,2021,373.7,Natural,Very small
+Saskatchewan,21SR-YURKOW,58.711423,-105.041122,2021,1506.9,Natural,Very small
+Saskatchewan,21DB-GOLD,55.702617,-102.01995,2021,344.5,Natural,Very small
+Saskatchewan,21LA-PINK,56.6346,-104.313233,2021,8690.5,Natural,Very small
+Saskatchewan,21LA-CHATWIN2,56.670133,-105.203083,2021,1110.2,Natural,Very small
+Saskatchewan,21LA-TRADE,55.417883,-104.080367,2021,451.8,Natural,Very small
+Manitoba,MB2021NO121,57.41179632,-94.95783052,2021,6560.992197,Natural,Very small
+Saskatchewan,21LA-MELANSON,55.625407,-105.963546,2021,201.0,Natural,Very small
+Saskatchewan,21SR-NICHOL,58.202433,-103.995483,2021,4458.6,Natural,Very small
+Saskatchewan,21LA-CHRISTIE2,57.573983,-105.100817,2021,26249.3,Natural,Small
+Saskatchewan,21SR-THERIAU,58.41808,-104.491344,2021,4498.8,Natural,Very small
+Manitoba,MB2021WE083,55.23225696,-100.7819032,2021,2205.628076,Natural,Very small
+Northwest Territories,EV030-21,67.386933,-131.205,2021,13954.2,Natural,Very small
+Northwest Territories,ZF042-21,63.5071,-119.893333,2021,9260.5,Natural,Very small
+Manitoba,MB2021WE080,53.47205204,-101.3591452,2021,526.6286174,Natural,Very small
+Manitoba,MB2021NO110,58.33892345,-96.44901772,2021,11654.90212,Natural,Very small
+Manitoba,MB2021NO108,56.96183663,-93.93124293,2021,389.0231851,Natural,Very small
+Manitoba,MB2021NO109,57.72880019,-94.01529379,2021,209.5083721,Natural,Very small
+Manitoba,MB2021NO112,55.81914417,-95.18507107,2021,746.5257961,Natural,Very small
+Manitoba,MB2021NO106,57.99446011,-98.60979136,2021,41257.59764,Natural,Small
+Manitoba,MB2021NO103,53.53358135,-95.52780958,2021,516.6119879,Natural,Very small
+Manitoba,MB2021WE078,52.75850919,-99.36779112,2021,9556.786482,Natural,Very small
+Manitoba,MB2021WE075,55.43979676,-101.5820992,2021,911.1632421,Natural,Very small
+Manitoba,MB2021NO101,57.59611651,-101.3118384,2021,873.0244494,Natural,Very small
+Manitoba,MB2021NO102,57.38697029,-101.3345806,2021,2430.7807,Natural,Very small
+Manitoba,MB2021NO099,54.95477882,-93.80937409,2021,253.9254092,Natural,Very small
+Northwest Territories,ZF041-21,63.2896,-119.404833,2021,3452.9,Natural,Very small
+Northwest Territories,VQ016-21,65.3507,-126.366967,2021,5335.1,Natural,Very small
+Ontario,SLK115,53.3609,-91.6648,2021,980.5,Natural,Very small
+British Columbia,2021-K22230,52.3038,-119.9537,2021,2169.0,Natural,Very small
+Manitoba,MB2021EA182,51.44382451,-95.75972911,2021,230.7195528,Natural,Very small
+Manitoba,MB2021EA181,51.45193821,-95.65045932,2021,937.1827195,Natural,Very small
+Ontario,NIP71,50.4659,-85.7818,2021,731.2000122,Natural,Very small
+Saskatchewan,21HB-NOMAN,54.121767,-103.27615,2021,1423.7,Natural,Very small
+Saskatchewan,21LA-TEN,55.935883,-103.63255,2021,1038.8,Natural,Very small
+Manitoba,MB2021NO094,53.38386201,-97.37591591,2021,388.8448101,Natural,Very small
+Manitoba,MB2021EA177,52.12822137,-95.18925774,2021,2962.343654,Natural,Very small
+Northwest Territories,ZF038-21,63.674333,-115.758667,2021,297.0,Natural,Very small
+Northwest Territories,ZF035-21,63.086167,-116.7765,2021,7327.4,Natural,Very small
+Northwest Territories,2021NA010,61.8588,-125.306,2021,1133.2,Natural,Very small
+Saskatchewan,21LA-BAR,55.487574,-106.456414,2021,714.6,Natural,Very small
+Manitoba,MB2021EA175,51.57501752,-97.00390868,2021,577.5001824,Natural,Very small
+Manitoba,MB2021EA171,51.81820852,-95.17883429,2021,4770.258205,Natural,Very small
+Northwest Territories,VQ012-21,64.923,-124.582,2021,2034.3,Natural,Very small
+Ontario,RED216,51.432,-95.1413,2021,803.7999878,Natural,Very small
+British Columbia,2021-N12156,49.8158,-116.5103,2021,312.0,Natural,Very small
+Alberta,CCU-004-2021,50.683333,-111.438167,2021,2000.0,Unknown,Very small
+Manitoba,MB2021EA168,52.36954668,-95.67577321,2021,615.1404892,Natural,Very small
+Yukon,2021MA011,63.12,-132.8037,2021,466.0,Natural,Very small
+Northwest Territories,FS023-21,62.166333,-122.324167,2021,557.9,Natural,Very small
+Northwest Territories,VQ010-21,65.750083,-128.128967,2021,3894.5,Natural,Very small
+Northwest Territories,ZF034-21,63.680333,-115.824167,2021,8575.4,Natural,Very small
+Northwest Territories,VQ014-21,65.349083,-124.955433,2021,359.1,Natural,Very small
+Yukon,2021VU001,68.42467,-138.67091,2021,200.0,Unknown,Very small
+Ontario,RED221,53.7808,-93.1434,2021,236.199997,Natural,Very small
+British Columbia,2021-K42140,50.5729,-118.2739,2021,1122.0,Natural,Very small
+British Columbia,2021-K42139,50.6103,-118.2545,2021,462.0,Natural,Very small
+Saskatchewan,21SR-OTTER,59.02492,-104.29195,2021,313.2,Natural,Very small
+Saskatchewan,21SR-OFFSET,59.814207,-104.055157,2021,286.0,Natural,Very small
+Saskatchewan,21SR-MCGILL,59.941481,-107.694694,2021,10123.2,Natural,Very small
+Yukon,2021RR009,62.65781667,-132.2158833,2021,500.0,Natural,Very small
+Northwest Territories,EV013-21,67.033333,-135.6,2021,5445.7,Natural,Very small
+Northwest Territories,SS009-21,60.613333,-106.842833,2021,555.2,Natural,Very small
+Northwest Territories,VQ006-21,66.028733,-127.601633,2021,3383.5,Natural,Very small
+Northwest Territories,VQ005-21,65.878433,-127.279567,2021,1300.4,Natural,Very small
+Ontario,DRY76,49.7769,-91.77,2021,546.0,Natural,Very small
+British Columbia,2021-N42094,51.2721,-116.7151,2021,445.0,Natural,Very small
+British Columbia,2021-N42162,51.6879,-117.8181,2021,210.0,Natural,Very small
+British Columbia,2021-K42078,50.7952,-118.9828,2021,2499.0,Human,Very small
+Saskatchewan,21LA-ROMAN,55.565833,-105.81,2021,7596.0,Natural,Very small
+Manitoba,MB2021NO088,54.98166391,-95.52989239,2021,510.5009055,Natural,Very small
+Manitoba,MB2021NO086,54.93211794,-97.60765276,2021,5416.891009,Natural,Very small
+Ontario,DRY71,49.7029,-91.5916,2021,730.0999756,Natural,Very small
+British Columbia,2021-K62058,49.9112,-121.2255,2021,244.0,Natural,Very small
+British Columbia,2021-K52061,49.0892,-119.4862,2021,19335.0,Human,Very small
+British Columbia,2021-K62088,49.1858,-120.6746,2021,14735.3,Human,Very small
+Saskatchewan,21SR-KIDD,58.044633,-103.992333,2021,2554.2,Natural,Very small
+Saskatchewan,21LA-BURRELL,55.519367,-106.161833,2021,8704.0,Natural,Very small
+Saskatchewan,21LA-AIR,55.643617,-106.256233,2021,940.0,Natural,Very small
+Saskatchewan,21SR-WEERES,58.476,-106.985,2021,1908.3,Natural,Very small
+Saskatchewan,21LX-ENS,58.026745,-105.182418,2021,403.3,Natural,Very small
+Saskatchewan,21SR-REITH,58.492,-106.186,2021,209.2,Natural,Very small
+Saskatchewan,21DB-GOLDEN,55.3181,-102.076267,2021,216.5,Natural,Very small
+Saskatchewan,21LA-ANGUS,55.784167,-104.853,2021,326.5,Natural,Very small
+Saskatchewan,21SR-YOTIN,59.971778,-104.856741,2021,3164.8,Natural,Very small
+Manitoba,MB2021NO084,57.2036258,-101.6577089,2021,795.3374974,Human,Very small
+Manitoba,MB2021EA158,51.64232787,-96.6606118,2021,1056.518931,Natural,Very small
+Yukon,2021CA005,62.5644,-136.2011167,2021,3500.0,Natural,Very small
+Ontario,SLK104,52.7057,-92.1881,2021,967.5,Natural,Very small
+Saskatchewan,21SR-FLATT,59.196376,-103.390048,2021,332.8,Natural,Very small
+Saskatchewan,21SR-TAYLOR,59.567,-103.02,2021,716.7,Natural,Very small
+Saskatchewan,21LA-NESBITT,55.29955,-104.537333,2021,923.1,Natural,Very small
+Saskatchewan,21LA-PETA,55.741232,-104.358817,2021,1894.8,Natural,Very small
+Saskatchewan,21SR-PLUTO,59.279023,-104.997312,2021,1290.0,Natural,Very small
+Saskatchewan,21SR-CORA,59.506533,-105.465583,2021,17899.8,Natural,Very small
+Saskatchewan,21SR-STEVE,59.378983,-105.122983,2021,3907.8,Natural,Very small
+Manitoba,MB2021EA153,50.06681914,-95.21024311,2021,813.808713,Natural,Very small
+Manitoba,MB2021EA151,51.89222949,-95.56389258,2021,461.1586937,Natural,Very small
+Ontario,RED163,52.4098,-94.4032,2021,441.7000122,Natural,Very small
+Ontario,RED192,51.825,-95.1483,2021,439.2000122,Natural,Very small
+Ontario,SLK73,52.585,-92.4561,2021,3744.399902,Natural,Very small
+Ontario,RED147,51.7015,-94.9022,2021,2248.899902,Natural,Very small
+British Columbia,2021-N42008,51.7118,-118.5825,2021,300.0,Natural,Very small
+British Columbia,2021-K42042,49.9315,-118.6371,2021,5080.5,Natural,Very small
+Saskatchewan,21HB-WEASEL,54.01095,-103.084767,2021,233.4,Natural,Very small
+Saskatchewan,21HB-NISKA,53.55645,-101.778983,2021,418.1,Natural,Very small
+Saskatchewan,21LX-MCLURG,55.048322,-106.658134,2021,772.0,Natural,Very small
+Manitoba,MB2021NO077,56.9258158,-101.6903217,2021,507.4452486,Natural,Very small
+Manitoba,MB2021NO079,56.39447598,-97.93821668,2021,9927.311623,Natural,Very small
+Manitoba,MB2021NO083,57.74109161,-94.50675161,2021,14660.70157,Natural,Very small
+British Columbia,2021-K22068,51.674,-119.7617,2021,582.0,Natural,Very small
+Saskatchewan,21DB-FORSBERG,54.840783,-102.83735,2021,677.9,Natural,Very small
+Saskatchewan,21LF-POINT,53.85751,-104.087168,2021,4796.9,Natural,Very small
+Saskatchewan,21DB-HOBB,54.601917,-102.819767,2021,3699.0,Natural,Very small
+Saskatchewan,21LX-PLAWR03,55.328567,-109.8502,2021,1477.0,Natural,Very small
+Saskatchewan,21LA-HADLEY,55.592433,-105.897567,2021,2394.0,Natural,Very small
+Saskatchewan,21LX-PINEHOUSE,55.669117,-106.410067,2021,798.5,Natural,Very small
+Saskatchewan,21LX-COWPACK,55.759399,-106.39579,2021,2655.9,Natural,Very small
+Manitoba,MB2021NO071,56.2089856,-99.89393216,2021,250.3115738,Natural,Very small
+Manitoba,MB2021NO073,56.05207014,-101.579318,2021,3194.491136,Natural,Very small
+Manitoba,MB2021WE064,55.51445377,-100.8670223,2021,56543.86529,Natural,Small
+Manitoba,MB2021WE062,55.08103558,-101.147589,2021,236.0085735,Natural,Very small
+Manitoba,MB2021NO074,54.07094525,-98.31942107,2021,2283.11478,Natural,Very small
+Manitoba,MB2021EA150,51.88638136,-96.53824615,2021,4023.667422,Natural,Very small
+Manitoba,MB2021EA145,51.55725472,-96.39890744,2021,87305.46782,Natural,Small
+Ontario,NIP60,51.612,-88.9331,2021,410.6000061,Natural,Very small
+Ontario,SLK106,52.3952,-91.825,2021,1175.599976,Natural,Very small
+Ontario,RED137,51.8618,-94.5081,2021,5779.799805,Natural,Very small
+British Columbia,2021-C31947,52.6294,-120.4232,2021,1512.0,Natural,Very small
+Alberta,MWF-083-2021,56.534444,-112.563975,2021,328.0,Natural,Very small
+Alberta,MWF-082-2021,57.506667,-113.605,2021,471.7,Natural,Very small
+Saskatchewan,21LF-WHITE,54.019237,-105.220222,2021,470.0,Natural,Very small
+Saskatchewan,21LX-MOOSE,57.097783,-106.80192,2021,683.9,Natural,Very small
+Saskatchewan,21LA-BIRNIE,55.465667,-106.232667,2021,3360.0,Natural,Very small
+Manitoba,MB2021WE058,53.03746628,-99.84859302,2021,541.2060771,Natural,Very small
+British Columbia,2021-K41921,50.8709,-118.4258,2021,682.0,Human,Very small
+British Columbia,2021-N11958,49.6556,-115.4299,2021,540.0,Natural,Very small
+Saskatchewan,21SR-AHENAKEW,58.066024,-103.861931,2021,300.0,Natural,Very small
+Saskatchewan,21LA-NICHOL,56.075883,-106.4132,2021,3017.1,Natural,Very small
+Saskatchewan,21HB-BELL,53.205583,-102.628,2021,88805.3,Natural,Small
+Saskatchewan,21DB-CHICKUN,55.555865,-101.963336,2021,491.0,Natural,Very small
+Saskatchewan,21SR-SHASKO,59.175167,-106.704333,2021,22951.4,Natural,Very small
+Saskatchewan,21SR-TORWALT,58.293033,-103.900717,2021,462.2,Natural,Very small
+Saskatchewan,21BN-WESTEND,55.813533,-109.57595,2021,2323.2,Natural,Very small
+Saskatchewan,21LX-HAWK,56.662997,-107.399667,2021,1946.4,Natural,Very small
+Saskatchewan,21LA-TORRANS,56.8948,-105.89975,2021,242.9,Natural,Very small
+Manitoba,MB2021EA136,51.55666646,-96.34555561,2021,497.4653849,Natural,Very small
+Manitoba,MB2021WE056,55.49131413,-99.89533352,2021,1370.266412,Natural,Very small
+Manitoba,MB2021NO063,56.43803929,-96.40637886,2021,17939.88167,Natural,Very small
+Manitoba,MB2021EA133,51.49410156,-95.92958468,2021,2266.064797,Natural,Very small
+Manitoba,MB2021NO058,55.44524235,-95.60202087,2021,544.6056765,Natural,Very small
+Manitoba,MB2021EA136,51.55666646,-96.34555561,2021,497.4653849,Natural,Very small
+British Columbia,2021-K61882,49.742,-121.1041,2021,19660.7,Natural,Very small
+British Columbia,2021-G31934,52.6855,-119.4231,2021,200.0,Natural,Very small
+Alberta,MWF-079-2021,57.42035,-110.35745,2021,3948.0,Natural,Very small
+Alberta,MWF-078-2021,57.515424,-110.829576,2021,1274.9,Natural,Very small
+Saskatchewan,21LA-BROWN,56.35095,-103.88735,2021,6385.0,Natural,Very small
+Saskatchewan,21LA-BERNARD,56.2834,-102.28,2021,14250.6,Natural,Very small
+Saskatchewan,21BN-DYCK,57.613945,-108.707156,2021,493.6,Natural,Very small
+Saskatchewan,21LF-LITTLE,54.374733,-104.641133,2021,824.4,Natural,Very small
+Saskatchewan,21BN-BORDER,55.393867,-109.940067,2021,2983.0,Natural,Very small
+Saskatchewan,21LF-LORENZ,54.038017,-104.923417,2021,2022.9,Natural,Very small
+Manitoba,MB2021WE055,55.31277759,-100.1763889,2021,596.958462,Natural,Very small
+Manitoba,MB2021WE049,55.72948273,-100.2393481,2021,20748.83767,Natural,Very small
+Manitoba,MB2021WE053,55.56364417,-101.9503271,2021,426.8460583,Natural,Very small
+Manitoba,MB2021NO054,55.57498794,-99.13857084,2021,803.3452079,Natural,Very small
+Manitoba,MB2021NO051,55.49035406,-95.69473558,2021,310.7110715,Natural,Very small
+Northwest Territories,ZF025-21,64.2525,-118.845667,2021,602.0,Natural,Very small
+Northwest Territories,FS020-21,62.234533,-123.155483,2021,1214.4,Natural,Very small
+Ontario,NIP54,51.3576,-88.4139,2021,303.1000061,Natural,Very small
+Ontario,COC26,53.8125,-83.4977,2021,7628.0,Natural,Very small
+Ontario,SLK60,51.6863,-92.0777,2021,1212.699951,Natural,Very small
+British Columbia,2021-K61884,50.3058,-120.0268,2021,83342.0,Natural,Small
+British Columbia,2021-C41866,51.2348,-121.4345,2021,454.0,Natural,Very small
+Alberta,SWF-099-2021,57.151889,-113.221668,2021,5960.0,Natural,Very small
+Saskatchewan,21LA-STOVER,56.351466,-105.795398,2021,780.9,Natural,Very small
+Saskatchewan,21BR-HELENE,53.649167,-108.134833,2021,7160.5,Natural,Very small
+Saskatchewan,21LA-HARES,56.841254,-105.911649,2021,13949.5,Natural,Very small
+Saskatchewan,21LA-TOM,57.167193,-102.617955,2021,518.8,Natural,Very small
+Saskatchewan,21LA-KYASKA,56.272483,-102.4139,2021,6955.0,Natural,Very small
+Saskatchewan,21LA-FOSTER,56.408167,-105.878167,2021,784.9,Natural,Very small
+Saskatchewan,21LA-KELSEY,56.9879,-103.975833,2021,3673.2,Natural,Very small
+Saskatchewan,21LA-CHRISTIE,57.61095,-105.070867,2021,7837.6,Natural,Very small
+Saskatchewan,21LA-APEX,56.639834,-104.233834,2021,8276.6,Natural,Very small
+Manitoba,MB2021NO034,54.10001812,-94.64061912,2021,433.7902358,Natural,Very small
+Manitoba,MB2021WE048,55.72361094,-100.1672222,2021,596.958462,Natural,Very small
+Manitoba,MB2021NO041,56.10324487,-100.0222037,2021,202.0289012,Natural,Very small
+Manitoba,MB2021WE046,55.61182281,-101.7116519,2021,634.886381,Natural,Very small
+Manitoba,MB2021NO036,55.87017878,-101.7216862,2021,3967.973762,Natural,Very small
+Manitoba,MB2021WE047,55.06885024,-99.50922734,2021,6168.690613,Natural,Very small
+Manitoba,MB2021NO045,56.32489098,-96.00457122,2021,8595.999502,Natural,Very small
+Manitoba,MB2021NO033,54.05782245,-94.44590051,2021,3017.504909,Natural,Very small
+Manitoba,MB2021EA119,51.27307126,-95.16569884,2021,1167.677318,Natural,Very small
+Northwest Territories,SS006-21,60.54095,-107.452067,2021,3042.9,Natural,Very small
+Northwest Territories,ZF024-21,65.79945,-117.331117,2021,14020.7,Natural,Very small
+Northwest Territories,VQ004-21,64.015683,-129.48185,2021,318.6,Natural,Very small
+Northwest Territories,SS005-21,60.917833,-106.078167,2021,573.2,Natural,Very small
+Northwest Territories,SS004-21,60.6885,-106.391167,2021,1223.5,Natural,Very small
+Ontario,RED114,51.8729,-95.0651,2021,35646.60156,Natural,Small
+Ontario,RED127,52.2953,-93.747,2021,550.4000244,Natural,Very small
+Ontario,RED102,52.593,-93.5705,2021,2909.5,Natural,Very small
+Ontario,RED120,52.3435,-94.7343,2021,3627.899902,Natural,Very small
+British Columbia,2021-C11805,53.1181,-121.2105,2021,1758.0,Natural,Very small
+British Columbia,2021-N72278,50.3371,-116.8081,2021,956.0,Natural,Very small
+British Columbia,2021-K51794,49.3616,-119.534,2021,10597.0,Human,Very small
+Alberta,MWF-067-2021,57.153667,-112.768,2021,665.3,Natural,Very small
+Saskatchewan,21DB-ALIR01,54.565767,-102.395767,2021,31492.0,Natural,Small
+Saskatchewan,21LA-ROTHNIE,55.93055,-103.953583,2021,1280.6,Natural,Very small
+Saskatchewan,21LA-KLYNE,56.390083,-103.313083,2021,4197.9,Natural,Very small
+Saskatchewan,21LA-SEIR02,56.389383,-103.1698,2021,4678.9,Natural,Very small
+Saskatchewan,21LA-MILNE,56.42135,-103.125,2021,406.9,Natural,Very small
+Saskatchewan,21LA-POND,54.688483,-104.5345,2021,8466.3,Natural,Very small
+Saskatchewan,21LA-CONTACT,56.2349,-103.744017,2021,18616.1,Natural,Very small
+Saskatchewan,21LA-GRAY,55.917783,-104.232333,2021,22315.5,Natural,Very small
+Saskatchewan,21LA-WARNER,57.1179,-103.92565,2021,347.1,Natural,Very small
+Saskatchewan,21DB-MCGAFFIN,55.766033,-102.3876,2021,13097.6,Natural,Very small
+Saskatchewan,21LA-MINE,55.696278,-104.739087,2021,7903.0,Natural,Very small
+Saskatchewan,21LA-HENSCHEL,55.74495,-104.277467,2021,1656.7,Natural,Very small
+Saskatchewan,21LA-RATTLER,55.6848,-104.4635,2021,692.3,Natural,Very small
+Saskatchewan,21LA-WHITE,56.045383,-103.279967,2021,8851.8,Natural,Very small
+Saskatchewan,21LA-NUNN,55.211283,-104.414117,2021,3415.6,Natural,Very small
+Manitoba,MB2021EA118,51.88816755,-96.00067579,2021,232.98696,Natural,Very small
+Manitoba,MB2021WE042,54.44069558,-100.0495451,2021,746.61898,Natural,Very small
+Manitoba,MB2021WE034,55.12722216,-100.1472222,2021,208.9354617,Natural,Very small
+Manitoba,MB2021WE038,55.08567576,-101.6479852,2021,9832.286703,Natural,Very small
+Manitoba,MB2021WE032,55.2258528,-100.2472142,2021,64114.55824,Natural,Small
+Manitoba,MB2021WE037,54.74653627,-99.56834398,2021,520.8623081,Natural,Very small
+Manitoba,MB2021WE036,54.71411983,-99.58171202,2021,425.0626323,Natural,Very small
+Manitoba,MB2021NO031,54.18166304,-97.17364736,2021,3851.905911,Natural,Very small
+Manitoba,MB2021EA116,51.80044586,-95.73794898,2021,21224.04194,Natural,Very small
+Manitoba,MB2021NO031,54.18166304,-97.17364736,2021,3851.905911,Natural,Very small
+Northwest Territories,FS019-21,61.8367,-123.5243,2021,14083.7,Natural,Very small
+Northwest Territories,ZF023-21,63.5825,-112.2603,2021,505.7,Natural,Very small
+Ontario,RED139,51.8927,-94.5585,2021,392.7999878,Natural,Very small
+British Columbia,2021-K41807,50.9426,-118.4572,2021,498.0,Natural,Very small
+British Columbia,2021-N41814,51.8419,-118.338,2021,911.0,Natural,Very small
+British Columbia,2021-K21867,51.6667,-120.4051,2021,395.0,Natural,Very small
+British Columbia,2021-G51748,54.4973,-125.0085,2021,310.8,Natural,Very small
+British Columbia,2021-C11753,53.0511,-121.0511,2021,395.0,Natural,Very small
+British Columbia,2021-N11795,49.5229,-116.6259,2021,1130.0,Natural,Very small
+Alberta,MWF-059-2021,57.0999,-110.594483,2021,4138.7,Natural,Very small
+Saskatchewan,21SR-MURPHY,58.5031,-104.159417,2021,28037.3,Natural,Small
+Saskatchewan,21LX-BUDD,54.859957,-106.844065,2021,16650.4,Natural,Very small
+Saskatchewan,21LA-MULE,55.342915,-104.552801,2021,1041.0,Natural,Very small
+Saskatchewan,21SR-FISHER,58.237,-104.91,2021,57760.7,Natural,Small
+Saskatchewan,21LX-PARKER,55.334183,-108.443217,2021,1568.3,Natural,Very small
+Saskatchewan,21BN-LANDING,56.08215,-108.76615,2021,222.7,Natural,Very small
+Manitoba,MB2021NO020,53.07809723,-95.17071269,2021,544.2376866,Natural,Very small
+Manitoba,MB2021NO022,53.2113428,-94.64552706,2021,1016.918537,Natural,Very small
+Northwest Territories,EV010-21,66.921267,-134.017667,2021,24009.3,Natural,Small
+Ontario,NIP37,50.2203,-85.9479,2021,2125.699951,Natural,Very small
+Ontario,COC22,50.6925,-84.9222,2021,2062.0,Natural,Very small
+Ontario,RED108,52.1304,-95.1147,2021,20831.09961,Natural,Very small
+Ontario,RED111,53.267,-94.3681,2021,1543.099976,Natural,Very small
+British Columbia,2021-G41711,53.5819,-123.7386,2021,4891.0,Natural,Very small
+British Columbia,2021-K41769,51.0811,-118.8232,2021,4359.0,Natural,Very small
+British Columbia,2021-K41656,51.0385,-118.7119,2021,420.0,Natural,Very small
+Alberta,MWF-042-2021,57.564867,-110.303767,2021,28011.4,Natural,Small
+Saskatchewan,21LX-MANSON,56.242533,-107.814367,2021,14206.3,Natural,Very small
+Saskatchewan,21BN-WESTGATE,57.38405,-107.873767,2021,4665.8,Natural,Very small
+Saskatchewan,21LX-MAYSON,57.984704,-107.105819,2021,7695.4,Natural,Very small
+Saskatchewan,21SR-KEWEN,58.171783,-103.807033,2021,11977.4,Natural,Very small
+Saskatchewan,21LA-MILLER,57.16245,-104.175,2021,3559.9,Natural,Very small
+Saskatchewan,21LA-WATHAMAN,57.006,-104.278,2021,11102.0,Natural,Very small
+Saskatchewan,21DB-FRIDAY,54.9395,-103.402,2021,430.2,Human,Very small
+Saskatchewan,21LA-LYNX,55.353083,-105.0267,2021,5044.6,Natural,Very small
+Saskatchewan,21DN-STRIKE,54.524833,-108.6491,2021,3027.9,Natural,Very small
+Saskatchewan,21LA-GMB01,55.612867,-104.63375,2021,6680.0,Natural,Very small
+Saskatchewan,21LF-HARDING,53.851717,-104.532583,2021,25259.0,Natural,Small
+Saskatchewan,21LA-DOUG,54.947833,-105.846983,2021,873.0,Natural,Very small
+Saskatchewan,21LA-CREEK,54.960333,-105.843417,2021,250.0,Natural,Very small
+Saskatchewan,21DB-PIX,55.281033,-103.800233,2021,3217.0,Natural,Very small
+Saskatchewan,21LA-MOSS,54.899833,-105.517967,2021,1365.0,Natural,Very small
+Saskatchewan,21WY-RABBIT,54.84925,-105.442483,2021,3014.3,Natural,Very small
+Manitoba,MB2021WE029,54.39692311,-100.8888029,2021,2505.582071,Natural,Very small
+Manitoba,MB2021NO015,55.78048809,-100.9510293,2021,1159.722386,Human,Very small
+Manitoba,MB2021NO019,55.29622778,-98.74840853,2021,229.255048,Natural,Very small
+Manitoba,MB2021NO018,55.76640074,-97.22964131,2021,1050.737655,Natural,Very small
+Northwest Territories,FS018-21,62.783333,-122.85,2021,1616.1,Natural,Very small
+Northwest Territories,2021NA008,61.167833,-125.463667,2021,738.8,Natural,Very small
+Ontario,FOR57,48.3219,-91.5073,2021,7137.0,Natural,Very small
+British Columbia,2021-N51705,49.6324,-117.4644,2021,6023.0,Natural,Very small
+British Columbia,2021-K51924,49.874,-120.0433,2021,871.0,Unknown,Very small
+British Columbia,2021-N51800,49.7245,-118.0476,2021,22049.0,Natural,Very small
+British Columbia,2021-K51845,49.169,-120.2467,2021,400.0,Natural,Very small
+British Columbia,2021-N51724,49.7316,-117.2868,2021,2359.0,Natural,Very small
+British Columbia,2021-K21644,50.8643,-120.0019,2021,991.0,Natural,Very small
+British Columbia,2021-K41676,51.1594,-118.908,2021,3355.0,Natural,Very small
+British Columbia,2021-N71793,50.1698,-116.6126,2021,1075.0,Natural,Very small
+British Columbia,2021-C41602,51.4937,-121.617,2021,73862.0,Natural,Small
+British Columbia,2021-C51606,52.7128,-125.6437,2021,924.0,Natural,Very small
+British Columbia,2021-K41651,50.5159,-118.47,2021,1265.0,Natural,Very small
+British Columbia,2021-K21658,51.3485,-119.3933,2021,16534.0,Natural,Very small
+British Columbia,2021-V11669,50.0495,-121.4527,2021,5097.9,Natural,Very small
+British Columbia,2021-N61687,49.335,-118.3545,2021,7431.0,Natural,Very small
+British Columbia,2021-N11629,49.746,-115.6278,2021,2990.0,Natural,Very small
+Alberta,MWF-040-2021,57.58725,-110.412733,2021,500.0,Natural,Very small
+Alberta,HWF-059-2021,58.88675,-114.9492,2021,2728.0,Natural,Very small
+Saskatchewan,21SR-MAY,59.441133,-105.291405,2021,2005.0,Natural,Very small
+Manitoba,MB2021WE024,53.91489015,-99.89686027,2021,1137.800618,Natural,Very small
+Manitoba,MB2021EA112,50.78391172,-95.18811252,2021,4931.499293,Natural,Very small
+Northwest Territories,FS017-21,62.183333,-123.05,2021,6858.6,Natural,Very small
+British Columbia,2021-C52323,52.9432,-125.5573,2021,233.67,Natural,Very small
+British Columbia,2021-K21849,50.6622,-121.2018,2021,63547.7,Natural,Small
+British Columbia,2021-N71686,49.4616,-116.6764,2021,3795.0,Natural,Very small
+British Columbia,2021-N71743,49.3605,-116.2915,2021,910.0,Natural,Very small
+Saskatchewan,21SR-CHER,59.14465,-103.6596,2021,2772.0,Natural,Very small
+Saskatchewan,21DB-ALSMITH,54.974167,-103.871567,2021,255.4,Natural,Very small
+Saskatchewan,21BN-ASINEE,57.446574,-108.134968,2021,445.0,Natural,Very small
+Northwest Territories,FS016-21,61.756967,-120.958467,2021,1839.1,Natural,Very small
+Northwest Territories,FS015-21,62.079633,-122.497233,2021,507.4,Natural,Very small
+Ontario,NIP62,51.8121,-88.7327,2021,285.7000122,Natural,Very small
+British Columbia,2021-K41561,50.5628,-118.679,2021,4733.0,Natural,Very small
+British Columbia,2021-R21558,54.0604,-126.9482,2021,200.0,Natural,Very small
+British Columbia,2021-R11562,53.5063,-126.1315,2021,20750.0,Natural,Very small
+Saskatchewan,21LA-PEARCE,57.76965,-102.752617,2021,834.0,Natural,Very small
+Saskatchewan,21DB-PAGATO,56.166233,-102.439133,2021,225.8,Natural,Very small
+Saskatchewan,21LA-BORDER,55.834283,-103.338633,2021,6475.0,Natural,Very small
+Saskatchewan,21LA-SIMMER,56.395183,-105.431433,2021,5506.6,Natural,Very small
+Saskatchewan,21SR-STALLARD,59.2752,-105.516483,2021,2966.4,Natural,Very small
+Quebec,20211080450,54.3859,-76.8618,2021,9824.7,Natural,Very small
+Ontario,COC21,51.5717,-81.2849,2021,300.0,Natural,Very small
+British Columbia,2021-C11491,53.2661,-123.9222,2021,8100.0,Natural,Very small
+British Columbia,2021-G91588,58.8237,-126.9705,2021,400.0,Natural,Very small
+British Columbia,2021-N71813,50.4768,-117.3516,2021,522.0,Natural,Very small
+British Columbia,2021-R91496,57.8668,-129.2931,2021,7493.8,Natural,Very small
+British Columbia,2021-C41515,51.7056,-120.7814,2021,330.0,Natural,Very small
+British Columbia,2021-VA1545,52.2115,-126.0311,2021,297.0,Natural,Very small
+Saskatchewan,21LA-WAPUS,56.510383,-102.306133,2021,5278.7,Natural,Very small
+Quebec,20211080453,55.3554,-76.0912,2021,26858.9,Natural,Small
+Yukon,2021RR005,62.45848333,-132.7066,2021,1000.0,Natural,Very small
+Northwest Territories,2021NA006,61.302093,-125.545164,2021,11262.9,Natural,Very small
+Northwest Territories,2021NA007,61.398333,-124.985567,2021,636.6,Natural,Very small
+Ontario,SLK47,52.0072,-91.8672,2021,19840.80078,Natural,Very small
+Ontario,FOR56,48.2749,-91.5639,2021,1273.0,Natural,Very small
+British Columbia,2021-K21809,51.6211,-119.0143,2021,481.6,Natural,Very small
+British Columbia,2021-N71875,50.7001,-117.2439,2021,248.0,Natural,Very small
+British Columbia,2021-C41395,51.9179,-120.8967,2021,1600.0,Natural,Very small
+Manitoba,MB2021WE022,52.1371662,-100.4876507,2021,2297.991695,Natural,Very small
+Northwest Territories,ZF016-21,63.109667,-111.740833,2021,981.6,Natural,Very small
+Ontario,RED68,51.5026,-93.5136,2021,26674.40039,Natural,Small
+Ontario,RED72,51.1031,-94.5618,2021,5931.299805,Natural,Very small
+Ontario,RED64,51.9991,-93.2755,2021,11843.7998,Natural,Very small
+Ontario,RED93,52.0977,-94.8664,2021,1226.300049,Natural,Very small
+Ontario,RED73,51.104,-94.8551,2021,8400.599609,Natural,Very small
+Ontario,SLK50,53.8039,-91.0023,2021,256.5,Natural,Very small
+Ontario,RED77,50.9414,-94.5493,2021,36037.80078,Natural,Small
+Ontario,RED70,51.2617,-94.4711,2021,12001.5,Natural,Very small
+Ontario,RED81,53.8833,-92.9307,2021,5162.899902,Natural,Very small
+Ontario,RED65,52.0212,-94.6329,2021,20254.40039,Natural,Very small
+British Columbia,2021-N51765,49.5865,-118.1862,2021,14032.0,Natural,Very small
+British Columbia,2021-C51355,52.4862,-125.6745,2021,1533.0,Natural,Very small
+British Columbia,2021-K41384,50.6033,-118.5722,2021,623.0,Natural,Very small
+Saskatchewan,21BN-ROCK,56.613017,-108.5373,2021,6044.1,Natural,Very small
+Saskatchewan,21LA-WAPA,54.83495,-104.48485,2021,23016.1,Natural,Very small
+Saskatchewan,21LA-PAUL,57.339933,-105.337483,2021,4496.8,Natural,Very small
+Saskatchewan,21SR-WHITE,59.233467,-103.853167,2021,573.5,Natural,Very small
+British Columbia,2021-G61381,56.787,-125.7108,2021,7770.0,Natural,Very small
+British Columbia,2021-N51317,49.6662,-118.11,2021,500.0,Natural,Very small
+Alberta,LWF-129-2021,55.720233,-110.439217,2021,372.0,Natural,Very small
+Saskatchewan,21LA-POTHOLE,55.230244,-104.586391,2021,1874.1,Human,Very small
+Saskatchewan,21BN-FROG,56.615017,-108.252317,2021,17717.2,Natural,Very small
+Saskatchewan,21BN-OGSTON,56.67305,-109.861583,2021,10833.0,Natural,Very small
+Ontario,RED55,51.3923,-92.3226,2021,474.6000061,Human,Very small
+Ontario,SLK39,51.8658,-91.0777,2021,17514.40039,Natural,Very small
+Ontario,SLK37,53.374,-90.6015,2021,244.3999939,Natural,Very small
+British Columbia,2021-K21361,51.794,-119.7198,2021,358.0,Natural,Very small
+British Columbia,2021-K21478,51.4094,-119.4053,2021,219.0,Natural,Very small
+British Columbia,2021-K21232,50.6232,-120.7082,2021,289.5,Natural,Very small
+British Columbia,2021-C51290,52.054,-125.0824,2021,7195.0,Human,Very small
+British Columbia,2021-N71245,49.3163,-116.8813,2021,7589.0,Natural,Very small
+British Columbia,2021-K22007,51.4766,-119.5238,2021,832.0,Natural,Very small
+British Columbia,2021-N41254,51.6858,-118.57,2021,430.0,Natural,Very small
+British Columbia,2021-N41221,51.5881,-117.5438,2021,457.0,Natural,Very small
+Northwest Territories,SS003-21,61.827667,-110.151333,2021,341.2,Natural,Very small
+Ontario,SLK35,53.2152,-90.7602,2021,478.6000061,Natural,Very small
+Ontario,RED67,51.4406,-94.3157,2021,14536.7998,Natural,Very small
+British Columbia,2021-G41269,53.5995,-124.814,2021,33418.0,Natural,Small
+British Columbia,2021-C41147,51.933,-120.9927,2021,636.0,Natural,Very small
+British Columbia,2021-C31115,52.5841,-121.0421,2021,327.0,Natural,Very small
+British Columbia,2021-G61199,56.3877,-125.0223,2021,10678.0,Natural,Very small
+British Columbia,2021-C41100,51.7593,-120.8599,2021,3049.0,Natural,Very small
+British Columbia,2021-C41097,51.2125,-120.9229,2021,7453.0,Natural,Very small
+British Columbia,2021-C41102,51.5793,-120.8678,2021,652.0,Natural,Very small
+British Columbia,2021-K71086,50.2261,-121.5832,2021,83671.3,Human,Small
+British Columbia,2021-C31295,52.3129,-120.9089,2021,609.0,Natural,Very small
+British Columbia,2021-G11126,53.5005,-123.974,2021,1451.0,Natural,Very small
+British Columbia,2021-G61132,55.3892,-124.5843,2021,8412.0,Natural,Very small
+British Columbia,2021-G71138,54.9433,-121.2515,2021,3380.0,Natural,Very small
+British Columbia,2021-G71134,54.7725,-121.2412,2021,258.0,Natural,Very small
+British Columbia,2021-G61316,56.2893,-125.502,2021,16314.0,Natural,Very small
+Saskatchewan,21SR-LAUDER,59.6077,-104.667233,2021,29197.0,Natural,Small
+Manitoba,MB2021EA102,52.76416622,-95.48805572,2021,1193.916924,Natural,Very small
+Manitoba,MB2021EA101,52.80382467,-95.43820389,2021,36608.50857,Natural,Small
+Yukon,2021WL002,60.58456667,-125.2057,2021,500.0,Natural,Very small
+Yukon,2021WL003,60.73645,-125.8087,2021,1000.0,Natural,Very small
+Yukon,2021WL005,60.50043333,-125.2618833,2021,300.0,Natural,Very small
+Northwest Territories,2021NA004,61.004867,-125.675667,2021,1689.4,Natural,Very small
+Northwest Territories,2021NA005,60.960867,-125.14735,2021,14155.8,Natural,Very small
+British Columbia,2021-K71030,50.9456,-121.9177,2021,44964.2,Human,Small
+British Columbia,2021-C11179,52.6452,-123.3899,2021,760.0,Natural,Very small
+British Columbia,2021-K51041,49.9205,-118.9089,2021,1140.0,Natural,Very small
+Saskatchewan,21LA-FRASER,57.055983,-104.846383,2021,24293.4,Natural,Small
+Saskatchewan,21LA-BRIGGS,57.98875,-104.694033,2021,23125.5,Natural,Very small
+Ontario,RED57,51.3243,-94.4933,2021,1404.699951,Natural,Very small
+Ontario,RED51,52.5677,-94.8214,2021,53521.89844,Natural,Small
+British Columbia,2021-G80997,57.4972,-123.0157,2021,6398.5,Natural,Very small
+British Columbia,2021-G91020,57.7957,-122.8647,2021,3470.0,Natural,Very small
+British Columbia,2021-K21001,50.9096,-120.8122,2021,95980.0,Human,Medium
+British Columbia,2021-G81007,57.1428,-121.865,2021,3359.0,Natural,Very small
+Alberta,MWF-025-2021,57.802733,-113.388867,2021,1536.1,Natural,Very small
+Saskatchewan,21BN-LOCK,55.755957,-109.273838,2021,24234.2,Natural,Small
+Saskatchewan,21LA-TIGHE,57.711033,-103.150683,2021,1961.5,Natural,Very small
+Manitoba,MB2021EA096,52.29641298,-96.08560565,2021,271700.52,Natural,Large
+Yukon,2021WL001,60.70795,-125.2876167,2021,1200.0,Natural,Very small
+British Columbia,2021-C31056,52.2685,-120.8955,2021,1834.0,Human,Very small
+Manitoba,MB2021EA091,52.69430342,-96.71758033,2021,8146.909717,Natural,Very small
+Ontario,SLK43,51.8093,-90.5985,2021,8509.5,Natural,Very small
+Ontario,FOR55,48.36,-91.3995,2021,3696.0,Natural,Very small
+Saskatchewan,21LA-TAYLOR,56.301379,-105.262104,2021,19851.0,Natural,Very small
+Saskatchewan,21SR-ACTON,59.326996,-104.761018,2021,18966.7,Natural,Very small
+Northwest Territories,ZF006-21,64.419333,-118.704167,2021,567.7,Natural,Very small
+Northwest Territories,ZF007-21,64.720333,-118.672167,2021,572.1,Natural,Very small
+Northwest Territories,EV007-21,65.8538,-132.0166,2021,211.0,Natural,Very small
+Saskatchewan,21SR-DUNES,58.961533,-109.41405,2021,914.0,Natural,Very small
+Saskatchewan,21LA-WHEELER,57.506461,-104.937956,2021,273.0,Natural,Very small
+Northwest Territories,ZF004-21,63.724167,-115.555167,2021,870.3,Natural,Very small
+Saskatchewan,21LA-GREG,55.171617,-106.105767,2021,602.0,Natural,Very small
+Saskatchewan,21LA-HIGHWAY,55.110267,-106.596917,2021,785.8,Natural,Very small
+Yukon,2021OC002,67.32333333,-138.8388333,2021,450.0,Natural,Very small
+Ontario,NIP24,53.0557,-88.2898,2021,316.2999878,Natural,Very small
+Yukon,2021MA003,63.77893333,-137.29515,2021,3379.0,Natural,Very small
+Quebec,20211080409,53.3322,-78.4345,2021,316.4,Natural,Very small
+Quebec,20211080412,52.6301,-76.8588,2021,247.1,Natural,Very small
+Quebec,20211080434,53.622,-73.5333,2021,3207.3,Natural,Very small
+Ontario,COC13,49.9786,-80.2252,2021,271.6000061,Natural,Very small
+Quebec,20211080400,48.5108,-77.8375,2021,437.8,Human,Very small
+Ontario,SLK17,50.8662,-91.8695,2021,1690.800049,Human,Very small
+British Columbia,2021-K70804,50.1776,-121.5657,2021,5017.1,Human,Very small
+Northwest Territories,2021NA001,61.681667,-123.753611,2021,12230.2,Natural,Very small
+Ontario,FOR38,48.2569,-91.7126,2021,3380.199951,Natural,Very small
+Ontario,FOR40,48.2072,-91.6204,2021,937.0,Natural,Very small
+Ontario,FOR35,48.2401,-91.888,2021,37158.39844,Natural,Small
+Quebec,20211080306,48.9076,-70.456,2021,212.8,Human,Very small
+Quebec,20211080326,49.4379,-71.3612,2021,3397.9,Natural,Very small
+Quebec,20211080329,49.9876,-71.0024,2021,1611.9,Natural,Very small
+Ontario,THU33,49.6261,-89.6898,2021,216.699997,Natural,Very small
+Ontario,NIP18,52.1116,-87.7849,2021,368.5,Natural,Very small
+British Columbia,2021-G61192,55.7882,-124.5433,2021,13659.0,Natural,Very small
+Ontario,KEN51,50.6897,-95.0167,2021,191810.0,Natural,Medium
+Saskatchewan,21LF-GULL,53.952641,-105.150176,2021,1081.9,Natural,Very small
+Saskatchewan,21BN-BHILL,55.996267,-109.43225,2021,291.7,Natural,Very small
+Ontario,DRY31,50.1285,-90.3268,2021,1038.800049,Natural,Very small
+Ontario,NIP7,49.0962,-87.6431,2021,2410.0,Natural,Very small
+Ontario,FOR47,48.867,-93.6147,2021,407.0,Natural,Very small
+Ontario,FOR19,48.6207,-91.0363,2021,265.0,Natural,Very small
+Ontario,THU36,48.8815,-90.7882,2021,613.2999878,Natural,Very small
+Saskatchewan,21BN-DILLON,55.763917,-109.4432,2021,594.2,Natural,Very small
+Saskatchewan,21LX-SWAN1,54.874267,-106.691067,2021,1392.9,Natural,Very small
+Quebec,20211080294,53.3684,-72.4091,2021,297.3,Natural,Very small
+Quebec,20211080307,49.6026,-68.4614,2021,490.0,Natural,Very small
+Northwest Territories,FS001-21,62.216667,-122.433333,2021,6024.8,Natural,Very small
+British Columbia,2021-C21250,51.43,-122.2371,2021,12040.0,Natural,Very small
+Ontario,SLK46,52.0461,-91.2858,2021,3987.699951,Natural,Very small
+Ontario,RED16,51.3855,-94.9221,2021,158737.0,Natural,Medium
+Quebec,20211080293,53.7725,-71.6012,2021,339.8,Natural,Very small
+Quebec,20211080295,53.6643,-72.6302,2021,910.9,Natural,Very small
+Manitoba,MB2021EA065,51.26743766,-97.50710606,2021,286.5755682,Human,Very small
+Manitoba,MB2021EA063,51.7089232,-99.18073791,2021,397.6594056,Human,Very small
+Saskatchewan,21PA-JSIR02,53.11695,-104.88425,2021,236.7,Human,Very small
+Manitoba,MB2021WE010,51.62600204,-100.3507944,2021,7936.380801,Human,Very small
+Manitoba,MB2021WE011,51.96398223,-100.5179337,2021,7546.427213,Unknown,Very small
+Manitoba,MB2021WE013,52.60155445,-100.8924577,2021,1159.658091,Unknown,Very small
+Manitoba,MB2021EA059,49.91610539,-95.34079361,2021,1431.390387,Human,Very small
+Saskatchewan,21PA-CLOVERDALE,53.235783,-105.665783,2021,5469.9,Natural,Very small
+Saskatchewan,21PA-DIVISION,53.269967,-104.7166,2021,1239.7,Natural,Very small
+Manitoba,MB2021EA056,50.02045437,-95.91925458,2021,7528.869076,Human,Very small
+Manitoba,MB2021WE007,49.71828165,-99.43239963,2021,5974.597779,Unknown,Very small
+Ontario,KEN25,49.8115,-94.0268,2021,2062.0,Human,Very small
+Ontario,RED10,50.7696,-94.6797,2021,6004.299805,Natural,Very small
+British Columbia,2021-G31653,53.0015,-120.3473,2021,237.0,Natural,Very small
+Manitoba,MB2021EA055,50.25999941,-96.79305567,2021,1293.410001,Unknown,Very small
+Ontario,SLK5,50.4723,-92.1404,2021,226.1000061,Natural,Very small
+Ontario,KEN30,49.863,-93.9732,2021,1162.0,Natural,Very small
+Ontario,KEN27,50.2309,-94.6187,2021,4480.0,Natural,Very small
+Ontario,SLK3,50.43,-92.329,2021,3103.800049,Natural,Very small
+Manitoba,MB2021WE006,52.21368392,-100.1743056,2021,4323.018127,Human,Very small
+Manitoba,MB2021EA047,52.10003332,-99.64381595,2021,21195.50013,Human,Very small
+Saskatchewan,21SF-KFN01,50.539775,-102.599992,2021,1682.3,Human,Very small
+Manitoba,MB2021EA042,51.79343436,-98.39381145,2021,892.5452615,Human,Very small
+Manitoba,MB2021EA044,52.00460961,-99.15760189,2021,173626.8091,Human,Medium
+Manitoba,MB2021WE005,51.73485257,-100.1489919,2021,10078.69583,Human,Very small
+Manitoba,MB2021WE003,52.75333311,-100.7216666,2021,596.958462,Human,Very small
+Manitoba,MB2021EA033,49.33256007,-96.20851383,2021,1977.38343,Human,Very small
+Alberta,WCU-002-2021,53.3649,-114.820492,2021,2219.0,Unknown,Very small
+Alberta,LCU-002-2021,54.602017,-112.386683,2021,208.11,Unknown,Very small
+Alberta,WCU-003-2021,53.761017,-114.646717,2021,400.0,Unknown,Very small
+Manitoba,MB2021EA025,51.63125501,-98.59382075,2021,978.8017763,Human,Very small
+Alberta,EWF-036-2021,53.414,-115.785417,2021,479.3,Human,Very small
+Saskatchewan,21HB-PELLY,51.990217,-101.930217,2021,381.0,Human,Very small
+Manitoba,MB2021EA019,51.73393665,-98.45958012,2021,665.1855834,Human,Very small
+Ontario,FOR3,48.8193,-94.5632,2021,592.0,Human,Very small
+Manitoba,MB2021EA015,50.94632252,-97.7618377,2021,230.9800217,Human,Very small
+British Columbia,2021-K60230,50.1046,-120.26,2021,500.0,Human,Very small
+Saskatchewan,21DN-TRACKS01,52.62956,-109.558145,2021,248.9,Human,Very small
+Manitoba,MB2021EA014,51.33527765,-97.53472224,2021,294.4995079,Human,Very small
+Manitoba,MB2021EA012,51.72998736,-99.08083611,2021,506.3248735,Human,Very small
+Manitoba,MB2021EA011,51.7880654,-98.37077053,2021,791.6915597,Human,Very small
+Manitoba,MB2021EA008,51.72154845,-98.60601719,2021,326.6787164,Human,Very small
+Manitoba,MB2021EA004,51.87448119,-98.34275825,2021,215.3696991,Human,Very small
+Manitoba,MB2021EA005,51.84224179,-98.34301302,2021,912.9200882,Human,Very small
+Manitoba,MB2021EA006,51.83555518,-98.36972225,2021,919.6145107,Human,Very small
+Manitoba,MB2021EA007,51.78564631,-99.20906582,2021,1333.681673,Human,Very small
+British Columbia,2021-K60064,50.0834,-120.5157,2021,839.0,Human,Very small
+Manitoba,MB2021WE001,49.881111,-99.55,2021,224.854354,Human,Very small
+Manitoba,MB2021EA002,49.60576764,-96.34493277,2021,215.4283989,Human,Very small
+Alberta,CMD-001-2021,49.97845,-113.59695,2021,6500.0,Unknown,Very small
+Alberta,CWF-156-2020,51.322217,-115.2826,2020,2420.0,Human,Very small
+British Columbia,2020-K51287,49.41,-119.5514,2020,2122.5,Unknown,Very small
+British Columbia,2020-N21257,50.068,-116.1429,2020,7645.0,Natural,Very small
+British Columbia,2020-V51227,50.8476,-124.5364,2020,388.0,Natural,Very small
+British Columbia,2020-N51250,49.5817,-117.6962,2020,1302.0,Natural,Very small
+British Columbia,2020-V31179,50.2067,-122.5038,2020,367.5,Natural,Very small
+Manitoba,MB2020NO050,56.469167,-90.654722,2020,254.9,Natural,Very small
+Newfoundland and Labrador,2020_616,53.76,-66.15,2020,1030.0,Natural,Very small
+Ontario,RED49,50.9709,-93.9093,2020,552.0,Human,Very small
+Ontario,NIP45,51.4206,-88.6421,2020,6678.0,Natural,Very small
+Ontario,NIP47,51.5281,-86.9343,2020,707.4000244,Natural,Very small
+Ontario,NIP49,51.3316,-85.6571,2020,391.3999939,Natural,Very small
+Northwest Territories,SS032-20,60.0645,-118.231166,2020,203.0,Natural,Very small
+Manitoba,MB2020NO049,57.583611,-101.356944,2020,202.8,Natural,Very small
+Quebec,20201080622,51.5378,-61.8633,2020,439.0,Natural,Very small
+Quebec,20201080634,51.9117,-59.7019,2020,604.4,Natural,Very small
+Manitoba,MB2020NO029,57.6,-96.646389,2020,248.9,Natural,Very small
+Manitoba,MB2020NO027,57.436944,-96.176111,2020,1814.1,Natural,Very small
+Manitoba,MB2020NO021,57.209444,-98.147222,2020,352.1,Natural,Very small
+Manitoba,MB2020NO023,57.264722,-93.480556,2020,661.8,Natural,Very small
+Manitoba,MB2020NO022,57.198333,-93.471667,2020,723.0,Natural,Very small
+Ontario,COC18,55.0804,-88.9964,2020,250.0,Natural,Very small
+Ontario,SLK26,54.042,-90.2941,2020,260.0,Natural,Very small
+British Columbia,2020-N71114,49.8152,-117.0298,2020,1160.0,Natural,Very small
+Ontario,COC9,53.9908,-83.5694,2020,200.0,Natural,Very small
+Newfoundland and Labrador,2020_605,52.28,-66.15,2020,2002.5,Natural,Very small
+Newfoundland and Labrador,2020_606,54.02,-60.77,2020,388.0,Natural,Very small
+Newfoundland and Labrador,2020_607,54.15,-59.22,2020,373.0,Natural,Very small
+Quebec,20201080588,52.8739,-68.2114,2020,321.9,Natural,Very small
+Quebec,20201080580,53.1542,-77.0434,2020,294.9,Natural,Very small
+Quebec,20201080565,52.4331,-70.0842,2020,1074.9,Natural,Very small
+Ontario,RED29,52.6455,-94.5349,2020,283.0,Natural,Very small
+Quebec,20201080538,53.4744,-70.1792,2020,2651.4,Natural,Very small
+Quebec,20201080546,53.3819,-70.5653,2020,1416.4,Natural,Very small
+Ontario,RED18,53.4969,-92.9962,2020,1693.0,Natural,Very small
+Northwest Territories,ZF016-20,64.919166,-117.404166,2020,900.0,Natural,Very small
+Northwest Territories,ZF015-20,64.925,-117.441666,2020,234.0,Natural,Very small
+Northwest Territories,SS016-20,60.027333,-111.0425,2020,489.61,Natural,Very small
+Saskatchewan,20SR-OLDMAN,59.629476,-107.521191,2020,301.5,Natural,Very small
+Northwest Territories,ZF013-20,62.840333,-116.769,2020,550.0,Natural,Very small
+Alberta,MWF-014-2020,59.064833,-110.731,2020,254.2,Natural,Very small
+Northwest Territories,SS021-20,60.5455,-107.6015,2020,1000.0,Natural,Very small
+Northwest Territories,SS020-20,60.307333,-109.420166,2020,200.0,Natural,Very small
+Northwest Territories,ZF012-20,64.606166,-119.737166,2020,1150.0,Natural,Very small
+Northwest Territories,EV003-20,68.253833,-133.769666,2020,354.0,Human,Very small
+Northwest Territories,SS014-20,60.265333,-105.836833,2020,2029.79,Natural,Very small
+Northwest Territories,SS008-20,60.515166,-105.548166,2020,2117.31,Natural,Very small
+Northwest Territories,SS009-20,60.566666,-104.5,2020,1000.0,Natural,Very small
+Northwest Territories,SS011-20,61.466666,-107.983333,2020,700.0,Natural,Very small
+Northwest Territories,SS010-20,61.066666,-104.65,2020,1000.0,Natural,Very small
+Northwest Territories,SS006-20,61.280333,-112.012833,2020,1969.21,Natural,Very small
+Northwest Territories,FS004-20,63.278166,-121.660333,2020,2971.3,Natural,Very small
+Northwest Territories,FS001-20,63.181,-121.372333,2020,3724.0,Natural,Very small
+Quebec,20201080433,47.4653,-69.922,2020,361.1,Human,Very small
+Ontario,RED22,53.0434,-94.8175,2020,1109.300049,Natural,Very small
+Ontario,COC7,53.083,-83.3351,2020,500.0,Natural,Very small
+Quebec,20201080395,49.6073,-71.5166,2020,50891.5,Human,Small
+Ontario,RED9,51.5888,-94.8599,2020,363.1000061,Natural,Very small
+Yukon,2020MA001,65.25503333,-135.9007333,2020,200.0,Natural,Very small
+Saskatchewan,20HB-SLASH,52.872333,-102.838717,2020,293.6,Natural,Very small
+Yukon,2020OC003,67.91171667,-138.7592333,2020,1047.0,Natural,Very small
+Yukon,2020OC002,66.49645,-138.0443833,2020,1800.0,Natural,Very small
+Yukon,2020OC001,66.30716667,-136.7602167,2020,200.0,Natural,Very small
+Manitoba,MB2020EA036,51.386667,-96.954444,2020,479.0,Human,Very small
+Manitoba,MB2020EA035,50.798333,-95.769167,2020,9028.8,Natural,Very small
+Manitoba,MB2020WE011,51.814722,-100.311944,2020,1228.8,Human,Very small
+New Brunswick,NO-2-16-38,46.58783,-65.721,2020,838.0,Human,Very small
+Manitoba,MB2020WE008,51.890278,-100.481389,2020,2000.0,Human,Very small
+Manitoba,MB2020WE009,51.77,-100.469167,2020,2230.0,Human,Very small
+Manitoba,MB2020EA027,49.398611,-96.110833,2020,232.9,Human,Very small
+Manitoba,MB2020EA021,51.910278,-98.314444,2020,264.4,Human,Very small
+Manitoba,MB2020WE004,52.085833,-100.179722,2020,25260.3,Human,Small
+Saskatchewan,20ER-GOODSPIRIT,51.49995,-102.641917,2020,773.2,Unknown,Very small
+Manitoba,MB2020EA017,51.881944,-99.560556,2020,205.0,Human,Very small
+Saskatchewan,20PA-ENGLISH,53.308333,-105.016667,2020,40898.4,Human,Small
+Alberta,SWF-013-2020,55.246944,-116.609589,2020,243.79,Human,Very small
+Manitoba,MB2020EA011,52.012778,-99.646389,2020,1291.0,Human,Very small
+British Columbia,2020-V30067,49.889,-123.2615,2020,203.0,Human,Very small
+British Columbia,2019-R91233,57.8689,-132.023,2019,4600.0,Natural,Very small
+British Columbia,2019-K51244,49.2563,-119.5052,2019,2632.0,Human,Very small
+Northwest Territories,ZF056-19,63.178833,-106.256666,2019,500.0,Natural,Very small
+Yukon,2019OC005,68.10615,-139.49275,2019,363.0,Natural,Very small
+Ontario,RED59,51.1928,-94.6378,2019,3961.899902,Natural,Very small
+Ontario,RED62,53.5655,-93.7541,2019,517.7000122,Natural,Very small
+Manitoba,MB2019NE083,59.022778,-97.296111,2019,590.6,Natural,Very small
+Manitoba,MB2019NE080,58.274167,-99.978056,2019,225.2,Natural,Very small
+Manitoba,MB2019NE078,57.475278,-100.909722,2019,315.9,Natural,Very small
+Quebec,20191080204,51.955,-63.6117,2019,1009.5,Natural,Very small
+Quebec,20191080194,51.6479,-63.8619,2019,352.1,Natural,Very small
+Quebec,20191080202,51.3194,-65.3778,2019,549.7,Natural,Very small
+Quebec,20191080198,51.2545,-64.8448,2019,1178.7,Natural,Very small
+Ontario,SLK38,53.1334,-90.7152,2019,408.0,Natural,Very small
+Ontario,SLK40,53.2496,-92.1944,2019,226.0,Natural,Very small
+Yukon,2019OC003,66.71986667,-138.2536,2019,3000.0,Natural,Very small
+Yukon,2019MA024,63.6889,-132.3137167,2019,1000.0,Natural,Very small
+Northwest Territories,ZF051-19,65.508333,-117.784333,2019,300.0,Natural,Very small
+Northwest Territories,ZF047-19,63.069333,-110.609666,2019,300.0,Natural,Very small
+Northwest Territories,SS036-19,60.690166,-106.722666,2019,492.0,Natural,Very small
+Ontario,SLK37,53.5194,-91.6116,2019,333.0,Natural,Very small
+British Columbia,2019-K51089,49.0681,-119.6924,2019,403.0,Natural,Very small
+Alberta,CCU003,49.8352,-110.096817,2019,1668.2,Unknown,Very small
+Saskatchewan,19LA-BROWN,56.543367,-105.958883,2019,288.6,Natural,Very small
+Manitoba,MB2019NE072,56.8625,-100.983611,2019,793.2,Natural,Very small
+Yukon,2019DA038,65.97301667,-136.4125833,2019,700.0,Natural,Very small
+Northwest Territories,EV005-19,67.272166,-131.572833,2019,52813.0,Natural,Small
+Northwest Territories,SS032-19,60.765833,-107.311666,2019,1575.0,Natural,Very small
+Northwest Territories,SS031-19,60.340666,-107.5655,2019,883.0,Natural,Very small
+Alberta,2019WB25,59.8225,-113.2941,2019,397.5,Natural,Very small
+Alberta,2019WB26,59.7947,-112.2764,2019,757.3,Natural,Very small
+Alberta,2019WB28,59.8358,-112.1207,2019,338.2,Natural,Very small
+Ontario,SLK33,53.5748,-92.161,2019,988.9000244,Natural,Very small
+Alberta,MWF075,57.88644,-112.957952,2019,249.3,Natural,Very small
+Saskatchewan,19SR-DEERING,58.353067,-102.061833,2019,414.0,Natural,Very small
+Yukon,2019DA037,64.8215,-136.8366667,2019,300.0,Natural,Very small
+Northwest Territories,VQ014-19,67.4625,-125.639833,2019,200.0,Natural,Very small
+Northwest Territories,ZF045-19,64.233333,-114.266666,2019,628.0,Natural,Very small
+Northwest Territories,SS030-19,60.985166,-109.57,2019,456.0,Natural,Very small
+Manitoba,MB2019NE054,59.523611,-100.310833,2019,2411.8,Natural,Very small
+Northwest Territories,FS015-19,62.496666,-122.384166,2019,1354.0,Natural,Very small
+Northwest Territories,SS029-19,60.949166,-109.382333,2019,1949.0,Natural,Very small
+Northwest Territories,SS035-19,61.748,-110.2995,2019,2148.01,Natural,Very small
+Alberta,HWF140,57.701633,-114.865,2019,273.0,Natural,Very small
+Yukon,2019OC001,67.4881,-140.6416333,2019,2454.0,Natural,Very small
+Yukon,2019DA034,65.11136667,-140.0582667,2019,250.0,Natural,Very small
+Yukon,2019MA020,63.49601667,-134.8942833,2019,1350.0,Natural,Very small
+Northwest Territories,ZF031-19,64.258333,-119.125,2019,1500.0,Natural,Very small
+Northwest Territories,ZF057-19,62.917166,-104.8655,2019,750.0,Natural,Very small
+Alberta,2019WB20,59.8929,-113.3107,2019,2572.2,Natural,Very small
+Northwest Territories,2019WB23,60.0241,-113.3945,2019,217.9,Natural,Very small
+Saskatchewan,19SR-MCINTYRE,59.447917,-104.1732,2019,363.2,Natural,Very small
+Saskatchewan,19SR-KOSDAW,58.912717,-103.935267,2019,1924.1,Natural,Very small
+Northwest Territories,FS019-19,63.625833,-123.1255,2019,225.0,Natural,Very small
+Northwest Territories,ZF030-19,63.931666,-115.108333,2019,3834.0,Natural,Very small
+Alberta,MWF063,59.602517,-110.6879,2019,593.9,Natural,Very small
+Alberta,HWF132,58.927483,-115.559167,2019,1027.8,Natural,Very small
+Alberta,HWF133,58.86,-114.793333,2019,12385.0,Natural,Very small
+Saskatchewan,19SR-JERVOIS,59.321417,-104.409933,2019,1168.7,Natural,Very small
+Saskatchewan,19SR-OBST,58.879767,-103.420517,2019,4416.0,Natural,Very small
+Manitoba,MB2019NE051,58.704722,-97.543333,2019,310.6,Natural,Very small
+Northwest Territories,SS026-19,61.25,-107.516666,2019,6054.0,Natural,Very small
+Alberta,2019WB13,59.4308,-113.3323,2019,590.9,Natural,Very small
+Alberta,2019WB14,59.6755,-113.7076,2019,970.5,Natural,Very small
+Alberta,2019WB15,59.6704,-113.6722,2019,1760.7,Natural,Very small
+Northwest Territories,2019WB17,60.1682,-114.8633,2019,1896.1,Natural,Very small
+Alberta,MWF056,59.348817,-111.083183,2019,5028.8,Natural,Very small
+Saskatchewan,19SR-LYTLE,59.418795,-105.395369,2019,1485.4,Natural,Very small
+Saskatchewan,19SR-SHOAL,59.638908,-105.52139,2019,3013.8,Natural,Very small
+Saskatchewan,19SR-PERCH,59.081083,-104.23895,2019,7915.6,Natural,Very small
+Saskatchewan,19SR-OTT,59.417494,-104.793145,2019,3667.6,Natural,Very small
+Saskatchewan,19SR-RAMSDELL,59.875467,-107.468733,2019,776.2,Natural,Very small
+Yukon,2019MA011,64.07966667,-137.4854667,2019,300.0,Natural,Very small
+Yukon,2019MA010,63.9,-135.65,2019,6865.0,Natural,Very small
+Yukon,2019MA008,63.46701667,-134.7275667,2019,1100.0,Natural,Very small
+Northwest Territories,ZF028-19,64.044166,-114.865833,2019,265.0,Natural,Very small
+Northwest Territories,ZF024-19,62.816666,-114.766666,2019,4084.0,Natural,Very small
+Northwest Territories,SS023-19,60.959333,-111.9135,2019,3687.0,Natural,Very small
+Northwest Territories,SS024-19,61.664666,-111.328166,2019,1917.0,Natural,Very small
+Northwest Territories,2019WB11,60.0624,-114.3972,2019,2959.3,Natural,Very small
+Alberta,MWF055,59.397383,-110.960983,2019,1038.5,Natural,Very small
+Alberta,MWF054,59.367667,-110.925533,2019,5004.0,Natural,Very small
+Alberta,MWF052,58.787133,-110.145967,2019,1599.0,Natural,Very small
+Alberta,MWF051,58.647883,-110.31355,2019,36523.2,Natural,Small
+Northwest Territories,VQ004-19,64.202333,-125.836166,2019,3262.0,Natural,Very small
+Northwest Territories,SS021-19,60.000833,-117.613333,2019,3298.0,Natural,Very small
+Saskatchewan,19BN-TRAIL,58.193783,-109.594567,2019,18454.1,Natural,Very small
+Yukon,2019MA007,64.23386667,-134.4362167,2019,1911.0,Natural,Very small
+Northwest Territories,SS019-19,60.404666,-119.479333,2019,565.0,Natural,Very small
+Alberta,CCU002,49.057354,-110.316141,2019,385.0,Unknown,Very small
+Yukon,2019BC006,62.43518333,-138.4181667,2019,1000.0,Natural,Very small
+Yukon,2019BC007,62.51666667,-138.8333333,2019,1000.0,Natural,Very small
+Yukon,2019BC008,62.54791667,-138.88125,2019,200.0,Natural,Very small
+Yukon,2019BC009,62.57116667,-138.7178333,2019,3000.0,Natural,Very small
+Yukon,2019CA009,62.57117,-138.7178,2019,3000.0,Natural,Very small
+Yukon,2019RR006,62.43073333,-131.1664167,2019,5000.0,Natural,Very small
+British Columbia,2019-R90894,59.1299,-131.9359,2019,400.0,Natural,Very small
+British Columbia,2019-R90881,59.4301,-134.3715,2019,1197.0,Natural,Very small
+Yukon,2019MA006,63.46976667,-137.1489833,2019,4399.0,Natural,Very small
+Yukon,2019BC005,62.27325,-140.7348667,2019,3280.0,Natural,Very small
+Yukon,2019BC003,62.51353333,-139.6428667,2019,1925.0,Natural,Very small
+Manitoba,MB2019EA061,52.640278,-95.611389,2019,3243.6,Natural,Very small
+Yukon,2019CA005,62.8775,-137.5806667,2019,2400.0,Natural,Very small
+Yukon,2019DA027,63.17383333,-140.0265,2019,1242.0,Natural,Very small
+Ontario,COC10,50.4598,-79.8697,2019,317.0,Natural,Very small
+Manitoba,MB2019NE037,54.513889,-94.708611,2019,378.2,Human,Very small
+Manitoba,MB2019EA049,51.946111,-95.7575,2019,3166.9,Natural,Very small
+Manitoba,MB2019EA053,51.837778,-96.219722,2019,3022.7,Natural,Very small
+Manitoba,MB2019EA054,51.899444,-95.99,2019,4855.6,Natural,Very small
+Manitoba,MB2019EA051,51.746667,-95.248889,2019,2790.1,Natural,Very small
+Quebec,20191080116,52.5747,-76.5213,2019,408.5,Natural,Very small
+Yukon,2019DA024,63.24556667,-138.8561167,2019,1100.0,Natural,Very small
+Yukon,2019XY009,61.85466667,-134.4447333,2019,8315.0,Natural,Very small
+Ontario,RED49,51.7691,-95.1515,2019,849.5,Natural,Very small
+Manitoba,MB2019NE034,54.069444,-93.839167,2019,1615.6,Natural,Very small
+Yukon,2019DA023,63.025,-138.9633333,2019,6000.0,Natural,Very small
+Ontario,RED44,51.7493,-95.052,2019,8414.099609,Natural,Very small
+Ontario,RED39,51.6457,-94.3116,2019,43308.30078,Natural,Small
+Ontario,RED38,51.7544,-94.1467,2019,1233.599976,Natural,Very small
+Ontario,RED45,51.5278,-95.0679,2019,37770.30078,Natural,Small
+Manitoba,MB2019NW011,52.626944,-99.567778,2019,449.6,Natural,Very small
+Yukon,2019MA005,63.90663333,-134.7082333,2019,20010.0,Natural,Very small
+Alberta,2019WB9,59.9124,-113.5574,2019,18557.0,Natural,Very small
+Northwest Territories,SS017-19,60.517166,-111.6315,2019,597.0,Natural,Very small
+Yukon,2019DA020,63.87903333,-138.8752167,2019,14431.0,Natural,Very small
+Northwest Territories,ZF015-19,63.122333,-111.100166,2019,329.0,Natural,Very small
+Ontario,RED40,51.4267,-93.753,2019,30212.69922,Natural,Small
+Yukon,2019DA017,63.49781667,-139.2538167,2019,4428.0,Natural,Very small
+Yukon,2019RR003,62.53716667,-130.9663333,2019,15000.0,Natural,Very small
+Northwest Territories,SS016-19,60.485833,-106.416666,2019,622.0,Natural,Very small
+Alberta,2019WB8,59.7928,-112.367,2019,663.2,Natural,Very small
+Alberta,2019WB7,58.7327,-112.0187,2019,676.1,Natural,Very small
+Saskatchewan,19LA-KEY,57.509833,-104.987667,2019,1247.0,Natural,Very small
+Alberta,HWF088,58.846433,-117.5365,2019,216.0,Natural,Very small
+Northwest Territories,2019WB6,60.152,-114.4474,2019,339.1,Natural,Very small
+Alberta,LWF123,56.102367,-111.1708,2019,1711.3,Natural,Very small
+Northwest Territories,SS010-19,60.046166,-118.481833,2019,3929.0,Natural,Very small
+Manitoba,MB2019NE020,53.400556,-97.100278,2019,15233.8,Natural,Very small
+Ontario,RED23,52.7452,-93.2155,2019,96535.89844,Natural,Medium
+Ontario,RED25,52.8826,-94.5989,2019,9592.799805,Natural,Very small
+Yukon,2019MA004,64.37683333,-135.1446667,2019,3300.0,Natural,Very small
+Manitoba,MB2019NE019,53.533333,-96.149722,2019,22211.6,Natural,Very small
+Ontario,RED24,52.5163,-94.3683,2019,17615.30078,Natural,Very small
+Yukon,2019DA015,65.43238333,-136.6897,2019,200.0,Natural,Very small
+Quebec,20191080072,49.146,-75.3696,2019,4967.8,Human,Very small
+Manitoba,MB2019EA027,51.514444,-96.516389,2019,237.0,Natural,Very small
+Yukon,2019DA013,64.35603333,-140.2882833,2019,705.0,Human,Very small
+Ontario,RED17,51.4092,-93.0744,2019,6507.600098,Human,Very small
+Ontario,SLK8,51.4806,-90.1822,2019,824.2000122,Human,Very small
+Ontario,TIM2,47.6816,-81.8026,2019,4645.0,Human,Very small
+British Columbia,2019-K20487,50.7564,-120.8799,2019,200.0,Human,Very small
+Alberta,2019WB5,59.8514,-114.7661,2019,3403.7,Natural,Very small
+Alberta,SWF090,56.565313,-114.256105,2019,215.7,Natural,Very small
+Saskatchewan,19LA-CLOSE,57.938103,-104.886575,2019,297.0,Human,Very small
+Alberta,SWF079,56.291167,-113.9738,2019,1001.3,Natural,Very small
+Yukon,2019BC001,62.97505,-140.9845833,2019,8986.0,Natural,Very small
+Ontario,RED14,51.8291,-93.9338,2019,3835.100098,Human,Very small
+British Columbia,2019-R90376,59.5711,-128.6357,2019,1935.0,Natural,Very small
+Alberta,HWF066,59.606867,-117.434033,2019,74331.6,Unknown,Small
+Yukon,2019WL001,60.31503333,-126.26335,2019,14132.0,Natural,Very small
+Northwest Territories,FS005-19,60.668333,-120.252,2019,3477.0,Natural,Very small
+British Columbia,2019-G90363,59.8562,-124.273,2019,5602.0,Natural,Very small
+Alberta,PWF070,57.85195,-118.341233,2019,251.0,Human,Very small
+Alberta,SWF069,56.402597,-114.363598,2019,58578.9,Natural,Small
+Yukon,2019HJ002,60.81766667,-137.6565,2019,604.0,Human,Very small
+Yukon,2019DA011,63.05328333,-139.20955,2019,224.0,Natural,Very small
+Yukon,2019DA010,63.64226667,-137.9234167,2019,111180.0,Natural,Medium
+British Columbia,2019-G90410,58.935,-127.383,2019,509.32,Human,Very small
+British Columbia,2019-G80321,58.2048,-120.4293,2019,650.0,Natural,Very small
+Alberta,SWF050,55.655167,-114.544067,2019,1456.4,Human,Very small
+Alberta,SWF049,55.716367,-114.40635,2019,273045.0,Unknown,Large
+Alberta,2019WB3,59.2879,-112.0985,2019,78752.6,Unknown,Small
+Alberta,2019WB2,59.1603,-113.9357,2019,2624.7,Unknown,Very small
+Manitoba,MB2019CE041,51.931389,-99.631667,2019,296.0,Human,Very small
+British Columbia,2019-K50271,49.0401,-119.6498,2019,507.0,Unknown,Very small
+Manitoba,MB2019CE038,51.6425,-98.584722,2019,799.2,Human,Very small
+Manitoba,MB2019CE039,51.244444,-97.646667,2019,481.5,Human,Very small
+British Columbia,2019-G80260,56.4451,-121.6629,2019,300.0,Human,Very small
+Alberta,HWF042,58.285283,-117.273167,2019,350134.89,Unknown,Large
+British Columbia,2019-G40226,54.0432,-124.7943,2019,236.0,Human,Very small
+Alberta,PWF052,57.087417,-117.928833,2019,55179.0,Unknown,Small
+Alberta,GCU001,56.01755,-119.2198,2019,373.4,Unknown,Very small
+Manitoba,MB2019CE033,51.754722,-98.567222,2019,253.5,Human,Very small
+Saskatchewan,19DN-PAWRPB1,54.90805,-109.960633,2019,250.0,Human,Very small
+Manitoba,MB2019CE018,51.707222,-99.181944,2019,874.8,Human,Very small
+Manitoba,MB2019CE015,51.512222,-98.656667,2019,842.7,Human,Very small
+Manitoba,MB2019CE013,51.813333,-99.415556,2019,527.8,Human,Very small
+Alberta,SWF018,55.26675,-116.736035,2019,299.1,Human,Very small
+Manitoba,MB2019CE010,51.773889,-98.374722,2019,485.5,Human,Very small
+Manitoba,MB2019CE001,51.192222,-98.242222,2019,449.5,Human,Very small
+Alberta,HWF007,58.452,-114.412033,2019,213.0,Human,Very small
+British Columbia,2018-K23206,50.7713,-119.7506,2019,250.0,Unknown,Very small
+Northwest Territories,VQ-057,64.49806714,-121.0102088,2023,1271.3,Unknown,Very small
+Yukon,2022DA027,64.905,-140.8957,2022,300.0,Unknown,Very small
+Yukon,2022OC002,66.2072,-140.8517,2022,266.0,Unknown,Very small
+Yukon,2022DA029,65.7268,-140.6819,2022,693.0,Unknown,Very small
+Yukon,2022BC003,62.4833,-140.6,2022,4000.0,Unknown,Very small
+Yukon,2022DA039,64.5696,-140.1542,2022,218.0,Unknown,Very small
+Yukon,2022OC007,66.9093,-140.1045,2022,500.0,Unknown,Very small
+Yukon,2022DA008,63.3068,-139.5953,2022,1200.0,Unknown,Very small
+Yukon,2022OC006,66.6566,-139.5391,2022,1000.0,Unknown,Very small
+Yukon,2022OC008,67.2576,-139.4992,2022,5000.0,Unknown,Very small
+Yukon,2022OC005,66.5776,-139.0164,2022,2128.0,Unknown,Very small
+Yukon,2022DA031,65.6823,-138.6621,2022,413.0,Unknown,Very small
+Yukon,2022DA017,63.1731,-138.5265,2022,348.0,Unknown,Very small
+Yukon,2022DA006,63.45,-138.295,2022,900.0,Unknown,Very small
+Yukon,2022OC003,68.0961,-138.2851,2022,3226.0,Unknown,Very small
+Yukon,2022DA015,63.8133,-138.2417,2022,710.0,Unknown,Very small
+Yukon,2022OC004,67.8079,-138.0491,2022,2434.0,Unknown,Very small
+Yukon,2022DA026,65.715,-137.9693,2022,1000.0,Unknown,Very small
+Yukon,2022DA009,65.5598,-137.9602,2022,319.0,Unknown,Very small
+Yukon,2022OC010,67.6583,-137.5592,2022,1271.0,Unknown,Very small
+Yukon,2022CA017,62.6997,-137.5041,2022,2571.0,Unknown,Very small
+Yukon,2022CA027,62.8056,-137.3257,2022,893.0,Unknown,Very small
+Yukon,2022OC015,67.2408,-137.208,2022,1800.0,Unknown,Very small
+Yukon,2022MA013,63.5422,-136.9896,2022,3352.0,Unknown,Very small
+Yukon,2022DA033,65.4142,-136.945,2022,1036.0,Unknown,Very small
+Yukon,2022CA013,62.5054,-136.9428,2022,789.0,Unknown,Very small
+Yukon,2022OC011,67.5092,-136.9389,2022,4000.0,Unknown,Very small
+Yukon,2022MA017,63.694,-136.9156,2022,1800.0,Unknown,Very small
+Yukon,2022MA028,63.3619,-136.8798,2022,659.0,Unknown,Very small
+Yukon,2022OC013,67.5092,-136.8009,2022,800.0,Unknown,Very small
+Yukon,2022MA005,63.5916,-136.7573,2022,511.78,Unknown,Very small
+Yukon,2022OC014,67.0612,-136.734,2022,300.0,Unknown,Very small
+Yukon,2022CA034,62.9911,-136.6941,2022,2482.0,Unknown,Very small
+Yukon,2022DA032,65.5438,-136.627,2022,1000.0,Unknown,Very small
+Yukon,2022MA029,63.1387,-136.523,2022,1521.0,Unknown,Very small
+Yukon,2022OC016,66.7282,-136.5122,2022,2500.0,Unknown,Very small
+Yukon,2022MA021,63.2289,-136.4652,2022,4545.0,Unknown,Very small
+Yukon,2022CA016,62.7965,-136.2252,2022,8000.0,Unknown,Very small
+Yukon,2022CA025,61.5732,-136.1088,2022,412.0,Unknown,Very small
+Yukon,2022DA041,65.537,-136.0651,2022,294.0,Unknown,Very small
+Yukon,2022MA020,63.0508,-135.8322,2022,2919.0,Unknown,Very small
+Yukon,2022MA053,65.4425,-135.8033,2022,1000.0,Unknown,Very small
+Yukon,2022MA019,63.4743,-135.7689,2022,538.0,Unknown,Very small
+Yukon,2022CA010,62.33,-135.6537,2022,200.0,Unknown,Very small
+Yukon,2022MA032,64.1254,-135.5197,2022,846.0,Unknown,Very small
+Yukon,2022MA054,65.5286,-135.5052,2022,1000.0,Unknown,Very small
+Yukon,2022MA030,63.9852,-135.4404,2022,450.0,Unknown,Very small
+Yukon,2022MA006,65.2998,-135.363,2022,1000.0,Unknown,Very small
+Yukon,2022MA018,63.7405,-135.331,2022,4417.0,Unknown,Very small
+Yukon,2022MA033,64.2188,-135.2798,2022,1089.0,Unknown,Very small
+Yukon,2022MA056,65.4989,-135.0021,2022,500.0,Unknown,Very small
+Yukon,2022MA047,65.9981,-134.9951,2022,1600.0,Unknown,Very small
+Yukon,2022MA057,65.3656,-134.9739,2022,1000.0,Unknown,Very small
+Yukon,2022MA058,65.2808,-134.6886,2022,400.0,Unknown,Very small
+Yukon,2022MA014,64.1836,-134.6266,2022,1776.0,Unknown,Very small
+Yukon,2022MA059,64.8965,-134.4358,2022,500.0,Unknown,Very small
+Yukon,2022MA035,63.785,-134.4354,2022,700.0,Unknown,Very small
+Yukon,2022MA034,64.1646,-134.3345,2022,1500.0,Unknown,Very small
+Yukon,2022MA051,64.0636,-134.0461,2022,300.0,Unknown,Very small
+Yukon,2022RR022,62.4678,-133.7164,2022,2199.0,Unknown,Very small
+Yukon,2022MA052,63.5225,-133.6643,2022,600.0,Unknown,Very small
+Yukon,2022MA043,63.4585,-133.6113,2022,1800.0,Unknown,Very small
+Yukon,2022MA002,64.3357,-133.5787,2022,400.0,Unknown,Very small
+Yukon,2022MA039,63.4038,-133.4687,2022,11000.0,Unknown,Very small
+Yukon,2022MA007,65.4972,-133.4455,2022,1000.0,Unknown,Very small
+Yukon,2022TE002,60.893,-133.3174,2022,600.0,Unknown,Very small
+Yukon,2022RR025,62.8761,-133.2824,2022,969.0,Unknown,Very small
+Yukon,2022MA037,63.6299,-132.9417,2022,4000.0,Unknown,Very small
+Yukon,2022MA060,65.8851,-132.8072,2022,3500.0,Unknown,Very small
+Yukon,2022RR026,62.8404,-132.7408,2022,1805.0,Unknown,Very small
+Yukon,2022MA048,63.4262,-132.7333,2022,2000.0,Unknown,Very small
+Yukon,2022MA038,63.6198,-132.7326,2022,1000.0,Unknown,Very small
+Yukon,2022MA008,65.7096,-132.5896,2022,1000.0,Unknown,Very small
+Yukon,2022MA050,63.3477,-132.5524,2022,300.0,Unknown,Very small
+Yukon,2022TE005,60.9619,-132.4042,2022,750.0,Unknown,Very small
+Yukon,2022RR038,63.4162,-131.9887,2022,229.87,Unknown,Very small
+Yukon,2022RR019,62.6291,-131.7815,2022,782.0,Unknown,Very small
+Yukon,2022RR028,62.0356,-131.6506,2022,696.0,Unknown,Very small
+Yukon,2022RR002,62.4985,-131.3689,2022,6233.0,Unknown,Very small
+Yukon,2022RR036,63.2492,-131.0708,2022,1459.63,Unknown,Very small
+Yukon,2022RR001,61.7431,-130.9017,2022,1203.0,Unknown,Very small
+Yukon,2022RR035,62.9772,-130.8269,2022,818.0,Unknown,Very small
+Yukon,2022RR039,63.4514,-130.7284,2022,243.24,Unknown,Very small
+Yukon,2022RR013,61.7118,-130.7207,2022,551.0,Unknown,Very small
+Yukon,2022RR033,62.0459,-130.1976,2022,2000.0,Unknown,Very small
+Yukon,2022WL011,60.1196,-130.1307,2022,1200.0,Unknown,Very small
+Yukon,2022WL009,60.7334,-129.8932,2022,440.0,Unknown,Very small
+Yukon,2022RR030,62.48,-129.8892,2022,2000.0,Unknown,Very small
+Yukon,2022WL008,61.388,-129.6583,2022,1500.0,Unknown,Very small
+Yukon,2022WL006,60.8884,-129.4475,2022,1013.0,Unknown,Very small
+Yukon,2022WL003,61.7075,-129.2099,2022,400.0,Unknown,Very small
+Yukon,2022WL016,60.925,-129.1538,2022,2000.0,Unknown,Very small
+Yukon,2022WL026,61.6787,-128.3215,2022,350.0,Unknown,Very small
+Yukon,2022WL015,60.6417,-128.3182,2022,5000.0,Unknown,Very small
+Yukon,2022WL029,60.9762,-127.4659,2022,1700.0,Unknown,Very small
+Yukon,2022WL035,60.283,-126.9915,2022,386.0,Unknown,Very small
+Yukon,2022WL036,60.2966,-126.6851,2022,429.0,Unknown,Very small
+Yukon,2022WL032,60.0494,-126.6793,2022,311.0,Unknown,Very small
+Yukon,2022WL014,60.5226,-126.1744,2022,10893.0,Unknown,Very small
+Yukon,2022WL034,60.8618,-125.8853,2022,1764.0,Unknown,Very small
+Yukon,2022WL033,60.1584,-125.8732,2022,1219.6,Unknown,Very small
+Yukon,2022WL019,60.6109,-125.8629,2022,300.0,Unknown,Very small
+Yukon,2022WL020,60.4005,-125.5761,2022,300.0,Unknown,Very small
+Yukon,2022WL021,60.1816,-125.1221,2022,1274.0,Unknown,Very small
