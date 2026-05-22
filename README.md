@@ -14,7 +14,7 @@ The raw open data used in this project:
 
 |Description|Source|URL|Information|
 |---|---|---|---|
-|Wildfire data of Canada|Government of Canada|[Link Wildfire data](https://cwfis.cfs.nrcan.gc.ca/geoserver/wfs?service=WFS&version=1.1.0&request=GetFeature&outputFormat=csv&typeNames=public:NFDB_point&sortBy=REP_DATE+D)| Used file: National Fire Database - All Years - CSV|
+|Wildfire data of Canada|Government of Canada|[Link Wildfire data](https://cwfis.cfs.nrcan.gc.ca/geoserver/wfs?service=WFS&version=1.1.0&request=GetFeature&outputFormat=csv&typeNames=public:NFDB_point&sortBy=REP_DATE+D)| Used file: National Fire Database - All Years - CSV, Includes wildfires which are bigger than 200 ha|
 |Provinces and Territories of Canada|Government of Canada|[Link Province & Territories data](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000b21a_e.zip)|Boundary file options: Language - English, Type - Cartographic Boundary Files (CBF), Administrative boundaries - Provinces/territories, Format - Shapefile (.shp)|
 
 ### Storage
