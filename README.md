@@ -94,7 +94,7 @@ Exported maps and figures are stored in `outputs/`
 ## Setup Instructions
 ### 1: Install Git LFS
 
-Needed, as my 'data/' folder has large files.
+Needed, as my `data/` folder has large files.
 
 ```bash
 git lfs install
