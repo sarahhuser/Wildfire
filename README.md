@@ -92,12 +92,25 @@ Exported maps and figures are stored in `outputs/`
 |burn_area.csv|Wildfire data including for each year and each province the area of the province (in hectare), the area burnt down by wildfire (in hectare) and the percentage of the area burnt down by wildfires|`data/processed/wildfire_map/`| 
 
 ## Setup Instructions
-### Step 1: Clone repository
+### 1: Install Git LFS
+
+Needed, as my 'data/' folder has large files.
+
+```bash
+git lfs install
+```
+### 2. Clone repository
 ```bash
 git clone https://github.com/sarahhuser/Wildfire.git
 cd Wildfire
 ```
-### Step 2: Create and activate the environment
+
+### 3. download large data files
+```bash
+git lfs pull
+```
+
+### 4. Create and activate the environment
 ```bash
 conda env create -f environment.yml
 conda activate sds210-wildfire
@@ -111,14 +124,13 @@ In the environment.yml the all required packages for this project are installed:
 - folium
 - jenkspy 
 
-### Step 3: Open jupyter lab
+### 5. Open jupyter lab
 ```bash
 jupyter lab
 ```
 
-### Step 4: Raw data storage
-After downloading the raw data, as described in the table of the section data > soures, make sure to store the files in the `data/raw` folder. It is important that for the Provinces and Territories of Canada data the whole zip is stored in the raw folder!
-Furthermore, make sure that your repository looks the same as in the section Project Structure!
+### 6. Verify the project structure and data
+Please make sure that your repository looks the same as in the section *Project Structure* and that all data files were downloaded correctly. If some data files are missing, please download them manually using th elinks provided in the section *Data > Source*.
 
 ## Execution Order
 The notebooks have to be run in the following order:
