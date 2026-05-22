@@ -28,8 +28,7 @@ The original Provinces and Territories of Canada data is provided in EPSG:3347.
 
 The Wildfire data of Canada uses geographic coordinates (latitude and longitude) in EPSG:4326.
 
-To ensure spatial compatibility between datasets
-and enable interactive web mapping with Folium, the Provinces and Territories of Canada data has to be
+To ensure spatial compatibility between datasets and enable interactive web mapping with Folium, the Provinces and Territories of Canada data has to be
 reprojected to EPSG:4326.
 
 ## Project Structure
@@ -76,7 +75,7 @@ This project will generate:
 - Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
 - Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
 
-Exported maps and figures are stored in `outputs/`
+Exported maps and figures are stored under `outputs/`
 
 ### Data outputs
 
@@ -115,7 +114,7 @@ git lfs pull
 conda env create -f environment.yml
 conda activate sds210-wildfire
 ```
-In the environment.yml the all required packages for this project are installed:
+In the environment.yml all required packages for this project are installed:
 - jupyter lab
 - pandas
 - geopandas
@@ -130,7 +129,7 @@ jupyter lab
 ```
 
 ### 6. Verify the project structure and data
-Please make sure that your repository looks the same as in the section *Project Structure* and that all data files were downloaded correctly. If some data files are missing, please download them manually using th elinks provided in the section *Data > Source*.
+Please make sure that your repository looks the same as in the section *Project Structure* and that all data files were downloaded correctly. If some data files are missing, please download them manually using the links provided in the section *Data > Source*.
 
 ## Execution Order
 The notebooks have to be run in the following order:
