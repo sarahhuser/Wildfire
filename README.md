@@ -105,7 +105,7 @@ git clone https://github.com/sarahhuser/Wildfire.git
 cd Wildfire
 ```
 
-### 3. download large data files
+### 3. Download large data files
 ```bash
 git lfs pull
 ```
