@@ -71,7 +71,7 @@ Wildfire/
 ### Visible outputs
 This project will generate:
 - Wildfire frequency histograms for the time period 2014 - 2018 and 2019 - 2023
-- Optional: Static wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
+- Optional (take long to load): Static wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
 - Interactive wildfire maps for the time period 2014 - 2018 and 2019 - 2023 showing where the fires are located and what size they have
 - Interactive choropleth map for the years 2014 and 2023 showing how much percentage of each province and territory was burnt
 
